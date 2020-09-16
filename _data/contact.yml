@@ -1,0 +1,9 @@
+languages:
+- language: "en"
+  email: 'testemail@test.com'
+  phone: ''
+  contact_button_name: "Register"
+  contact_button_link: 'register'
+- language: "fr"
+  contact_button_name: "Enregistrer"
+  contact_button_link: 'enregistrement'

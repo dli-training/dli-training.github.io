@@ -1,0 +1,20 @@
+
+<div id="main-menu-mobile" class="main-menu-mobile">
+{% assign mainmenu = site.data.menus.languages %}
+<ul>
+{% for item in mainmenu %}
+{% if item.language == page.lang %}
+{% for link in item.links %}
+<li class="{% if item.url == page.url %}active{% endif %}">
+  {% if link.url contains "http" %}
+  {% assign url = link.url %}
+  {% else %}
+  {% assign url = link.url | relative_url %}
+  {% endif %}
+  <a href="{{ url }}">{{ link.title }}</a>
+</li>
+{% endfor %}
+{% endif %}
+{% endfor %}
+</ul>
+</div>

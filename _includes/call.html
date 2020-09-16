@@ -1,0 +1,29 @@
+<div class="call">
+
+  <div class="call-box-top">
+    <p> We can put the dates here.</p>
+    <!---
+    {% if site.data.contact.phone %}
+        <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
+    {% endif %}
+    {% if site.data.contact.email %}
+    <div class="call-email"><strong>Email: </strong>
+      <a href="mailto:{{ .site.Data.contact.email }}">
+        {{ site.data.contact.email }}
+      </a>
+    </div>
+    {% endif %}
+
+      --->
+  </div>
+
+    {% if include.show_button %}
+    {% for item in site.data.contact.languages %}
+    {% if item.language == page.lang %}
+      <div class="call-box-bottom">
+        <a href="{{ item.contact_button_link }}" class="button">{{ item. contact_button_name }}</a>
+      </div>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+</div>

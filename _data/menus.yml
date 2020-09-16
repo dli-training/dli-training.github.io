@@ -1,0 +1,51 @@
+# enables english and french navigation for the site
+
+languages:
+- language: "en"
+  name: "DLI National Training"
+  home: "Home"
+  url: /en
+  links:
+    - title: "Home"
+      url: /en
+    - title: "Registration"
+      url: /en/register/
+    - title: "Schedule"
+      url: /en/schedule/
+    - title: "Contact"
+      url: /en/contact/
+    - title: "FR"
+      url: /fr/
+- language: "fr"
+  name: "IDD formation nationale"
+  home: "Accueil"
+  url: /fr
+  links:
+    - title: "Accueil"
+      url: /fr
+    - title: "Enregistrement"
+      url: /fr/enregistrement/
+    - title: "Programme"
+      url: /fr/programme/
+    - title: "Contact"
+      url: /fr/contact/
+    - title: "EN"
+      url: /en/
+
+footer:
+- language: "en"
+  links:
+    - name: "Home"
+      url: "/en"
+      weight: 1
+    - name: "Contact"
+      url: "/en/contact/"
+      weight: 2
+- language: "fr"
+  links:
+    - name: "Accueil"
+      url: "/fr"
+      weight: 1
+    - name: "Contact"
+      url: "/fr/contact/"
+      weight: 2

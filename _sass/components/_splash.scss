@@ -1,0 +1,18 @@
+.splash {
+  position: fixed;
+  text-align: center;
+  font-size: 200%;
+  width: 100%;
+  padding: 150px 30px 30px;
+  @include media-query($small-screen) {
+    background-position: center;
+    padding: 150px;
+    font-size: 200%;
+  }
+  @include media-query($medium-screen) {
+    height: 100vh;
+    position: initial;
+    width: 100%;
+    font-size: 200%;
+  }
+}

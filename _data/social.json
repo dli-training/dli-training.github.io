@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/dli-training",
+    "image": "images/github.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "",
+    "image": "images/twitter.svg"
+  }
+]

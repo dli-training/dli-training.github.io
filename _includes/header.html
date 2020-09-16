@@ -1,0 +1,24 @@
+<div class='header'>
+  <div class="container">
+    <div class="logo">
+      {% for item in site.data.menus.languages %}
+      {% if item.language == page.lang %}
+      <a href="{{item.url }}/"><img height="{{ site.logo.desktop_height }}" alt="{{ item.name }}" src="{{ site.logo.desktop | relative_url }}" /></a>
+    {% endif %}
+    {% endfor %}
+    </div>
+
+    <div class="logo-mobile">
+
+
+      {% for item in site.data.menus.languages %}
+      {% if item.language == page.lang %}
+      <a href="{{item.url }}/"><img alt="{{ item.name }}" src="{{ site.logo.mobile | relative_url }}" /></a>
+    {% endif %}
+    {% endfor %}
+
+    </div>
+    {% include main-menu.html %}
+    {% include hamburger.html %}
+  </div>
+</div>
