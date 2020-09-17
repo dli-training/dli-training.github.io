@@ -25,19 +25,19 @@ seo:
   meta_twitter_creator: ""
 
 collections:
-  services:
+  sessions:
     output: true
-    permalink: /schedule/:path/
+    permalink: /:path
   team:
     output: true
     permalink: /team/:path/
 
 defaults:
   - scope:
-      type: services
+      type: sessions
     values:
-      layout: service
-      bodyClass: page-services-single
+      layout: session
+      bodyClass: page-sessions-single
   - scope:
       path: 'images'
     values:

@@ -1,0 +1,19 @@
+<!-- https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/breadcrumbs.html  -->
+
+<div class="breadcrumbs">
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+
+{% for item in site.data.menus.languages %}
+  {% if item.language == page.lang %}
+<a href="{{ site.url }}/{{ page.lang}}">{{ item.home }}</a>
+{% endif %}
+{% endfor %}
+
+{% for crumb in crumbs offset: 2 %}
+  {% if forloop.last %}
+    / {{ post.name | remove:'.md' | replace:'-',' ' | replace: 'l ', "l'" | replace: 'actualite', "actualité" | replace: "a propos", "à propos"}}
+  {% else %}
+    / <a href="{% assign crumb_limit = forloop.index | plus: 2 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | | replace: 'l ', "l'" | remove:'.html' | replace: 'actualite', "actualité" | replace: "a propos", "à propos"  }}</a>
+  {% endif %}
+{% endfor %}
+</div>

@@ -1,6 +1,6 @@
 ---
 title: Schedule
-layout: services
+layout: sessions
 intro_image: "images/pixeltrue-teaching-1.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false

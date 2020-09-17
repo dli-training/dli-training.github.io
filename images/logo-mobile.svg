@@ -5,14 +5,24 @@
 <style type="text/css">
 	.st0{fill:none;stroke:#4B28CB;stroke-width:5;stroke-miterlimit:10;}
 	.st1{fill:none;}
-	.st2{fill:#E5261F;}
-	.st3{font-family:'Oswald-Light';}
-	.st4{font-size:31.8731px;}
-	.st5{fill:none;stroke:#E5261F;stroke-width:3;stroke-miterlimit:10;}
+	.st2{enable-background:new    ;}
+	.st3{fill:#E5261F;stroke:#E5261F;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#E5261F;stroke-width:3;stroke-miterlimit:10;}
 </style>
 <rect id="Rectangle-6" x="0.5" y="0.1" class="st0" width="76.5" height="76.5"/>
 <rect x="5" y="14.6" class="st1" width="68.1" height="62.8"/>
-<text transform="matrix(1 0 0 1 18.2549 33.312)" class="st2 st3 st4">DLI</text>
-<text transform="matrix(1 0 0 1 19.1562 70.2632)" class="st2 st3 st4">IDD</text>
-<line class="st5" x1="10.1" y1="38.4" x2="64.5" y2="38.4"/>
+<g class="st2">
+	<path class="st3" d="M20.5,7.5h5.6c5.4,0,7,3,7,7.6v10.3c0,4.8-1.6,8-6.8,8h-5.8V7.5z M26.2,31.5c4.1,0,4.5-2.8,4.5-6.5v-9.6
+		c0-3.9-0.7-6-4.6-6h-3.2v22.1H26.2z"/>
+	<path class="st3" d="M37.1,7.5h2.4v24h7.3v1.8h-9.8V7.5z"/>
+	<path class="st3" d="M49.4,7.5h2.4v25.8h-2.4V7.5z"/>
+</g>
+<g class="st2">
+	<path class="st3" d="M21.5,44.4h2.4v25.8h-2.4V44.4z"/>
+	<path class="st3" d="M28.5,44.4h5.6c5.4,0,7,3,7,7.6v10.3c0,4.8-1.6,8-6.8,8h-5.8V44.4z M34.2,68.4c4.1,0,4.5-2.8,4.5-6.5v-9.6
+		c0-3.9-0.7-6-4.6-6h-3.2v22.1H34.2z"/>
+	<path class="st3" d="M45.1,44.4h5.6c5.4,0,7,3,7,7.6v10.3c0,4.8-1.6,8-6.8,8h-5.8V44.4z M50.8,68.4c4.1,0,4.5-2.8,4.5-6.5v-9.6
+		c0-3.9-0.7-6-4.6-6h-3.2v22.1H50.8z"/>
+</g>
+<line class="st4" x1="10.1" y1="38.4" x2="64.5" y2="38.4"/>
 </svg>
