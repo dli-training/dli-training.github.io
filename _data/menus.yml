@@ -5,6 +5,8 @@ languages:
   name: "DLI National Training"
   home: "Home"
   url: /en
+  schedule: "Back to schedule"
+  s-url: /schedule/
   links:
     - title: "Home"
       url: /en
@@ -20,6 +22,8 @@ languages:
   name: "IDD formation nationale"
   home: "Accueil"
   url: /fr
+  schedule: "Retour au schedule"
+  s-url: /programme/
   links:
     - title: "Accueil"
       url: /fr
@@ -41,6 +45,8 @@ footer:
     - name: "Contact"
       url: "/en/contact/"
       weight: 2
+    - name: "Français"
+      url: /fr/
 - language: "fr"
   links:
     - name: "Accueil"
@@ -49,3 +55,5 @@ footer:
     - name: "Contact"
       url: "/fr/contact/"
       weight: 2
+    - name: "English"
+      url: /en/

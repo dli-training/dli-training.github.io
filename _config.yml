@@ -27,7 +27,7 @@ seo:
 collections:
   sessions:
     output: true
-    permalink: /:path
+    permalink: /:path/
   team:
     output: true
     permalink: /team/:path/
