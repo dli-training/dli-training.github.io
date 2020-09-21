@@ -12,9 +12,3 @@ ref: home
 # {{ page.title }}
 
 This is some text in English with the date and explaining the synchronous / asynchronous nature of the training.
-
-This is filler text.
-
-This is filler text.
-
-This is filler text.

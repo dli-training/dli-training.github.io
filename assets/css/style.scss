@@ -17,6 +17,7 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
+
 $font-family-base: 'Open Sans', sans-serif, -apple-system;
 $font-family-heading: 'Oswald', sans-serif, -apple-system;
 
@@ -60,13 +61,3 @@ $sub-footer-text-color: $white;
 @import 'pages/home';
 @import 'pages/team/team-summary';
 @import 'pages/sessions/page-sessions-single';
-
-body {
-  font-size: 16px;
-  line-height: 1.2;
-  font-family: $font-family-base;
-  @include media-breakpoint-up(md) {
-    font-size: 16px;
-    line-height: 1.3;
-  }
-}

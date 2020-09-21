@@ -2,17 +2,17 @@
 
 <div class=lang>
 
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% assign posts=site.sessions | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
 
-    <a href="{{ post.url }}" class="{{ post.lang }}"> &nbsp; {{ post.lang }} &nbsp; </a>
+    <a href="{{ post.url }}" class="{{ post.lang }}"> &nbsp; {{ post.lang | upcase }} &nbsp; </a>
 
 {% endfor %}
 
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
+{% assign posts=site.team | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
 
-    <a href="{{ page.url }}" class="{{ page.lang }}"> &nbsp; {{ page.lang }} &nbsp;</a>
+    <a href="{{ post.url }}" class="{{ post.lang }}"> &nbsp; {{ post.lang | upcase }} &nbsp;</a>
 
 {% endfor %}
 </div>

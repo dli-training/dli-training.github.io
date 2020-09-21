@@ -1,0 +1,11 @@
+
+
+<div class="team">
+
+{% for item in site.data.menus.languages %}
+  {% if item.language == page.lang %}
+{{item.presenter}}<a href="{{ site.url }}/team/{{ page.presenter | downcase | replace:' ','-'}}">{{ page.presenter }}</a>
+{% endif %}
+{% endfor %}
+
+</div>

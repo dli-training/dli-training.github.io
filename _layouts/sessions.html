@@ -32,7 +32,8 @@ bodyClass: page-sessions-list
           <h2 class="session-title">
             <a href="{{ session.url }}">{{ session.title }}</a>
           </h2>
-          <p>{{ session.content | markdownify | strip_html | truncate: 100 }}</p>
+          <code>{{ session.presenter }}</code>
+          <p>{{ session.content | markdownify | strip_html | truncate: 200 }}</p>
         </div>
       </div>
     </div>
