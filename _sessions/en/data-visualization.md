@@ -6,7 +6,7 @@ weight: 1
 lang: en
 category: workshop
 presenter: Kelly Schultz
-ref: dataviz1
+ref: data-visualizaton
 ---
 This self-paced online course will use a data visualization design workflow model to introduce participants to best practices and guidelines for designing effective visualizations and evaluating visualizations.
 

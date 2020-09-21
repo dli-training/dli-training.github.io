@@ -6,7 +6,7 @@ weight: 2
 lang: en
 category: workshop
 presenter: Kelly Schultz
-ref: dataviz2
+ref: data-visualization1
 ---
 This self-paced online course will introduce participants to a common data visualization tool, Tableau Desktop. Participants will learn to create a variety of visualizations such as a line graph of profits over time by product category, a box plot of iris petal widths by species, and a stacked bar graph of word frequencies in Romeo and Juliet.
 

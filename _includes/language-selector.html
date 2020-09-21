@@ -1,6 +1,6 @@
 
 
-<div class=lang>
+
 
 {% assign posts=site.sessions | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
@@ -15,4 +15,3 @@
     <a href="{{ post.url }}" class="{{ post.lang }}"> &nbsp; {{ post.lang | upcase }} &nbsp;</a>
 
 {% endfor %}
-</div>

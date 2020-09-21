@@ -6,7 +6,7 @@ weight: 1
 lang: fr
 category: workshop
 presenter: Kelly Schultz
-ref: dataviz1
+ref: data-visualization
 ---
 
 Ce cours en ligne autodidacte utilisera un modèle de flux de travail pour la conception de visualisations de données afin de présenter aux participants les meilleures pratiques et les directives pour concevoir des visualisations efficaces et évaluer les visualisations.

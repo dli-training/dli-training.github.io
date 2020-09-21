@@ -30,7 +30,7 @@ collections:
     permalink: /:path/
   team:
     output: true
-    permalink: /team/:path/
+    permalink: /:path/
 
 defaults:
   - scope:

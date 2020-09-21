@@ -16,5 +16,14 @@
 {% endfor %}
 {% endif %}
 {% endfor %}
-</ul>
+
+<li>
+  {% assign langmenu = site.data.menus.languages | sort: 'weight'  %}
+  {% for item in langmenu %}
+  {% if item.opposite != page.lang %}
+    <a href="{{ site.url }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
+    {% endif %}
+  </li>
+  {% endfor %}
+  </ul>
 </div>

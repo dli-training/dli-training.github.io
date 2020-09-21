@@ -2,11 +2,12 @@
 
 languages:
 - language: "en"
+  opposite: "fr"
   name: "DLI National Training"
   home: "Home"
   url: /en
   schedule: "Back to schedule"
-  s-url: /schedule/
+  s-url: /program/
   presenter: "Session presented by: "
   links:
     - title: "Home"
@@ -14,29 +15,27 @@ languages:
     - title: "Registration"
       url: /en/register/
     - title: "Schedule"
-      url: /en/schedule/
+      url: /en/program/
     - title: "Contact"
       url: /en/contact/
-    - title: "FR"
-      url: /fr/
 - language: "fr"
+  opposite: "en"
   name: "IDD formation nationale"
   home: "Accueil"
   url: /fr
   schedule: "Retour au schedule"
-  s-url: /programme/
+  s-url: /program/
   presenter: "Session présentée par : "
   links:
     - title: "Accueil"
       url: /fr
     - title: "Enregistrement"
-      url: /fr/enregistrement/
+      url: /fr/register/
     - title: "Programme"
-      url: /fr/programme/
+      url: /fr/program/
     - title: "Contact"
       url: /fr/contact/
-    - title: "EN"
-      url: /en/
+
 
 footer:
 - language: "en"
@@ -47,8 +46,6 @@ footer:
     - name: "Contact"
       url: "/en/contact/"
       weight: 2
-    - name: "Français"
-      url: /fr/
 - language: "fr"
   links:
     - name: "Accueil"
@@ -56,6 +53,3 @@ footer:
       weight: 1
     - name: "Contact"
       url: "/fr/contact/"
-      weight: 2
-    - name: "English"
-      url: /en/

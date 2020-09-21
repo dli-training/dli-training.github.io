@@ -1,6 +1,7 @@
 
   <div id="main-menu" class="main-menu">
   {% assign mainmenu = site.data.menus.languages %}
+  {% assign posts = site.sessions | where:"ref", page.ref %}
   <ul>
   {% for item in mainmenu %}
   {% if item.language == page.lang %}
@@ -12,9 +13,19 @@
     {% assign url = link.url | relative_url %}
     {% endif %}
     <a href="{{ url }}">{{ link.title }}</a>
-  </li>
   {% endfor %}
   {% endif %}
+  {% endfor %}
+</li>
+
+<li>
+  {% assign langmenu = site.data.menus.languages | sort: 'weight'  %}
+  {% for item in langmenu %}
+  {% if item.opposite != page.lang %}
+    <a href="{{ site.url }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
+    {% endif %}
+
+  </li>
   {% endfor %}
   </ul>
   </div>
