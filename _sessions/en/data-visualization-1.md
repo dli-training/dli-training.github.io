@@ -1,6 +1,6 @@
 ---
 title: Introduction to Data Visualization - Part 2, Practice with Tableau
-date: 2020-09-21
+date: 2020-09-22
 featured: true
 weight: 2
 lang: en

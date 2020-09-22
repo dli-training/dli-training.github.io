@@ -1,6 +1,6 @@
 ---
 title: Introduction à la visualisation des données - Partie 1, Théorie et critique
-date: 2018-11-21T15:14:39+10:00
+date: 2020-09-21
 featured: true
 weight: 1
 lang: fr

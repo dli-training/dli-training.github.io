@@ -6,5 +6,10 @@ lang: en
 ref: contact
 ---
 
-This is our contact information and names of the people on the committee.
-Maybe we could also put session presenter contacts here.
+Questions? [Email us!](mailto:{{ site.email }})
+
+Find your DLI contact [here](https://www.statcan.gc.ca/eng/dli/contact).
+
+## Professional Development Committee Members
+
+[Sandra Sawchuk]({{ baseurl}}/{{ 'en/sandra-sawchuk' }})

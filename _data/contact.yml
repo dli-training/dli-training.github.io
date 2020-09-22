@@ -1,9 +1,9 @@
 languages:
 - language: "en"
-  email: 'testemail@test.com'
-  phone: ''
+  email: 'statcan.maddli-damidd.statcan@canada.ca.'
   contact_button_name: "Register"
   contact_button_link: 'register'
 - language: "fr"
+  email: 'statcan.maddli-damidd.statcan@canada.ca.'
   contact_button_name: "Enregistrer"
-  contact_button_link: 'enregistrement'
+  contact_button_link: 'register'

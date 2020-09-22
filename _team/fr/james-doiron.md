@@ -3,7 +3,6 @@ layout: team
 title: James Doiron
 date: 2020-09-21
 image: /images/james-doiron.jpg
-intro_image_hide_on_mobile: true
 jobtitle: Research Data Management Services Coordinator
 linkedinurl: ""
 lang: fr

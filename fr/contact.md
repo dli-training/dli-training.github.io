@@ -6,5 +6,8 @@ lang: fr
 ref: contact
 ---
 
-This is our French contact information and names of the people on the committee.
-Maybe we could also put session presenter contacts here.
+Questions ? [Envoyez-nous un courriel !](mailto:{{ site.email }})
+
+Trouvez votre contact IDD [ici](https://www.statcan.gc.ca/fra/idd/contact).
+
+## Comité du développement professionnel membres
