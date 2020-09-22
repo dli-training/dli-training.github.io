@@ -10,12 +10,15 @@ layout: default
     <p></p>
   </div>
 
-  <div class="row justify-content-start">
-    <div class="col-12 col-md-8 pt-2">
-      <div class="session session-single">
+
+    <div class="row justify-content-start">
+    <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         <h1 class="title">{{page.title}}</h1>
         <div class="content">{{content}}</div>
-      </div>
     </div>
+    <div class="col-6 pl-8 pt-10 mt-2 order-2 order-md-2 position-relative">
+      <img alt="picture of {{ page.title }}" class="intro-image{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.image | relURL }}" />
+
   </div>
+</div>
 </div>
