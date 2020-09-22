@@ -11,12 +11,20 @@ layout: default
   </div>
 
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8 pt-2">
+    <div class="col-12 col-md-8 pt-2 order-1 order-md-1">
       <div class="session session-single">
         <h1 class="title">{{page.title}}</h1>
         <div class="content">{{content}}</div>
-          {% include team-selector.html %}
+
       </div>
     </div>
+
+  <div class="col-md order-2 order-md-2 pt-4 position-relative">
+
+{% include sidebar.html %}
+
+  </div>
+
+
   </div>
 </div>

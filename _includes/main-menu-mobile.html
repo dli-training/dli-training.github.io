@@ -1,29 +1,30 @@
 
 <div id="main-menu-mobile" class="main-menu-mobile">
-{% assign mainmenu = site.data.menus.languages %}
-<ul>
-{% for item in mainmenu %}
-{% if item.language == page.lang %}
-{% for link in item.links %}
-<li class="{% if item.url == page.url %}active{% endif %}">
-  {% if link.url contains "http" %}
-  {% assign url = link.url %}
-  {% else %}
-  {% assign url = link.url | relative_url %}
+  {% assign mainmenu = site.data.menus.languages %}
+  {% assign posts = site.sessions | where:"ref", page.ref %}
+  <ul>
+  {% for item in mainmenu %}
+  {% if item.language == page.lang %}
+  {% for link in item.links %}
+  <li class="{% if item.url == page.url %}active{% endif %}">
+    {% if link.url contains "http" %}
+    {% assign url = link.url %}
+    {% else %}
+    {% assign url = link.url | relative_url %}
+    {% endif %}
+    <a href="{{ url }}">{{ link.title }}</a>
+  {% endfor %}
   {% endif %}
-  <a href="{{ url }}">{{ link.title }}</a>
+  {% endfor %}
 </li>
-{% endfor %}
-{% endif %}
+
+{% for item in mainmenu %}
+  {% if item.language == page.lang %}
+  <li>
+    <a href="{{ site.url }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
+  </li>
+  {% endif %}
 {% endfor %}
 
-<li>
-  {% assign langmenu = site.data.menus.languages | sort: 'weight'  %}
-  {% for item in langmenu %}
-  {% if item.opposite != page.lang %}
-    <a href="{{ site.url }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
-    {% endif %}
-  </li>
-  {% endfor %}
-  </ul>
+</ul>
 </div>

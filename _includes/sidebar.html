@@ -1,0 +1,34 @@
+<div class="content">
+<blockquote>
+{% assign sidebar = site.data.menus.languages %}
+{% for item in sidebar %}
+  {% if item.language == page.lang %}
+<p>
+{% if page.presenter %}
+  {{item.presenter}}<a href="{{ site.url }}/{{ page.lang}}/{{ page.presenter | downcase | replace:' ','-'}}">{{ page.presenter }}</a>
+{% endif %}
+</p>
+<p>
+{% if page.length %}
+  {{item.time-commit}}{{ page.length }}
+{% endif %}
+</p>
+<p>
+{% if page.time %}
+  {{item.mode}}{{ page.time }}
+{% endif %}
+</p>
+<p>
+{% if page.category %}
+  {{item.type}}{{ page.category }}
+{% endif %}
+</p>
+<p>
+{% if page.session-link %}
+  <a href="{{ page.session-link }}">{{item.youtube}}</a>
+{% endif %}
+</p>
+{% endif %}
+{% endfor %}
+</blockquote>
+</div>
