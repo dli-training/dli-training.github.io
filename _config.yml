@@ -3,6 +3,7 @@ exclude: ['README.md']
 permalink: pretty
 title_en: 'DLI National Training'
 title_fr: 'IDD formation nationale'
+email: 'statcan.maddli-damidd.statcan@canada.ca.'
 
 google_analytics_id: null
 homepage:
