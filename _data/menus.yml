@@ -8,7 +8,11 @@ languages:
   url: /en
   schedule: "Back to schedule"
   s-url: /program/
-  presenter: "Session presented by: "
+  presenter: "Presented by: "
+  time-commit: "Time committment: "
+  mode: "Delivery mode: "
+  type: "Session type: "
+  youtube: "Link to recorded session"
   links:
     - title: "Home"
       url: /en
@@ -26,6 +30,10 @@ languages:
   schedule: "Retour au schedule"
   s-url: /program/
   presenter: "Session présentée par : "
+  time-commit: "Durée de l'engagement : "
+  mode: "Mode d'exécution : "
+  type: "Type de session : "
+  youtube: "Lien vers la session enregistrée"
   links:
     - title: "Accueil"
       url: /fr
