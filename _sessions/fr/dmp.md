@@ -2,7 +2,7 @@
 title: Soutenez votre recherche grâce à la planification de la gestion des données !
 date: 2020-09-21
 featured: true
-weight: 3
+weight: 2
 lang: fr
 ref: dmp
 presenter: James Doiron

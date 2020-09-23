@@ -2,7 +2,7 @@
 title: Introduction à la visualisation de données - Partie 2, Pratique avec Tableau
 date: 2020-09-22
 featured: true
-weight: 2
+weight: 3
 lang: fr
 ref: data-visualization-1
 presenter: Kelly Schultz

@@ -2,7 +2,7 @@
 title: Introduction to Data Visualization - Part 2, Practice with Tableau
 date: 2020-09-22
 featured: true
-weight: 2
+weight: 3
 lang: en
 ref: data-visualization-1
 presenter: Kelly Schultz

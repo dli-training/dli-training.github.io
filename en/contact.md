@@ -15,28 +15,28 @@ Find your local DLI contact [here](https://www.statcan.gc.ca/eng/dli/contact).
 
 ## Professional Development Committee Members
 
-#### Statistics Canada
+### Statistics Canada
 
 Arden Kayzak : <arden.kayzak@canada.ca>  
 Jacqueline Tebbens : <jacqueline.tebbens@canada.ca>
 
-#### Committee Chair
+### Committee Chair
 
 Alexandra Cooper : <coopera@queensu.ca>
 
-#### Atlantic Region
+### Atlantic Region
 
 Sandra Sawchuk : <sandra.sawchuk@msvu.ca>  
 Margaret Vail : <mvail@stfx.ca>  
 
-#### Quebec
+### Québec
 
-#### Ontario
+### Ontario
 
 Chantal Ripp : <chantal.ripp@uottawa.ca>  
 Deena Yanofsky : <deena.yanofsky@utoronto.ca>  
 
-#### Western Region
+### Western Region
 
 Amy Paterson : <apaterson@tru.ca>  
 Tara Stieglitz : <stieglitzt@macewan.ca>  
