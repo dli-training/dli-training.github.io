@@ -17,26 +17,26 @@ Find your local DLI contact [here](https://www.statcan.gc.ca/eng/dli/contact).
 
 #### Statistics Canada
 
->Arden Kayzak <arden.kayzak@canada.ca>  
->Jacqueline Tebbens <jacqueline.tebbens@canada.ca>
+Arden Kayzak : <arden.kayzak@canada.ca>  
+Jacqueline Tebbens : <jacqueline.tebbens@canada.ca>
 
 #### Committee Chair
 
->Alexandra Cooper <coopera@queensu.ca>
+Alexandra Cooper : <coopera@queensu.ca>
 
 #### Atlantic Region
 
->Sandra Sawchuk : <sandra.sawchuk@msvu.ca>  
->Margaret Vail : <mvail@stfx.ca>  
+Sandra Sawchuk : <sandra.sawchuk@msvu.ca>  
+Margaret Vail : <mvail@stfx.ca>  
 
 #### Quebec
 
 #### Ontario
 
->Chantal Ripp : <chantal.ripp@uottawa.ca>  
->Deena Yanofsky : <deena.yanofsky@utoronto.ca>  
+Chantal Ripp : <chantal.ripp@uottawa.ca>  
+Deena Yanofsky : <deena.yanofsky@utoronto.ca>  
 
 #### Western Region
 
->Amy Paterson : <apaterson@tru.ca>  
->Tara Stieglitz : <stieglitzt@macewan.ca>  
+Amy Paterson : <apaterson@tru.ca>  
+Tara Stieglitz : <stieglitzt@macewan.ca>  
