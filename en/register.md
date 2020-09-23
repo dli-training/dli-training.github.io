@@ -1,7 +1,8 @@
 ---
 title: Registration
 date:
-layout: page
+layout: contact
+bodyClass: page-contact
 lang: en
 ref: register
 ---

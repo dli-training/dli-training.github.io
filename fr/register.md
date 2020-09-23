@@ -1,7 +1,8 @@
 ---
 title: Enregistrement
 date:
-layout: page
+layout: contact
+bodyClass: page-contact
 lang: fr
 ref: register
 ---
