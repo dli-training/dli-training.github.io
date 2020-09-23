@@ -2,6 +2,9 @@
 title: Contact
 layout: contact
 bodyClass: page-contact
+intro_image: "images/location-color.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 lang: fr
 ref: contact
 ---
