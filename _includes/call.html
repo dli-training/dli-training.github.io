@@ -1,7 +1,11 @@
 <div class="call">
-
   <div class="call-box-top">
-    <p> We can put the dates here.</p>
+    {% for item in site.data.contact.languages %}
+    {% if item.language == page.lang %}
+    <div class="call-phone">{{ item.dates }}</div>
+    <div class="call-phone">{{ item.times }}</div>
+    {% endif %}
+    {% endfor %}
     <!---
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>

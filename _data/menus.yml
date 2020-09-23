@@ -9,7 +9,7 @@ languages:
   schedule: "Back to schedule"
   s-url: /program/
   presenter: "Presented by: "
-  time-commit: "Time committment: "
+  time-commit: "Time commitment: "
   mode: "Delivery mode: "
   type: "Session type: "
   youtube: "Link to recorded session"
