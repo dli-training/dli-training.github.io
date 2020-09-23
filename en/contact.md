@@ -13,7 +13,7 @@ Questions? [Email us!](mailto:{{ site.email }})
 
 Find your local DLI contact [here](https://www.statcan.gc.ca/eng/dli/contact).
 
-### Professional Development Committee Members
+## Professional Development Committee Members
 
 #### Statistics Canada
 
