@@ -8,9 +8,10 @@ languages:
   url: /en
   schedule: "Back to schedule"
   s-url: /program/
+  workshop: "Back to workshops"
+  w-url: /workshop/
   presenter: "Presented by: "
-  time-commit: "Time commitment: "
-  mode: "Delivery mode: "
+  time-commit: "Length: "
   type: "Session type: "
   youtube: "Link to recorded session"
   links:
@@ -20,6 +21,8 @@ languages:
       url: /en/register/
     - title: "Schedule"
       url: /en/program/
+    - title: "Workshops"
+      url: /en/workshop/
     - title: "Contact"
       url: /en/contact/
 - language: "fr"
@@ -29,9 +32,10 @@ languages:
   url: /fr
   schedule: "Retour au schedule"
   s-url: /program/
+  workshop: "Retour au séminaire"
+  w-url: /workshop/
   presenter: "Session présentée par : "
-  time-commit: "Durée de l'engagement : "
-  mode: "Mode d'exécution : "
+  time-commit: "Durée : "
   type: "Type de session : "
   youtube: "Lien vers la session enregistrée"
   links:
@@ -41,6 +45,8 @@ languages:
       url: /fr/register/
     - title: "Programme"
       url: /fr/program/
+    - title: "Séminaire"
+      url: /fr/workshop/
     - title: "Contact"
       url: /fr/contact/
 

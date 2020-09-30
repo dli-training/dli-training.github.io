@@ -2,11 +2,20 @@
 
 <div class="breadcrumb">
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-
 {% for item in site.data.menus.languages %}
-  {% if item.language == page.lang %}
+{% if item.language == page.lang %}
+{% if page.categories contains "presentation" %}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
+{% endif %}
 {% endif %}
 {% endfor %}
 
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% for item in site.data.menus.languages %}
+{% if item.language == page.lang %}
+{% if page.categories contains "workshop" %}
+<a href="{{ site.url }}/{{ page.lang }}{{ item.w-url }}">{{ item.workshop }}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
 </div>

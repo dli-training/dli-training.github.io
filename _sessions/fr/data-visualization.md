@@ -5,10 +5,10 @@ featured: true
 weight: 1
 lang: fr
 ref: data-visualization
-category: Atelier de travail
+category: workshop
 presenter: Kelly Schultz
 length: 1 heure 15 minutes. Il y a une heure 30 minutes d'activités supplémentaires.
-time: Asynchrone
+time: asynchronous
 session-link:
 ---
 

@@ -1,14 +1,12 @@
 ---
 title: Introduction to Data Visualization - Part 2, Practice with Tableau
 date: 2020-09-22
-featured: true
-weight: 3
 lang: en
 ref: data-visualization-1
 presenter: Kelly Schultz
 length: 2 hours, with an additional ~1 hour of activities.
-time: Asynchronous
-category: Workshop
+time: asynchronous
+category: workshop
 session-link:
 ---
 This self-paced online course will introduce participants to a common data visualization tool, Tableau Desktop. Participants will learn to create a variety of visualizations such as a line graph of profits over time by product category, a box plot of iris petal widths by species, and a stacked bar graph of word frequencies in Romeo and Juliet.

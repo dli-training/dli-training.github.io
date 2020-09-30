@@ -1,14 +1,14 @@
 ---
 title: Support your research with data management planning!
-date: 2020-09-23
+date: 2020-11-25T13:00:00-0500
 featured: true
 weight: 2
 lang: en
 ref: dmp
 presenter: James Doiron
-length:
-time: Synchronous
-category: Workshop
+length: 75 minutes
+time: synchronous
+category: presentation
 session-link: https://youtu.be/dQw4w9WgXcQ
 ---
 

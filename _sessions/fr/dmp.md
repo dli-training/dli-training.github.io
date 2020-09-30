@@ -1,14 +1,14 @@
 ---
 title: Soutenez votre recherche grâce à la planification de la gestion des données !
-date: 2020-09-21
+date: 2020-11-25T13:00:00-0500
 featured: true
 weight: 2
 lang: fr
 ref: dmp
 presenter: James Doiron
-category: Atelier de travail
-length:
-time: Synchrone
+category: presentation
+length: 75 minutes
+time: synchronous
 session-link:
 ---
 
