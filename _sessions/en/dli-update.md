@@ -1,8 +1,6 @@
 ---
 title: Committee Update - DLI/MAD, EAC, PDC
 date: 2020-11-23T13:00:00-0500
-featured: true
-weight: 1
 lang: en
 ref: dli-update
 presenter: [Alex Cooper, Arden Kayzak, Peter Webster]

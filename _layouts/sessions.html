@@ -34,7 +34,7 @@ bodyClass: page-sessions-list
             <a href="{{ session.url }}">{{ session.title }}</a>
           </h2>
           <code>{{ session.date | date: "%B %d, %Y at %H:%M" }}</code>
-          <p>{{ session.content | markdownify | strip_html | truncate: 200 }}</p>
+          <p>{{ session.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
     </div>
