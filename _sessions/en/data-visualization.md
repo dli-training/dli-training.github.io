@@ -1,6 +1,7 @@
 ---
 title: Introduction to Data Visualization - Part 1, Theory and Critique
 date: 2020-09-21
+weight: 1
 lang: en
 ref: data-visualization
 presenter: Kelly Schultz
