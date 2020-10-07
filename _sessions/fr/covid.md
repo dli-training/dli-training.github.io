@@ -1,7 +1,7 @@
 ---
 title: Les données COVID-19
 date: 2020-11-24
-featured: true
+hour: 14:30-15:00 EST
 weight: 3
 lang: fr
 ref: covid

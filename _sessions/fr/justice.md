@@ -1,7 +1,7 @@
 ---
-title: Canadian Centre for Justice and Community Safety Statistics (CCJCSS)
+title: Le Centre canadien de la statistique juridique
 date: 2020-11-27
-hour: 2:30-3:30
+hour: 14:30-15:30 EST
 weight: 9
 lang: fr
 ref: justice

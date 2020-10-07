@@ -1,7 +1,7 @@
 ---
 title: En route vers le recensement de 2021
 date: 2020-11-24
-featured: true
+hour: 13:00-14:00 EST
 weight: 2
 lang: fr
 ref: census-2021

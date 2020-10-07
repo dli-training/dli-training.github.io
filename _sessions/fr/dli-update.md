@@ -1,6 +1,7 @@
 ---
 title: Committee Update - DLI/MAD, EAC, PDC
 date: 2020-11-23
+hour: 13:00-14:30 EST
 weight: 1
 lang: fr
 ref: dli-update

@@ -1,12 +1,12 @@
 ---
-title: Groupe d'experts - Accès aux données, “PUMF that saved the day”
+title: Groupe d'experts - De ouvert à restreint - Continuum d'accès aux données de Statistique Canada
 date: 2020-11-26
-hour: 1:00-2:30 EST
+hour: 13:00-14:30 EST
 weight: 6
 lang: fr
 ref: pumf
 presenter: []
-length: 60 minutes
+length: 90 minutes
 time: synchronous
 category: presentation
 session-link:

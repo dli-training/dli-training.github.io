@@ -1,7 +1,7 @@
 ---
 title: Approches de l'apprentissage en ligne
 date: 2020-11-25
-hour: 1:00-2:00 EST
+hour: 13:00-14:00 EST
 weight: 4
 lang: fr
 ref: online-learning

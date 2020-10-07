@@ -1,7 +1,7 @@
 ---
 title: Lightning Talks
 date: 2020-11-26
-hour: 3:00-4:00
+hour: 15:00-16:00 EST
 weight: 7
 lang: fr
 ref: lightning
