@@ -29,6 +29,7 @@ collections:
   sessions:
     output: true
     permalink: /:path/
+    sort_by: weight
   team:
     output: true
     permalink: /:path/
