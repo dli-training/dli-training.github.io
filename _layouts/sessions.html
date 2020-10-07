@@ -19,29 +19,33 @@ bodyClass: page-sessions-list
   </div>
 
 <div class="container pt-1 pb-3">
-  <div class="row">
+    {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | group_by_exp:"session", "session.date" | sort:"weight" %}
+    {% for group in posts_by_day %}
+<div class= session session-summary">
+      <div>
+        <h1>{{ group.name | date: "%A, %B %e, %Y" }}</h1>
+      </div>
 
-    {% assign sessionmenu = site.data.menus.languages %}
-    {% for item in sessionmenu %}
     {% for session in site.sessions %}
-    {% if item.language == page.lang %}
     {% if session.lang == page.lang %}
-    {% if session.categories contains "presentation" %}
-    <div class="col-12 col-md-6 mb-4">
-      <div class= session session-summary">
-        <div class="session-content">
+    {% if session.date == group.name %}
+
+
+        <div>
           <h2 class="session-title">
+          {{ session.hour }}
             <a href="{{ session.url }}">{{ session.title }}</a>
           </h2>
-          <code>{{ session.date | date: "%B %d, %Y at %H:%M" }}</code>
-          <p>{{ session.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ session.content | markdownify | strip_html | truncate: 300 }}</p>
         </div>
+
+
+  {% endif %}
+  {% endif %}
+    {% endfor %}
       </div>
-    </div>
-  {% endif %}
-  {% endif %}
-  {% endif %}
-    {% endfor %}
-    {% endfor %}
-  </div>
+      {% endfor %}
+
+
+
 </div>

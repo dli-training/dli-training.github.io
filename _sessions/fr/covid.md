@@ -1,8 +1,8 @@
 ---
 title: Les données COVID-19
-date: 2020-11-24T14:30:00-0500
+date: 2020-11-24
 featured: true
-weight: 2
+weight: 3
 lang: fr
 ref: covid
 presenter: []

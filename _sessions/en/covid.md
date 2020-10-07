@@ -1,6 +1,8 @@
 ---
 title: COVID-19 Data
-date: 2020-11-24T14:30:00-0500
+date: 2020-11-24
+hour: 2:30-3:00 EST
+weight: 3
 lang: en
 ref: covid
 presenter: []

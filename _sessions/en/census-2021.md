@@ -1,6 +1,8 @@
 ---
 title: Road to the 2021 Census
-date: 2020-11-24T13:00:00-0500
+date: 2020-11-24
+hour: 1:00-2:00 EST
+weight: 2
 lang: en
 ref: census-2021
 presenter: []

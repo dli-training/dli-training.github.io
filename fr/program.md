@@ -6,6 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 lang: fr
 ref: program
+category: presentation
 ---
 
 Here is a brief description of the schedule. The links below are separate objects that we can edit without having to change this page.

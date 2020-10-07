@@ -15,14 +15,14 @@ languages:
   type: "Session type: "
   youtube: "Link to recorded session"
   links:
-    - title: "Home"
-      url: /en
     - title: "Registration"
       url: /en/register/
     - title: "Schedule"
       url: /en/program/
     - title: "Workshops"
       url: /en/workshop/
+    - title: "Resources"
+      url: /en/resources/
     - title: "Contact"
       url: /en/contact/
 - language: "fr"
@@ -39,14 +39,14 @@ languages:
   type: "Type de session : "
   youtube: "Lien vers la session enregistrée"
   links:
-    - title: "Accueil"
-      url: /fr
     - title: "Enregistrement"
       url: /fr/register/
     - title: "Programme"
       url: /fr/program/
     - title: "Séminaire"
       url: /fr/workshop/
+    - title: "Ressources"
+      url: /fr/resources/
     - title: "Contact"
       url: /fr/contact/
 

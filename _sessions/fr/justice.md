@@ -1,10 +1,10 @@
 ---
-title: Genre, diversité et inclusion
+title: Canadian Centre for Justice and Community Safety Statistics (CCJCSS)
 date: 2020-11-27
-hour: 1:00-2:00 EST
-weight: 8
+hour: 2:30-3:30
+weight: 9
 lang: fr
-ref: diversity
+ref: justice
 presenter: []
 length: 60 minutes
 time: synchronous

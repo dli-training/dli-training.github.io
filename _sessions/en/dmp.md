@@ -1,6 +1,8 @@
 ---
 title: Support your research with data management planning!
-date: 2020-11-25T13:00:00-0500
+date: 2020-11-25
+hour: 2:30-3:45 EST
+weight: 5
 lang: en
 ref: dmp
 presenter: James Doiron

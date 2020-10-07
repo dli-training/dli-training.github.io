@@ -31,6 +31,9 @@ Margaret Vail : <mvail@stfx.ca>
 
 ### Québec
 
+Caroline Patenaude : <caroline.patenaude@umontreal.ca>  
+Gaston Quirion : <Gaston.Quirion@bibl.ulaval.ca>  
+
 ### Ontario
 
 Chantal Ripp : <chantal.ripp@uottawa.ca>  
