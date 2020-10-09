@@ -1,7 +1,7 @@
 ---
 title: Le Centre canadien de la statistique juridique
 date: 2020-11-27
-hour: 14:30-15:30 EST
+hour: 14:30-15:30 HE
 weight: 9
 lang: fr
 ref: justice

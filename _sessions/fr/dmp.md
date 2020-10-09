@@ -1,7 +1,7 @@
 ---
 title: Soutenez votre recherche grâce à la planification de la gestion des données !
 date: 2020-11-25
-hour: 14:30-15:45 EST
+hour: 14:30-15:45 HE
 weight: 5
 lang: fr
 ref: dmp

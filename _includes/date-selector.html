@@ -4,14 +4,18 @@
 
   {% if page.lang == "fr" %}
 
+  {% assign weekdays =
+  "Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samdei|Dimanche" | split: "|" %}
+  {% assign w = group.name | date: "%A" %}
 
   {% assign months = "Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre" | split: "|" %}
   {% assign m = group.name | date: "%-m" | minus: 1 %}
 
+  {% assign weekday = group.name | date: "%A" %}
   {% assign day = group.name | date: "%d" %}
   {% assign month = months[m] | downcase %}
-
   {% assign year = group.name | date: "%Y" %}
+
   {{ day }} {{ month }} {{ year }}
   {% else %}
   {{ group.name | date: "%A, %B %e, %Y" }}
