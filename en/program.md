@@ -9,6 +9,6 @@ ref: program
 category: presentation
 ---
 
-
+To participate, you must register using the [registration form]({% link en/register.md %}).
 
 Download a printable version of this schedule here.

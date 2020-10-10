@@ -1,7 +1,7 @@
 ---
 title: Support your research with data management planning!
 date: 2020-11-25
-hour: 14:30-15:45 EST
+hour: 14:30-15:45 ET
 weight: 5
 lang: en
 ref: dmp
@@ -9,7 +9,7 @@ presenter: James Doiron
 length: 75 minutes
 time: synchronous
 category: presentation
-session-link: https://youtu.be/dQw4w9WgXcQ
+session-link: 
 ---
 
 This will be an applied session focused upon Data Management Plans.

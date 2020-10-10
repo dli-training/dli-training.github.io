@@ -1,6 +1,6 @@
 
 
-<span>
+
 
   {% if page.lang == "fr" %}
 
@@ -18,7 +18,5 @@
 
   {{ day }} {{ month }} {{ year }}
   {% else %}
-  {{ group.name | date: "%A, %B %e, %Y" }}
+  {{ group.name | date: "%B %e, %Y" }}
   {% endif %}
-
-</span>

@@ -1,11 +1,11 @@
 ---
 title: Lightning Talks
 date: 2020-11-26
-hour: 15:00-16:00 EST
+hour: 15:00-16:00 ET
 weight: 7
 lang: en
 ref: lightning
-presenter: []
+presenter: [TBD]
 length: 60 minutes
 time: synchronous
 category: presentation

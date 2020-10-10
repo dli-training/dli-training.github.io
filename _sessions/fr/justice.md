@@ -5,7 +5,7 @@ hour: 14:30-15:30 HE
 weight: 9
 lang: fr
 ref: justice
-presenter: []
+presenter: [Statistique Canada]
 length: 60 minutes
 time: synchronous
 category: presentation

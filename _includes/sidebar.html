@@ -1,14 +1,21 @@
 <div class="content">
 <blockquote>
+{% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | group_by_exp:"session", "session.date" | sort:"weight" %}
+  {% for group in posts_by_day %}
+
+    {% if page.date == group.name %}
+  <strong>  {% include date-selector.html %} </strong>
+    {% endif %}
+
+  {% endfor %}
+
 {% assign sidebar = site.data.menus.languages %}
 {% for item in sidebar %}
   {% if item.language == page.lang %}
 
-<p>
-{{ page.date | date: "%B %e, %Y" }} at {{ page.hour | slice: 0, 5 }}
-</p>
 
 <p>
+{{ page.hour }}
   <ul>
     {{item.presenter}}
   {% for person in page.presenter %}
@@ -22,15 +29,19 @@
 {% endfor %}
 </ul>
 
-</p>
+</p
+
 <p>
+  <!----
 {% if page.length %}
   <ul>
     {{item.time-commit}}
   <li class="presenter-list">{{ page.length }}</li>
   <ul>
 {% endif %}
+---->
 </p>
+
 <p>
 {% if page.session-link %}
   <a href="{{ page.session-link }}">{{item.youtube}}</a>
@@ -38,5 +49,6 @@
 </p>
 {% endif %}
 {% endfor %}
+
 </blockquote>
 </div>

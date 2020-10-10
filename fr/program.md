@@ -9,10 +9,6 @@ ref: program
 category: presentation
 ---
 
-Here is a brief description of the schedule. The links below are separate objects that we can edit without having to change this page.
+Pour participer, vous devez vous inscrire en utilisant le [formulaire d'inscription]({% link fr/register.md %}).
 
-This is filler text.
-
-This is filler text.
-
-This is filler text.
+Téléchargez une version imprimable de cet horaire ici.
