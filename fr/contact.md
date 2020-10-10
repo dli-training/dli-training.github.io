@@ -32,7 +32,7 @@ Margaret Vail : <mvail@stfx.ca>
 ### Québec
 
 Caroline Patenaude : <caroline.patenaude@umontreal.ca>  
-Gaston Quirion : <Gaston.Quirion@bibl.ulaval.ca>  
+Gaston Quirion : <gaston.quirion@bibl.ulaval.ca>  
 
 ### Ontario
 

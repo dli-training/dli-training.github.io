@@ -11,11 +11,6 @@ ref: index
 
 # {{ page.title }}
 
-This is some text in French with the date and explaining the synchronous / asynchronous nature of the training.
+La formation nationale de l'IDD 2020 consistera en des webinaires, des ateliers et des conférences éclair en formats synchrone et asynchrone.
 
-
-This is filler text.
-
-This is filler text.
-
-This is filler text.
+Vous trouverez plus d'informations sur toutes les activités prévues et non prévues dans le menu de navigation.

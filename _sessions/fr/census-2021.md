@@ -5,7 +5,7 @@ hour: 13:00-14:00 HE
 weight: 2
 lang: fr
 ref: census-2021
-presenter: []
+presenter: [Statistique Canada]
 length: 60 minutes
 time: synchronous
 category: presentation

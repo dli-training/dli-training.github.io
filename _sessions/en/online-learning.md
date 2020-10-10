@@ -1,7 +1,7 @@
 ---
 title: Adapting to the pandemic through remote instruction - A panel
 date: 2020-11-25
-hour: 13:00-14:00 HE
+hour: 13:00-14:00 ET
 weight: 4
 lang: en
 ref: online-learning

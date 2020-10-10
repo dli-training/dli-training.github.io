@@ -5,7 +5,7 @@ hour: 14:30-15:00 EST
 weight: 3
 lang: en
 ref: covid
-presenter: []
+presenter: [Statistics Canada]
 length: 90 minutes
 time: synchronous
 category: presentation

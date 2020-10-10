@@ -11,4 +11,8 @@ ref: index
 
 # {{ page.title }}
 
-This is some text in English with the date and explaining the synchronous / asynchronous nature of the training.
+The 2020 DLI National Training will consist of webinars, workshops, and lightning talks in both synchronous and asynchronous formats.
+
+More information about all scheduled and unscheduled activities can be found in the navigation menu.
+
+ 

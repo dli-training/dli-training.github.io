@@ -3,17 +3,24 @@
 {% assign sidebar = site.data.menus.languages %}
 {% for item in sidebar %}
   {% if item.language == page.lang %}
+
+<p>
+{{ page.date | date: "%B %e, %Y" }} at {{ page.hour | slice: 0, 5 }}
+</p>
+
 <p>
   <ul>
     {{item.presenter}}
-{% if page.presenter %}
-
   {% for person in page.presenter %}
-<li class="presenter-list"><a href="{{ site.url }}/{{ page.lang}}/{{ person | downcase | replace:' ','-'}}">{{ person }}</a>
+<li class="presenter-list">
+<!---
+  <a href="{{ site.url }}/{{ page.lang}}/{{ person | downcase | replace:' ','-'}}">
+--->
+  {{ person }}
+
 </li>
 {% endfor %}
 </ul>
-{% endif %}
 
 </p>
 <p>

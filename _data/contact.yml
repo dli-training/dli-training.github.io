@@ -3,7 +3,7 @@ languages:
   email: 'statcan.maddli-damidd.statcan@canada.ca.'
   contact_button_name: "Register"
   contact_button_link: 'register'
-  dates: "Daily webinars from 1 - 4 p.m ET"
+  dates: "Live daily webinars from 1 - 4 p.m ET"
   times: "November 23 to November 27, 2020"
 - language: "fr"
   email: 'statcan.maddli-damidd.statcan@canada.ca.'
