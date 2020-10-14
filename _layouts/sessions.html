@@ -28,7 +28,7 @@ bodyClass: page-sessions-list
 
           <h2>{% include date-selector.html %}</h2>
         </div>
-        {% for session in site.sessions %}
+        {% for session in site.sessions reversed %}
         {% if session.lang == page.lang %}
         {% if session.date == group.name %}
         <div>
