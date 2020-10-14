@@ -1,5 +1,5 @@
 ---
-title: Groupe d'experts - De ouvert à restreint - Continuum d'accès aux données de Statistique Canada
+title: S1 | Groupe d'experts - De ouvert à restreint - Continuum d'accès aux données de Statistique Canada
 date: 2020-11-26
 hour: 13:00-14:30 HE
 weight: 6

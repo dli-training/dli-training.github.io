@@ -1,5 +1,5 @@
 ---
-title: Panel - From Open to Restricted - Statistic Canada’s Continuum of Data Access
+title: S1 | Panel - From Open to Restricted - Statistic Canada’s Continuum of Data Access
 date: 2020-11-26
 hour: 13:00-14:30 ET
 weight: 6

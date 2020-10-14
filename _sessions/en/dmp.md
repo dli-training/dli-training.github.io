@@ -1,5 +1,5 @@
 ---
-title: S2 - Support your research with data management planning!
+title: S2 | Support your research with data management planning!
 date: 2020-11-25
 hour: 14:30-15:45 ET
 weight: 5

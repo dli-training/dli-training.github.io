@@ -1,5 +1,5 @@
 ---
-title: S1 - Adapting to the pandemic through remote instruction - A panel
+title: S1 | Adapting to the pandemic through remote instruction - A panel
 date: 2020-11-25
 hour: 13:00-14:00 ET
 weight: 4

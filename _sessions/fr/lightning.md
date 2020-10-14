@@ -1,5 +1,5 @@
 ---
-title: Discussions éclair (questions et réponses)
+title: S2 | Discussions éclair (questions et réponses)
 date: 2020-11-26
 hour: 15:00-16:00 HE
 weight: 7

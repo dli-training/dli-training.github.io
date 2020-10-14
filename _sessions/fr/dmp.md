@@ -1,5 +1,5 @@
 ---
-title: Soutenez votre recherche grâce à la planification de la gestion des données !
+title: S2 | Soutenez votre recherche grâce à la planification de la gestion des données !
 date: 2020-11-25
 hour: 14:30-15:45 HE
 weight: 5

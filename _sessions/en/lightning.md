@@ -1,5 +1,5 @@
 ---
-title: Lightning Talks
+title: S2 | Lightning Talks
 date: 2020-11-26
 hour: 15:00-16:00 ET
 weight: 7

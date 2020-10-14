@@ -1,5 +1,5 @@
 ---
-title: Genre, diversité et inclusion
+title: S1 | Genre, diversité et inclusion
 date: 2020-11-27
 hour: 13:00-14:00 HE
 weight: 8
