@@ -1,12 +1,12 @@
 ---
-title: S2 | Les données COVID-19
+title: S1 | En route vers le recensement de 2021
 date: 2020-11-24
-hour: 14:30-15:00 HE
-weight: 3
+hour: 13:00-14:00 HE
+weight: 2
 lang: fr
-ref: covid
+ref: 1-census-2021
 presenter: [Statistique Canada]
-length: 90 minutes
+length: 60 minutes
 time: synchronous
 category: presentation
 session-link:

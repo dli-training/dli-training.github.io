@@ -4,7 +4,7 @@ date: 2020-11-26
 hour: 13:00-14:30 ET
 weight: 6
 lang: en
-ref: pumf
+ref: p1-umf
 presenter: [TBD]
 length: 90 minutes
 time: synchronous

@@ -4,7 +4,7 @@ date: 2020-11-27
 hour: 13:00-14:00 ET
 weight: 8
 lang: en
-ref: diversity
+ref: 1-diversity
 presenter: [Statistics Canada]
 length: 60 minutes
 time: synchronous

@@ -4,7 +4,7 @@ date: 2020-11-25
 hour: 13:00-14:00 HE
 weight: 4
 lang: fr
-ref: online-learning
+ref: 1-online-learning
 presenter: [Kelly Schultz, Leanne Trimble, Andrew Nicholson]
 length: 60 minutes
 time: synchronous

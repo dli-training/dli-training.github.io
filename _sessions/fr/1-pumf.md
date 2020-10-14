@@ -4,7 +4,7 @@ date: 2020-11-26
 hour: 13:00-14:30 HE
 weight: 6
 lang: fr
-ref: pumf
+ref: 1-pumf
 presenter: [à déterminer]
 length: 90 minutes
 time: synchronous

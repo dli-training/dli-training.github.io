@@ -1,11 +1,11 @@
 ---
-title: S2 | COVID-19 Data
+title: S2 | Les données COVID-19
 date: 2020-11-24
-hour: 14:30-15:00 ET
+hour: 14:30-15:00 HE
 weight: 3
-lang: en
-ref: covid
-presenter: [Statistics Canada]
+lang: fr
+ref: 2-covid
+presenter: [Statistique Canada]
 length: 90 minutes
 time: synchronous
 category: presentation

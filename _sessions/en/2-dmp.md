@@ -4,7 +4,7 @@ date: 2020-11-25
 hour: 14:30-15:45 ET
 weight: 5
 lang: en
-ref: dmp
+ref: 2-dmp
 presenter: James Doiron
 length: 75 minutes
 time: synchronous

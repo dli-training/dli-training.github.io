@@ -4,7 +4,7 @@ date: 2020-11-27
 hour: 14:30-15:30 HE
 weight: 9
 lang: fr
-ref: justice
+ref: 2-justice
 presenter: [Statistique Canada]
 length: 60 minutes
 time: synchronous
