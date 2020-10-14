@@ -2,7 +2,7 @@
 title: Introduction to Data Visualization - Part 2, Practice with Tableau
 weight: 2
 lang: en
-ref: data-visualization-1
+ref: 2-data-visualization
 presenter: Kelly Schultz
 length: 2 hours, with an additional ~1 hour of activities.
 time: asynchronous

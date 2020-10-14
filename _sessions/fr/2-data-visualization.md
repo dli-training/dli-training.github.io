@@ -2,7 +2,7 @@
 title: Introduction à la visualisation de données - Partie 2, Pratique avec Tableau
 weight: 2
 lang: fr
-ref: data-visualization-1
+ref: 2-data-visualization
 presenter: Kelly Schultz
 category: workshop
 length: 2 heures. Il y a une heure supplémentaire d'activités.

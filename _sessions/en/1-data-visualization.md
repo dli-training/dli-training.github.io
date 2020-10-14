@@ -2,7 +2,7 @@
 title: Introduction to Data Visualization - Part 1, Theory and Critique
 weight: 1
 lang: en
-ref: data-visualization
+ref: 1-data-visualization
 presenter: Kelly Schultz
 length: 1 hour, 15 minutes, with an additional ~1 hour, 30 minutes of activities.
 time: asynchronous

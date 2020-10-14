@@ -3,7 +3,7 @@ title: Introduction à la visualisation des données - Partie 1, Théorie et cri
 featured: true
 weight: 1
 lang: fr
-ref: data-visualization
+ref: 1-data-visualization
 category: workshop
 presenter: Kelly Schultz
 length: 1 heure 15 minutes. Il y a une heure 30 minutes d'activités supplémentaires.
