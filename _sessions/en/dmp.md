@@ -1,5 +1,5 @@
 ---
-title: Support your research with data management planning!
+title: S2 - Support your research with data management planning!
 date: 2020-11-25
 hour: 14:30-15:45 ET
 weight: 5
@@ -9,7 +9,7 @@ presenter: James Doiron
 length: 75 minutes
 time: synchronous
 category: presentation
-session-link: 
+session-link:
 ---
 
 This will be an applied session focused upon Data Management Plans.
