@@ -20,7 +20,7 @@ bodyClass: page-sessions-list
 
 <div class="container pt-1 pb-3">
 
-  {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | group_by_exp:"session", "session.date" | sort: "weight" %}
+  {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | group_by_exp:"session", "session.date" | sort: "date" %}
   {% for group in posts_by_day %}
 
     <div>
@@ -33,7 +33,7 @@ bodyClass: page-sessions-list
         {% if session.date == group.name %}
         <div>
           <h3>
-            {{ session.hour }}
+            {{ session.weight }}
             <a href="{{ session.url }}">{{ session.title }}</a>
           </h3>
               {% if session.content contains '<!--more-->' %}
