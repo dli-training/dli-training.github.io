@@ -5,9 +5,11 @@ hour: 13:00-14:00 ET
 weight: 8
 lang: en
 ref: 1-diversity
-presenter: [Statistics Canada]
+presenter: [Statistics Canada, · Sylvie Guilmette, · Michele Hardy]
 length: 60 minutes
 time: synchronous
 category: presentation
 session-link:
 ---
+<!--more-->
+Access the [Gender, Diversity, and Inclusion Hub](https://www.statcan.gc.ca/eng/topics-start/gender_diversity_and_inclusion) here.

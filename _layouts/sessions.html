@@ -33,7 +33,7 @@ bodyClass: page-sessions-list
         {% if session.date == group.name %}
         <div>
           <h3>
-            {{ session.hour }}
+            {{ session.hour }} : 
             <a href="{{ session.url }}">{{ session.title }}</a>
           </h3>
               {% if session.content contains '<!--more-->' %}

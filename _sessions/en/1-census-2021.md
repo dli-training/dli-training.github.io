@@ -5,7 +5,7 @@ hour: 13:00-14:00 ET
 weight: 2
 lang: en
 ref: 1-census-2021
-presenter: [Statistics Canada]
+presenter: [Statistics Canada, · Kathleen Fowler, · Melanie Kowalski]
 length: 60 minutes
 time: synchronous
 category: presentation
