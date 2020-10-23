@@ -23,7 +23,7 @@ bodyClass: page-sessions-list
 
     {% assign sessionmenu = site.data.menus.languages %}
     {% for item in sessionmenu %}
-    {% for session in site.sessions reversed %}
+    {% for session in site.sessions %}
     {% if item.language == page.lang %}
     {% if session.lang == page.lang %}
     {% if session.categories contains "workshop" %}
