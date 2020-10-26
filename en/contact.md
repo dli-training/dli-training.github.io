@@ -36,7 +36,7 @@ Gaston Quirion : <gaston.quirion@bibl.ulaval.ca>
 
 ### Ontario
 
-Caleb Domsy : <caleb.domsy@humber.ca>
+Caleb Domsy : <caleb.domsy@humber.ca>  
 Chantal Ripp : <chantal.ripp@uottawa.ca>  
 Deena Yanofsky : <deena.yanofsky@utoronto.ca>  
 
