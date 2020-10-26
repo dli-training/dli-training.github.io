@@ -13,4 +13,4 @@ session-link:
 ---
 This panel will discuss providing access and facilitating access to Statistics Canada data along the continuum of data access.<!--more--> The panel will have representatives from the DLI Community, \<odesi\>, researchers, the DLI Unit, Real Time Remote Access (RTRA), Virtual data lab, and the Canadian Research Data Centre Network (CRDCN).
 
-This panel will be presented in a bilingual format and copies of the presentations will be available in both English and French prior to the presentations.
+This panel will be presented in a bilingual format and copies of the presentation materials will be available in both English and French prior to the presentations.
