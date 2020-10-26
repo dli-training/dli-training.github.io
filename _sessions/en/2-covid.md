@@ -5,7 +5,7 @@ hour: 14:30-15:00 ET
 weight: 3
 lang: en
 ref: 2-covid
-presenter: [Statistics Canada]
+presenter: [Statistics Canada, · Kathleen Fowler, · Melanie Kowalski]
 length: 90 minutes
 time: synchronous
 category: presentation
