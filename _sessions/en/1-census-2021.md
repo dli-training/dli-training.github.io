@@ -11,3 +11,4 @@ time: synchronous
 category: presentation
 session-link:
 ---
+This presentation provides an overview of the content of the 2021 Census of Population questionnaire, with an emphasis on new and modified content.

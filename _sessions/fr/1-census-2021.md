@@ -11,3 +11,4 @@ time: synchronous
 category: presentation
 session-link:
 ---
+Cette présentation donne un aperçu du contenu du questionnaire du recensement de la population de 2021, en mettant l'accent sur le contenu nouveau et modifié.
