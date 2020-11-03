@@ -5,13 +5,13 @@ hour: 15:00-16:00 HE
 weight: 7
 lang: fr
 ref: 2-lightning
-presenter: [Daniel Brendle-Moczuk, Alex Cooper, Matthew Gertley, Chantal Ripp, Sarah Rutley]
+presenter: [Daniel Brendle-Moczuk, Alex Cooper, Matthew Gertler, Jane Fry, Chantal Ripp, Sarah Rutley]
 length: 60 minutes
 time: synchronous
 category: presentation
 session-link:
 ---
-Les présentateurs des discussions éclair seront disponibles pour répondre aux questions sur leur contenu pré-enregistré.
+Des discussions éclair seront disponibles pour être visionnés tout au long de la semaine de formation. Au cours de cette session, les présentateurs répondront aux questions sur les exposés préenregistrés. Veuillez visionner les vidéos avant la session.
 
 <!--more-->
 
@@ -21,11 +21,14 @@ Les présentateurs des discussions éclair seront disponibles pour répondre aux
 #### PCCF
 - Alex Cooper, Queens University
 
-#### Projet visant à faire découvrir les collections de données secondaires dans Scholars Portal Dataverse
-- Chantal Ripp, Université d'Ottawa
+#### DDI – What is it and How can I learn more about it
+- Jane Fry, Carleton University
 
 #### Using misleading visualizations to teach data literacy and access in an engaging way  
-- Matthew Gertley, Carleton University
+- Matthew Gertler, Carleton University
+
+#### Projet visant à faire découvrir les collections de données secondaires dans Scholars Portal Dataverse
+- Chantal Ripp, Université d'Ottawa
 
 #### Developing a data licensing agreement with the City of Saskatoon  
 - Sarah Rutley, University of Saskatchewan  

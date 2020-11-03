@@ -5,13 +5,13 @@ hour: 15:00-16:00 ET
 weight: 7
 lang: en
 ref: 2-lightning
-presenter: [Daniel Brendle-Moczuk, Alex Cooper, Matthew Gertley, Chantal Ripp, Sarah Rutley]
+presenter: [Daniel Brendle-Moczuk, Alex Cooper, Jane Fry, Matthew Gertler, Chantal Ripp, Sarah Rutley]
 length:
 time:
 category: presentation
 session-link:
 ---
-Lightning Talk presenters will be available to answer questions about their pre-recorded content.
+Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks. Please view the videos in advance of the session.
 
 <!--more-->
 
@@ -21,11 +21,14 @@ Lightning Talk presenters will be available to answer questions about their pre-
 #### PCCF
 - Alex Cooper, Queens University
 
-#### Projet visant à faire découvrir les collections de données secondaires dans Scholars Portal Dataverse
-- Chantal Ripp, University of Ottawa
+#### DDI – What is it and How can I learn more about it
+- Jane Fry, Carleton University
 
 #### Using misleading visualizations to teach data literacy and access in an engaging way  
-- Matthew Gertley, Carleton University
+- Matthew Gertler, Carleton University
+
+#### Projet visant à faire découvrir les collections de données secondaires dans Scholars Portal Dataverse
+- Chantal Ripp, University of Ottawa
 
 #### Developing a data licensing agreement with the City of Saskatoon  
 - Sarah Rutley, University of Saskatchewan  
