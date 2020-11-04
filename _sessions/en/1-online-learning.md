@@ -5,7 +5,7 @@ hour: 13:00-14:00 ET
 weight: 4
 lang: en
 ref: 1-online-learning
-presenter: [Kelly Schultz, Leanne Trimble, Andrew Nicholson]
+presenter: [Kelly Schultz, Leanne Trimble, Andrew Nicholson, Marcel Fortin]
 length: 60 minutes
 time: synchronous
 category: presentation
