@@ -5,7 +5,7 @@ hour: 13:00-14:30 HE
 weight: 1
 lang: fr
 ref: 0-dli-update
-presenter: [Gilbert Bede, Arden Kayzak, Peter Webster]
+presenter: [Gilbert Bede, Alex, Cooper, Arden Kayzak]
 length: 90 minutes
 time: synchronous
 category: presentation
