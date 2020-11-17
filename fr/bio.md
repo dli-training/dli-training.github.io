@@ -51,6 +51,8 @@ Kelly Shultz est bibliothécaire spécialisée dans la visualisation des donnée
 
 #### **Paul McDonald**
 
+Paul McDonald est responsable de l'équipe d'Accès libre-service au sein de la Division de l'accès aux données (DAD) de Statistique Canada.  Il fait partie de l'équipe de projet depuis trois ans et gère la collecte des FMGD, l'Initiative de démocratisation des données (IDD) et le système d'accès à distance en temps réel (ADTR). Avant cela, il a travaillé pendant 26 ans sur divers projets à Statistique Canada, tels que le registre des entreprises, l'enquête mensuelle sur le commerce de détail, l'enquête annuelle sur la publicité, l'enquête sur la dynamique du travail et du revenu, l'enquête canadienne sur le revenu et le projet GTAB.
+
 #### **Sara Tumpane**
 
 Sara Tumpane est gestionnaire au sein de l'équipe du Laboratoire des données virtuel (LDv) de la Division de l'accès aux données (DAD) de Statistique Canada.  Elle fait partie de l'équipe depuis plus de deux ans et gère principalement le développement de l'environnement du LDv, ainsi que sa gestion des risques. Avant cela, elle a travaillé dans le programme des Centres de données de recherche (CDR) en tant qu'analyste ; son expérience et sa collaboration continue avec le programme des CDR ont contribué à éclairer de nombreux aspects du projet LDv.
