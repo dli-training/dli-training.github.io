@@ -5,7 +5,7 @@ hour: 14:30-15:30 ET
 weight: 9
 lang: en
 ref: 2-justice
-presenter: [Statistics Canada, · Kathy Aucoin]
+presenter: [Kathy Aucoin]
 length: 60 minutes
 time: synchronous
 category: presentation

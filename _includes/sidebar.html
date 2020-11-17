@@ -20,9 +20,9 @@
     {{item.presenter}}
   {% for person in page.presenter %}
 <li class="presenter-list">
-<!---
-  <a href="{{ site.url }}/{{ page.lang}}/{{ person | downcase | replace:' ','-'}}">
---->
+
+  <a href="{{ site.url }}/{{ page.lang}}/bio#{{ person | downcase | replace:' ','-'}}">
+
   {{ person }}
 
 </li>

@@ -5,7 +5,7 @@ hour: 13:00-14:00 HE
 weight: 8
 lang: fr
 ref: 1-diversity
-presenter: [Statistique Canada, · Sylvie Guilmette, · Michele Hardy]
+presenter: [Sylvie Guilmette, Michele Hardy]
 length: 60 minutes
 time: synchronous
 category: presentation

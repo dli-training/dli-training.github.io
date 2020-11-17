@@ -5,7 +5,7 @@ hour: 13:00-14:00 ET
 weight: 2
 lang: en
 ref: 1-census-2021
-presenter: [Statistics Canada, · Sarah Franklin, · Andrea Levett]
+presenter: [Sarah Franklin, Andrea Levett]
 length: 60 minutes
 time: synchronous
 category: presentation

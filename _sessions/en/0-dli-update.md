@@ -1,5 +1,5 @@
 ---
-title: Committee Update - DLI/MAD, EAC, PDC
+title: Update on StatsCan/Data Access Division (DAD), EAC/DLI, PDC 
 date: 2020-11-23
 hour: 13:00-14:30 ET
 weight: 1
