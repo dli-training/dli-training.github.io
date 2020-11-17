@@ -14,6 +14,7 @@ logo:
   desktop_height: "36px"
 footer:
   copyright_text: ''
+heading_anchors: true
 
 seo:
   meta_og_title: ""
