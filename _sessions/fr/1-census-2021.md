@@ -1,5 +1,5 @@
 ---
-title: S1 | Overview of content of the 2021 Census
+title: S1 | Aperçu du contenu du Recensement de 2021
 date: 2020-11-24
 hour: 13:00-14:00 HE
 weight: 2

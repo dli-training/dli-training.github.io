@@ -17,6 +17,7 @@
 <p>
 {{ page.hour }}
   <ul>
+    {% if page.presenter %}
     {{item.presenter}}
     <li class="presenter-list">
 
@@ -29,6 +30,7 @@
   <br/>
   {% endfor %}
   </li>
+  {% endif %}
 
 
 

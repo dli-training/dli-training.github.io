@@ -18,4 +18,13 @@
 {% endif %}
 {% endif %}
 {% endfor %}
+
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% for item in site.data.menus.languages %}
+{% if item.language == page.lang %}
+{% if page.ref contains "bio" %}
+<a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
 </div>
