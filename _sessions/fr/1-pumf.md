@@ -1,5 +1,5 @@
 ---
-title: S1 | De l’accès libre à restreint - le Continuum d'accès aux données de Statistique Canada
+title: S1 | Panel - De l'accès libre à restreint - Le continuum d'accès aux données de Statistique Canada
 date: 2020-11-26
 hour: 13:00-14:30 HE
 weight: 6

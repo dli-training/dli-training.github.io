@@ -1,5 +1,5 @@
 ---
-title: S1 | Mises à jour - DLI/DAM, CDP, CCE
+title: S1 | Mise à jour du comité - Division d'Accès aux données, CCE/IDD, CDP
 date: 2020-11-23
 hour: 13:00-14:30 HE
 weight: 1

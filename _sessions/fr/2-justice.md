@@ -1,5 +1,5 @@
 ---
-title: S2 | Le Centre canadien de la statistique juridique
+title: S2 | Centre canadien de la statistique juridique et de la sécurité communautaire (CCSJSC)
 date: 2020-11-27
 hour: 14:30-15:30 HE
 weight: 9

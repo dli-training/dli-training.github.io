@@ -1,5 +1,5 @@
 ---
-title: S1 | S'adapter à la pandémie grâce à l'enseignement à distance - Un panel
+title: S1 | Panel - S'adapter à la pandémie grâce à l'enseignement à distance
 date: 2020-11-25
 hour: 13:00-14:00 HE
 weight: 4

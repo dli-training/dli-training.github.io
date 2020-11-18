@@ -1,5 +1,5 @@
 ---
-title: S1 | Statistiques sur le genre, la diversité et l'inclusion
+title: S1 | Le Carrefour statistique sur le genre, la diversité et l'inclusion
 date: 2020-11-27
 hour: 13:00-14:00 HE
 weight: 8
