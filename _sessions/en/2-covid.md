@@ -1,7 +1,7 @@
 ---
 title: S2 | Statistics Canada COVID-19 Data projects
 date: 2020-11-24
-hour: 14:30-15:00 ET
+hour: 14:30-15:30 ET
 weight: 3
 lang: en
 ref: 2-covid
