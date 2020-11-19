@@ -13,7 +13,7 @@ session-link:
 ---
 This panel will discuss providing access and facilitating access to Statistics Canada data along the continuum of data access. <!--more-->
 
-The panel will have representatives from the DLI Community, <odesi>, researchers, Real Time Remote Access system (RTRA), Virtual Data Lab (vDL), and the Canadian Research Data Centre Network (CRDCN).
+The panel will have representatives from the DLI Community, \<odesi\>, researchers, Real Time Remote Access system (RTRA), Virtual Data Lab (vDL), and the Canadian Research Data Centre Network (CRDCN).
 
 The RTRA system is an on-line remote access facility allowing users to run SAS programs, in real-time, against microdata located in a central and secure location.
 

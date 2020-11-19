@@ -13,7 +13,7 @@ session-link:
 ---
 Ce panel discutera de l'accès et de la facilitation de l'accès aux données de Statistique Canada tout au long du continuum de l’accès aux données. <!--more-->
 
-Le panel sera composé de représentants de la communauté de l’IDD, <odesi>, de chercheurs, du système d'Accès à distance en temps réel (ADTR), du Laboratoire de données virtuel (LDv) et du Réseau canadien des centres de données de recherche (RCCDR).
+Le panel sera composé de représentants de la communauté de l’IDD, \<odesi\>, de chercheurs, du système d'Accès à distance en temps réel (ADTR), du Laboratoire de données virtuel (LDv) et du Réseau canadien des centres de données de recherche (RCCDR).
 
 Le système d'ADTR est un mécanisme d'accès à distance en ligne qui permet aux utilisateurs d'exécuter en temps réel des programmes SAS portant sur des ensembles de microdonnées situées dans un emplacement central et sécurisé.
 
