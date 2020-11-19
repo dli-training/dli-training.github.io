@@ -25,7 +25,7 @@ Subtitles are available for all lightning talk videos. You can access the subtit
 #### [Postal Code Conversion File (PCCF): An introduction](https://youtu.be/6Y1QIn2IpSE)
 - Alex Cooper, Queens University
 
-#### [DDI – What is it and How can I learn more about it](https://youtu.be/seX-i5vafMA)
+#### [DDI – What is it and how can I learn more about it](https://youtu.be/seX-i5vafMA)
 - Jane Fry, Carleton University
 
 #### [Using misleading visualizations to teach data literacy and access in an engaging way](https://youtu.be/xAVbA4cbscQ)  
