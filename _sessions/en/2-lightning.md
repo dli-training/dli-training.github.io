@@ -17,7 +17,7 @@ Subtitles are available for all lightning talk videos. You can access the subtit
 
 [Please view the videos in advance of the session](https://youtube.com/playlist?list=PLa6d-V-ljSCyEaf9Vxe9-ZcIcxpxwuIYR).
 
-### Pre-recorded Lightning Talks
+# Pre-recorded Lightning Talks
 
 #### [Geocoding options overview](https://youtu.be/FGXZZ-L0GUg)  
 - Daniel Brendle-Moczuk, University of Victoria
