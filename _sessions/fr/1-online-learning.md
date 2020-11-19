@@ -11,4 +11,6 @@ time: synchronous
 category: presentation
 session-link:
 ---
-En raison de la pandémie, nos habitudes d'enseignement ont été perturbées. Nous avons dû adapter et changer nos approches en enseignant nos ateliers sur la maîtrise des données et les outils, de la formation en personne à un environnement entièrement en ligne. <!--more-->Les intervenants discuteront de nos différentes approches de cette tâche, de ce qui a fonctionné et des défis que nous avons rencontrés. Nous laisserons du temps pour la discussion et pour que d'autres partagent leurs propres expériences d'enseignement au cours de cette année inhabituelle.
+En raison de la pandémie, nos habitudes d'enseignement ont été perturbées. Nous avons dû adapter et changer nos approches en enseignant nos ateliers sur la maîtrise des données et les outils, de la formation en personne à un environnement entièrement en ligne. <!--more-->
+
+Les intervenants discuteront de nos différentes approches de cette tâche, de ce qui a fonctionné et des défis que nous avons rencontrés. Nous laisserons du temps pour la discussion et pour que d'autres partagent leurs propres expériences d'enseignement au cours de cette année inhabituelle.

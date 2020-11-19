@@ -11,4 +11,6 @@ time: synchronous
 category: presentation
 session-link:
 ---
-Depuis le début de la pandémie de COVID-19, l’équipe du CIDDS a, en collaboration avec divers partenaires, mené huit projets de collecte fondés sur l’approche participative ciblant la population générale, les parents, les étudiants et les personnes handicapées. <!--more-->Le CIDDS a également réalisé six cycles de la Série d’enquêtes sur les perspectives canadiennes et a créé avec diligence des fichiers de microdonnées à grande diffusion pour tous ces projets. Kathleen Fowler et Melanie Kowalski, du CIDDS, nous présenterons les points forts des projets de données liés à la COVID-19, en s’attardant sur la méthodologie des outils de collecte utilisés, les résultats, et les produits de diffusion qui en ont découlé.
+Depuis le début de la pandémie de COVID-19, l’équipe du CIDDS a, en collaboration avec divers partenaires, mené huit projets de collecte fondés sur l’approche participative ciblant la population générale, les parents, les étudiants et les personnes handicapées. <!--more-->
+
+Le CIDDS a également réalisé six cycles de la Série d’enquêtes sur les perspectives canadiennes et a créé avec diligence des fichiers de microdonnées à grande diffusion pour tous ces projets. Kathleen Fowler et Melanie Kowalski, du CIDDS, nous présenterons les points forts des projets de données liés à la COVID-19, en s’attardant sur la méthodologie des outils de collecte utilisés, les résultats, et les produits de diffusion qui en ont découlé.
