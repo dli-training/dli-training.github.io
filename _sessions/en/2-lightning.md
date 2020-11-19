@@ -11,24 +11,24 @@ time:
 category: presentation
 session-link:
 ---
-Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks. Please view the videos in advance of the session.
+Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks.<!--more-->
 
-<!--more-->
+[Please view the videos in advance of the session](https://youtube.com/playlist?list=PLa6d-V-ljSCyEaf9Vxe9-ZcIcxpxwuIYR).
 
-#### Geocoding Options Overview  
+#### [Geocoding options overview](https://youtu.be/FGXZZ-L0GUg)  
 - Daniel Brendle-Moczuk, University of Victoria
 
-#### PCCF
+#### [Postal Code Conversion File (PCCF): An introduction](https://youtu.be/6Y1QIn2IpSE)
 - Alex Cooper, Queens University
 
-#### DDI – What is it and How can I learn more about it
+#### [DDI – What is it and How can I learn more about it](https://youtu.be/seX-i5vafMA)
 - Jane Fry, Carleton University
 
-#### Using misleading visualizations to teach data literacy and access in an engaging way  
+#### [Using misleading visualizations to teach data literacy and access in an engaging way](https://youtu.be/xAVbA4cbscQ)  
 - Matthew Gertler, Carleton University
 
-#### Projet visant à faire découvrir les collections de données secondaires dans Scholars Portal Dataverse
+#### [Projet visant à faire découvrir les collections de données secondaires dans Scholars Portal Dataverse](https://youtu.be/1l83yl0GQEQ)
 - Chantal Ripp, University of Ottawa
 
-#### Developing a data licensing agreement with the City of Saskatoon  
+#### [Developing a data licensing agreement with the City of Saskatoon](https://youtu.be/sP4sUXhXsBw)
 - Sarah Rutley, University of Saskatchewan  

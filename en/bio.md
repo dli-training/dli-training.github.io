@@ -18,6 +18,8 @@ ref: bio
 
 #### **Chantal Ripp**
 
+Chantal Ripp is the Interim Research Data Management Librarian at University of Ottawa, with a specialization in data services for Social Sciences, Management, Humanities and Law. Prior to arriving at the University, Chantal was the Senior Manager, Data and Repository services at the National Research Council of Canada. Chantal was also the former Program Manager for the Data Liberation Initiative, Statistics Canada. Chantal received her Master of Library and Information Science (MLIS) from the University of Western Ontario. [Back...](/en/2-lightning)
+
 #### **Daniel Brendle-Moczuk**
 
 #### **Gilbert Bede**
