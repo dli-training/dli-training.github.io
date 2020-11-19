@@ -13,7 +13,11 @@ session-link:
 ---
 Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks.<!--more-->
 
+Subtitles are available for all lightning talk videos. You can access the subtitles by clicking on the 'CC' button at the bottom right of the player. You can also access automatically-generated subtitles in other languages by pressing the 'gear' icon in the bottom right of the player, selecting 'Auto-translate', and then selecting the language you prefer.
+
 [Please view the videos in advance of the session](https://youtube.com/playlist?list=PLa6d-V-ljSCyEaf9Vxe9-ZcIcxpxwuIYR).
+
+### Pre-recorded Lightning Talks
 
 #### [Geocoding options overview](https://youtu.be/FGXZZ-L0GUg)  
 - Daniel Brendle-Moczuk, University of Victoria
