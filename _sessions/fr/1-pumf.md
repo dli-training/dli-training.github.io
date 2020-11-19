@@ -5,7 +5,7 @@ hour: 13:00-14:30 HE
 weight: 6
 lang: fr
 ref: 1-pumf
-presenter: [Alex Guindon, Amber Leahey, Grant Gibson, Paul McDonald, Sara Tumpane]
+presenter: [Charles Fleury, Alex Guindon, Amber Leahey, Grant Gibson, Paul McDonald, Sara Tumpane]
 length: 90 minutes
 time: synchronous
 category: presentation

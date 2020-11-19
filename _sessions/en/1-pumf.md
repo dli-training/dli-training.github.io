@@ -5,7 +5,7 @@ hour: 13:00-14:30 ET
 weight: 6
 lang: en
 ref: 1-pumf
-presenter: [Alex Guindon, Amber Leahey, Grant Gibson, Paul McDonald, Sara Tumpane]
+presenter: [Charles Fleury, Alex Guindon, Amber Leahey, Grant Gibson, Paul McDonald, Sara Tumpane]
 length: 90 minutes
 time: synchronous
 category: presentation
@@ -15,7 +15,7 @@ This panel will discuss providing access and facilitating access to Statistics C
 
 The panel will have representatives from the DLI Community, \<odesi\>, researchers, Real Time Remote Access system (RTRA), Virtual Data Lab (vDL), and the Canadian Research Data Centre Network (CRDCN).
 
-## Real Time Remote Access 
+## Real Time Remote Access
 
 The RTRA system is an on-line remote access facility allowing users to run SAS programs, in real-time, against microdata located in a central and secure location.
 
