@@ -18,6 +18,8 @@ Alex Guindon est le Bibliothécaire responsable des services de données à L’
 
 #### **Arden Kayzak**
 
+Arden Kayzak est le Chef de sous-section intérimaire de l'équipe d'Accès libre-service au sein de la division de l'Accès aux données (DAD) de Statistique Canada.  Il fait partie de l'équipe de projet depuis six mois et supervise la collecte des FMGD, l'Initiative de démocratisation des données (IDD) et le système d'Accès à distance en temps réel (ADTR). Avant cela, il a travaillé pendant 10 ans sur l'Enquête canadienne sur les mesures de la santé (ECMS), où il a occupé de nombreuses fonctions différentes allant du développement, de la collecte, des opérations d'enquête et des communications et sur l'Enquête sur la santé des jeunes Ontariens (ESJO) à Statistique Canada. [Retour...](/fr/0-dli-update)
+
 #### **Chantal Ripp**
 
 Chantal Ripp est la bibliothécaire intérimaire en gestion des données de recherche à l'Université d'Ottawa, avec une spécialisation dans les services de données pour les sciences sociales, la gestion, les sciences humaines et le droit. Avant d'arriver à l'Université, Chantal était la gestionnaire principale des services de données et de dépôt au Conseil national de recherches du Canada. Chantal était également l'ancienne gestionnaire de programme pour l'Initiative de démocratisation des données, à Statistique Canada. Chantal a obtenu sa maîtrise en bibliothéconomie et sciences de l'information (MLIS) à l'Université de Western Ontario. [Retour...](/fr/2-lightning)

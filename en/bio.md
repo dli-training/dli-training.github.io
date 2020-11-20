@@ -18,6 +18,8 @@ Alex Guindon is the GIS and Data Services Librarian at Concordia University. Mr.
 
 #### **Arden Kayzak**
 
+Arden Kayzak is the Acting Unit Head for the Self-Serve Access unit in the Data Access Division (DAD) of Statistics Canada.  He has been on the project team for six months, and oversees the PUMF Collection, the Data Liberation Initiative (DLI) & the Real Time Remote Access program (RTRA). Prior to that, he worked 10 years on the Canadian Health Measures Survey (CHMS) in many different capacities ranging from development, collection, survey operations and communications and the Ontario Child Health Study (OCHS) at Statistics Canada. [Back...](/en/0-dli-update)
+
 #### **Chantal Ripp**
 
 Chantal Ripp is the Interim Research Data Management Librarian at University of Ottawa, with a specialization in data services for Social Sciences, Management, Humanities and Law. Prior to arriving at the University, Chantal was the Senior Manager, Data and Repository services at the National Research Council of Canada. Chantal was also the former Program Manager for the Data Liberation Initiative, Statistics Canada. Chantal received her Master of Library and Information Science (MLIS) from the University of Western Ontario. [Back...](/en/2-lightning)

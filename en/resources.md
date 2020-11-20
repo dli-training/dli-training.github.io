@@ -17,7 +17,7 @@ As they become available, you will find the links to the pre-recorded webinars h
 
 ## Statistics Canada Webinars
 
-The following links are pre-recorded webinars from Statistics Canada in `mp4` format. If the video does not automatically play in your browser, please right-click on the link to download it.
+The following links are pre-recorded webinars from Statistics Canada in `mp4` format. If the video does not automatically play in your browser, please right-click on the link to download it from CUDO.
 
 
 [Health Data](https://cudo.carleton.ca/system/files/dli_training/4360/brief-overview-statistics-canadas-health-data-webinar.mp4)
