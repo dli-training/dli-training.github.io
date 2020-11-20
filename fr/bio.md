@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: page
 title: Les biographies
 lang: fr
 ref: bio
