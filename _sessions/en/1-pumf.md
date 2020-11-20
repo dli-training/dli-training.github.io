@@ -16,6 +16,14 @@ This panel will discuss providing access and facilitating access to Statistics C
 
 The panel will have representatives from the DLI Community, \<odesi\>, researchers, Real Time Remote Access system (RTRA), Virtual Data Lab (vDL), and the Canadian Research Data Centre Network (CRDCN).
 
+## Public Use Microdata Files at Concordia University
+
+This short presentation will illustrate how PUMFs are used at Concordia University. It will try to identify the main users and will underline  the important if PUMFs for teaching.
+
+## Advantages and disadvantages of Public Use Microdata Files (PUMF)
+
+This presentation is from a social scientist who makes extensive use of Statistics Canada’s microdata files, including those made available through the Data Liberation Initiative (DLI). The objective is 1) to present the reasons why the researcher uses DLI data; 2) to illustrate the usefulness of such data for research; and 3) to identify the main advantages and disadvantages of such data for research.
+
 ## Real Time Remote Access
 
 The RTRA system is an on-line remote access facility allowing users to run SAS programs, in real-time, against microdata located in a central and secure location.
@@ -23,5 +31,9 @@ The RTRA system is an on-line remote access facility allowing users to run SAS p
 ## Virtual Data Lab
 
 The Virtual Data Lab (vDL) is a new mode on the continuum of access that builds on the foundation of the Research Data Centres (RDCs) and the Canadian Centre for Data Development and Economic Research (CDER). In its end state, the vDL will provide remote access to detailed anonymized social and business microdata for research and analysis through a secure cloud-based interface. After Statistics Canada tested various prototypes, the project team is now launching pilots for external partners to test the vDL environment. With the lessons learned from these pilots, the team will continue to improve the environment until its launch in 2021.
+
+## The Research Data Centres & Centre for Data Development and Economic Research
+
+The presentation will go over the CDER and RDC programs (The DLI environments where masterfiles for business and household data are accessed) including how to access them, and some of the benefits of access to master files compared to the other elements of the continuum of access.
 
 This panel will be presented in a bilingual format and copies of the presentation materials will be available in both English and French prior to the presentations.

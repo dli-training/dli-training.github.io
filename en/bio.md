@@ -8,6 +8,8 @@ ref: bio
 
 #### **Alex Guindon**
 
+Alex Guindon is the GIS and Data Services Librarian at Concordia University. Mr. Guindon obtained a Master in Political Science from Université du Québec à Montréal and a Master in Library and Information Science from Université de Montréal. Mr. Guindon is a member of the Data Liberation Initiative External Advisory Committee (EAD) as well as the Concordia University representative on the Quebec Inter-University Center for Social Statistics (QICSS). [Back...](/en/1-pumf)
+
 #### **Amber Leahey**
 
 #### **Andrea Levett**
@@ -22,11 +24,15 @@ Chantal Ripp is the Interim Research Data Management Librarian at University of 
 
 #### **Charles Fleury**
 
+Charles Fleury is Associate Professor in the Department of Industrial Relations at Laval University and Academic Director of the CIQSS Laboratory at Laval University. As part of his teaching and research, he makes extensive use of Statistics Canada microdata, whether made available through the Data Liberation Initiative (DLI) or the Research Data Centres (RDC) program. His work focuses on integration paths of different groups (immigrants, refugees, generations, etc.), transformations of work and work orientation. [Back...](/en/1-pumf)
+
 #### **Daniel Brendle-Moczuk**
 
 #### **Gilbert Bede**
 
 #### **Grant Gibson**
+
+Grant Gibson is the Assistant Research Program Director at the Canadian Research Data Centres Network, a premier research and training platform for over 2,000 researchers in the quantitative social and health sciences in Canada, which provides unique access to Statistics Canada and administrative data. He holds a Ph.D. in economics from McMaster University. [Back...](/en/1-pumf)
 
 #### **James Doiron**
 
