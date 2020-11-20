@@ -10,6 +10,5 @@ length: 60 minutes
 time: synchronous
 category: presentation
 session-link:
-slides: https://cudo.carleton.ca/system/files/dli_training/4360/dli-novjustice-filesenglish.ppt
-tables: https://cudo.carleton.ca/system/files/dli_training/4360/ressources-de-données-en-ligne-du-ccsj-2019.docx
+slides: [https://cudo.carleton.ca/system/files/dli_training/4360/dli-novjustice-filesenglish.ppt, https://cudo.carleton.ca/system/files/dli_training/4360/ressources-de-données-en-ligne-du-ccsj-2019.docx]
 ---

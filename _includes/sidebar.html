@@ -37,10 +37,6 @@
 </p
 
 <p>
-
-</p>
-
-<p>
 {% if page.session-link %}
   <a href="{{ page.session-link }}">{{item.youtube}}</a>
 {% endif %}
@@ -52,13 +48,6 @@
   <li class="presenter-list">
 {% for slide in page.slides %}
 <a href="{{ slide }}">Slides #{{ forloop.index }}</a><br/>{% endfor %}</li>
-
-<li class="presenter-list">
-{% for table in page.tables %}
-<a href="{{ table }}">Tables</a></li>
-{% endfor %}
-
-<br/>
 
 {% endif %}
 {% endif %}
