@@ -10,4 +10,5 @@ length: 90 minutes
 time: synchronous
 category: presentation
 session-link:
+slides: https://cudo.carleton.ca/system/files/dli_training/4360/2020dlitraining-pdcupdate.pptx
 ---

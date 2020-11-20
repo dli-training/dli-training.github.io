@@ -10,6 +10,7 @@ length: 90 minutes
 time: synchronous
 category: presentation
 session-link:
+slides: https://cudo.carleton.ca/system/files/dli_training/4360/dli-covid-presentationf.pptx
 ---
 Depuis le début de la pandémie de COVID-19, l’équipe du CIDDS a, en collaboration avec divers partenaires, mené huit projets de collecte fondés sur l’approche participative ciblant la population générale, les parents, les étudiants et les personnes handicapées. <!--more-->
 

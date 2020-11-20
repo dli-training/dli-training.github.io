@@ -10,6 +10,8 @@ length: 60 minutes
 time: synchronous
 category: presentation
 session-link:
+slides: [https://cudo.carleton.ca/system/files/dli_training/4360/dli-novjustice-filesenglish.ppt]
+tables: [https://cudo.carleton.ca/system/files/dli_training/4360/ccjs-data-tables-eng.docx]
 ---
 
 This presentation is an opportunity to learn about the various data sets, available through Statistics Canada’s website as well as through the Research Data Centre network, that describe the nature and characteristics of crime and victimization in Canada. <!--more-->

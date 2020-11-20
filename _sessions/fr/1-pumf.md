@@ -10,6 +10,7 @@ length: 90 minutes
 time: synchronous
 category: presentation
 session-link:
+slides: [https://cudo.carleton.ca/system/files/dli_training/4360/vdlupdatedliconferencefrfinalno-notes.pptx, https://cudo.carleton.ca/system/files/dli_training/4360/dli-training-crdcn.pptx]
 ---
 Ce panel discutera de l'accès et de la facilitation de l'accès aux données de Statistique Canada tout au long du continuum de l’accès aux données. <!--more-->
 

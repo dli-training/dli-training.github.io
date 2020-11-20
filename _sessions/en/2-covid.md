@@ -10,6 +10,7 @@ length: 90 minutes
 time: synchronous
 category: presentation
 session-link:
+slides: https://cudo.carleton.ca/system/files/dli_training/4360/dli-covid-presentatione.pptx
 ---
 Since the start of the COVID-19 pandemic the Centre for Social Data Integration and Development (CSDID) team, in conjunction with various partners, has conducted 8 crowdsource surveys targeting the general population, parents, students and persons living with disabilities.<!--more-->
 

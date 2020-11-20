@@ -32,21 +32,12 @@
   </li>
   {% endif %}
 
-
-
 </ul>
 
 </p
 
 <p>
-  <!----
-{% if page.length %}
-  <ul>
-    {{item.time-commit}}
-  <li class="presenter-list">{{ page.length }}</li>
-  <ul>
-{% endif %}
----->
+
 </p>
 
 <p>
@@ -54,6 +45,22 @@
   <a href="{{ page.session-link }}">{{item.youtube}}</a>
 {% endif %}
 </p>
+
+<ul>
+  {% if page.slides %}
+  {{item.slides}}
+  <li class="presenter-list">
+{% for slide in page.slides %}
+<a href="{{ slide }}">Slides #{{ forloop.index }}</a><br/>{% endfor %}</li>
+
+<li class="presenter-list">
+{% for table in page.tables %}
+<a href="{{ table }}">Tables</a></li>
+{% endfor %}
+
+<br/>
+
+{% endif %}
 {% endif %}
 {% endfor %}
 

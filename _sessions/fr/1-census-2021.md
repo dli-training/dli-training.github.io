@@ -10,5 +10,6 @@ length: 60 minutes
 time: synchronous
 category: presentation
 session-link:
+slides: https://cudo.carleton.ca/system/files/dli_training/4360/dli-2021-census-content.pptx
 ---
 Cette présentation donne un aperçu du contenu du questionnaire du recensement de la population de 2021, en mettant l'accent sur le contenu nouveau et modifié.

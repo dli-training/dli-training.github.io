@@ -38,7 +38,6 @@ Gaston Quirion : <gaston.quirion@bibl.ulaval.ca>
 
 Caleb Domsy : <caleb.domsy@humber.ca>  
 Chantal Ripp : <chantal.ripp@uottawa.ca>  
-Deena Yanofsky : <deena.yanofsky@utoronto.ca>  
 
 ### Région de l'ouest
 
