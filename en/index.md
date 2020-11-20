@@ -15,4 +15,5 @@ The 2020 DLI National Training will consist of webinars, workshops, and lightnin
 
 More information about all scheduled and unscheduled activities can be found in the navigation menu.
 
-Questions about the conference? Check out the [FAQ](https://docs.google.com/document/d/11AewnG4tyGNWFwyaFzcaHrJdGv2-bzzi2qxYJ_pO35w/edit?usp=sharing), or [contact us](/en/contact).
+Questions about the conference?  
+Check out the [FAQ](https://docs.google.com/document/d/11AewnG4tyGNWFwyaFzcaHrJdGv2-bzzi2qxYJ_pO35w/edit?usp=sharing), or [contact us](/en/contact).
