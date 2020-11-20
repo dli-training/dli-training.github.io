@@ -1,5 +1,5 @@
 ---
-title: S1 | Gender, Diversity and Inclusion Hub
+title: S1 | The Gender, Diversity and Inclusion Statistics Hub
 date: 2020-11-27
 hour: 13:00-14:00 ET
 weight: 8

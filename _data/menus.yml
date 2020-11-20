@@ -32,7 +32,7 @@ languages:
   name: "IDD formation nationale"
   home: "Accueil"
   url: /fr
-  schedule: "Retour au schedule"
+  schedule: "Retour au programme"
   s-url: /program/
   workshop: "Retour au séminaire"
   w-url: /workshop/

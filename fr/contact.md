@@ -13,7 +13,7 @@ Questions ? [Envoyez-nous un courriel !](mailto:{{ site.email }})
 
 Trouvez votre contact local IDD [ici](https://www.statcan.gc.ca/fra/idd/contact).
 
-## Comité du développement professionnel membres
+## Membres du Comité de développement professionnel
 
 ### Statistique Canada
 

@@ -50,8 +50,6 @@ Kelly Shultz is a Data Visualization Librarian at the University of Toronto. She
 
 #### **Melanie Kowalski**
 
-#### **Michele Hardy**
-
 #### **Paul McDonald**
 
 Paul McDonald is a manager with the Self-Serve Access team in the Data Access Division (DAD) of Statistics Canada.  He has been on the project team for three years, and manages the PUMF Collection, the Data Liberation Initiative (DLI) and the Real Time Remote Access program (RTRA). Prior to that, he worked 26 years on various projects at Statistics Canada, ranging from the Business Register, the Monthly Retail Survey, the Annual Survey of Advertising, the Survey of Labour and Income Dynamics, the Canadian Income Survey & the GTAB project. [Back...](/en/1-pumf)

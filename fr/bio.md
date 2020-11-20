@@ -50,11 +50,9 @@ Kelly Shultz est bibliothécaire spécialisée dans la visualisation des donnée
 
 #### **Melanie Kowalski**
 
-#### **Michele Hardy**
-
 #### **Paul McDonald**
 
-Paul McDonald est responsable de l'équipe d'Accès libre-service au sein de la Division de l'accès aux données (DAD) de Statistique Canada.  Il fait partie de l'équipe de projet depuis trois ans et gère la collecte des FMGD, l'Initiative de démocratisation des données (IDD) et le système d'accès à distance en temps réel (ADTR). Avant cela, il a travaillé pendant 26 ans sur divers projets à Statistique Canada, tels que le registre des entreprises, l'enquête mensuelle sur le commerce de détail, l'enquête annuelle sur la publicité, l'enquête sur la dynamique du travail et du revenu, l'enquête canadienne sur le revenu et le projet GTAB. [Back...](/fr/1-pumf)
+Paul McDonald est responsable de l'équipe d'Accès libre-service au sein de la Division de l'accès aux données (DAD) de Statistique Canada.  Il fait partie de l'équipe de projet depuis trois ans et gère la collecte des FMGD, l'Initiative de démocratisation des données (IDD) et le système d'Accès à distance en temps réel (ADTR). Avant cela, il a travaillé pendant 26 ans sur divers projets à Statistique Canada, tels que le Registre des entreprises, l'Enquête mensuelle sur le commerce de détail, l'Enquête annuelle sur la publicité, l'Enquête sur la dynamique du travail et du revenu, l'Enquête canadienne sur le revenu et le projet GTAB. [Back...](/fr/1-pumf)
 
 #### **Sara Tumpane**
 
