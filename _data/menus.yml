@@ -13,7 +13,7 @@ languages:
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
-  youtube: "Link to recorded session: "
+  youtube: "Link to Teams session: "
   slides: "Download session materials: "
   links:
     - title: "Registration"
@@ -40,7 +40,7 @@ languages:
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
-  youtube: "Lien vers la session enregistrée : "
+  youtube: "Lien vers la session sur Teams : "
   slides: "Télécharger les documents de la session : "
   links:
     - title: "Enregistrement"
