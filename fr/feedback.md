@@ -6,9 +6,9 @@ ref: feedback
 ---
 [Jour 1 Commentaires](https://forms.gle/cPdUBtojAqDXpB3P8)
 
-<!---
-
 [Jour 2 Commentaires](https://forms.gle/q9JYT5PvQUok7W7q9)
+
+<!---
 
 [Jour 3 Commentaires](https://forms.gle/xksMmyoca9WKnu5p8)
 
