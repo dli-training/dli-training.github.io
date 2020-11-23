@@ -26,7 +26,6 @@ languages:
       url: /en/workshop/
     - title: "Resources"
       url: /en/resources/
-
     - title: "Contact"
       url: /en/contact/
 - language: "fr"
@@ -54,7 +53,6 @@ languages:
       url: /fr/workshop/
     - title: "Ressources"
       url: /fr/resources/
-
     - title: "Contact"
       url: /fr/contact/
 
