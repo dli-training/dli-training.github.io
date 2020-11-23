@@ -16,6 +16,8 @@ languages:
   youtube: "JOIN WEBINAR"
   slides: "Download session materials: "
   links:
+    - title: "Feedback"
+      url: /en/feedback/
   #  - title: "Registration"
   #    url: /en/register/
     - title: "Schedule"
@@ -24,8 +26,7 @@ languages:
       url: /en/workshop/
     - title: "Resources"
       url: /en/resources/
-    - title: "Feedback"
-      url: /en/feedback/
+
     - title: "Contact"
       url: /en/contact/
 - language: "fr"
@@ -43,6 +44,8 @@ languages:
   youtube: "PARTICIPER AU WEBINAIRE"
   slides: "Télécharger les documents de la session : "
   links:
+    - title: "Commentaires"
+      url: /fr/feedback/
   #  - title: "Enregistrement"
   #    url: /fr/register/
     - title: "Programme"
@@ -51,8 +54,7 @@ languages:
       url: /fr/workshop/
     - title: "Ressources"
       url: /fr/resources/
-    - title: "Commentaires"
-      url: /fr/feedback/
+
     - title: "Contact"
       url: /fr/contact/
 
