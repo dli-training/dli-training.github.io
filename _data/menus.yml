@@ -16,8 +16,8 @@ languages:
   youtube: "JOIN WEBINAR"
   slides: "Download session materials: "
   links:
-    - title: "Registration"
-      url: /en/register/
+  #  - title: "Registration"
+  #    url: /en/register/
     - title: "Schedule"
       url: /en/program/
     - title: "Workshops"
@@ -43,8 +43,8 @@ languages:
   youtube: "PARTICIPER AU WEBINAIRE"
   slides: "Télécharger les documents de la session : "
   links:
-    - title: "Enregistrement"
-      url: /fr/register/
+  #  - title: "Enregistrement"
+  #    url: /fr/register/
     - title: "Programme"
       url: /fr/program/
     - title: "Séminaire"
