@@ -24,8 +24,8 @@ languages:
       url: /en/workshop/
     - title: "Resources"
       url: /en/resources/
-  #  - title: "Feedback"
-  #    url: /en/feedback/
+    - title: "Feedback"
+      url: /en/feedback/
     - title: "Contact"
       url: /en/contact/
 - language: "fr"
@@ -51,8 +51,8 @@ languages:
       url: /fr/workshop/
     - title: "Ressources"
       url: /fr/resources/
-  #  - title: "Commentaires"
-  #    url: /fr/feedback/
+    - title: "Commentaires"
+      url: /fr/feedback/
     - title: "Contact"
       url: /fr/contact/
 
