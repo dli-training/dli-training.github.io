@@ -12,6 +12,8 @@ Alex Guindon is the GIS and Data Services Librarian at Concordia University. Mr.
 
 #### **Amber Leahey**
 
+Amber Leahey is the Data & GIS Librarian at Scholars Portal, a digital library infrastructure hosted at the University of Toronto Libraries on behalf of the Ontario Council of University Libraries (OCUL).
+
 #### **Andrea Levett**
 
 #### **Andrew Nicholson**

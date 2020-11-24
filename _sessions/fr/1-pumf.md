@@ -24,6 +24,10 @@ Cette courte présentation traitera de l’utilisation des FMGD à l’Universit
 
 Cette présentation est celle d’un chercheur en sciences sociales qui utilisent abondamment les fichiers de microdonnées de Statistique Canada, notamment celles rendues disponible dans le cadre de l’Initiative de démocratisation des données (IDD). L’objectif poursuivi est 1) de présenter les raisons pour lesquelles le chercheur utilise les données de l’IDD ; 2) d’illustrer l’utilité de telles données pour la recherche ; et 3) d’identifier les principaux avantages et désavantages de ces données pour la recherche. [Télécharger les présentations des sessions](https://cudo.carleton.ca/system/files/dli_training/4360/avantages-et-désavantages.pptx).
 
+## ODESI : Réflexion sur 10 ans de collaboration dans les services de données des bibliothèques
+
+Au cours des dix dernières années, l'ODESI a fourni une infrastructure de bibliothèque partagée pour la fourniture de microdonnées gouvernementales sous licence et de sondages d'opinion canadiens destinés à la recherche universitaire et à l'enseignement. Grâce à l'inclusion de collaborations plus ouvertes et plus historiques en matière de données, l'ODESI, en tant que service évolutif, soutient les collections de données nationales gérées par les bibliothèques pour une réutilisation ouverte au Canada.
+
 ## Accès à distance en temps réel
 
 Le système d'ADTR est un mécanisme d'accès à distance en ligne qui permet aux utilisateurs d'exécuter en temps réel des programmes SAS portant sur des ensembles de microdonnées situées dans un emplacement central et sécurisé. [Télécharger les présentations des sessions](https://cudo.carleton.ca/system/files/dli_training/4360/panel-rtra-french.pptx).

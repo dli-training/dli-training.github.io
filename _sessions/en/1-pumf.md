@@ -24,6 +24,10 @@ This short presentation will illustrate how PUMFs are used at Concordia Universi
 
 This presentation is from a social scientist who makes extensive use of Statistics Canada’s microdata files, including those made available through the Data Liberation Initiative (DLI). The objective is 1) to present the reasons why the researcher uses DLI data; 2) to illustrate the usefulness of such data for research; and 3) to identify the main advantages and disadvantages of such data for research. [Download session slides](https://cudo.carleton.ca/system/files/dli_training/4360/advantages-and-disadvantages-dli-datas.pptx).
 
+## ODESI: Reflecting on 10 years of collaboration in library data services
+
+Over the past 10 years, ODESI has provided shared library infrastructure for the delivery of licensed government microdata and Canadian public opinion polls for use in academic research and teaching. Through the inclusion of more open and historical data collaborations, ODESI as an evolving service, supports library-curated national data collections for open reuse in Canada.
+
 ## Real Time Remote Access
 
 The RTRA system is an on-line remote access facility allowing users to run SAS programs, in real-time, against microdata located in a central and secure location. [Download session slides](https://cudo.carleton.ca/system/files/dli_training/4360/panel-rtra-english.pptx).

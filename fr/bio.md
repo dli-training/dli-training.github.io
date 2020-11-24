@@ -12,6 +12,9 @@ Alex Guindon est le Bibliothécaire responsable des services de données à L’
 
 #### **Amber Leahey**
 
+Amber Leahey est la bibliothécaire des données et des SIG du Scholars Portal, une infrastructure de bibliothèque numérique hébergée par les bibliothèques de l'Université de Toronto pour le compte de Conseil des bibliothèques universitaires de l'Ontario.
+
+
 #### **Andrea Levett**
 
 #### **Andrew Nicholson**
