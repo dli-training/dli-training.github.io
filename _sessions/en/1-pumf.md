@@ -26,7 +26,7 @@ This presentation is from a social scientist who makes extensive use of Statisti
 
 ## ODESI: Reflecting on 10 years of collaboration in library data services
 
-Over the past 10 years, ODESI has provided shared library infrastructure for the delivery of licensed government microdata and Canadian public opinion polls for use in academic research and teaching. Through the inclusion of more open and historical data collaborations, ODESI as an evolving service, supports library-curated national data collections for open reuse in Canada.
+Over the past 10 years, ODESI has provided shared library infrastructure for the delivery of licensed government microdata and Canadian public opinion polls for use in academic research and teaching. Through the inclusion of more open and historical data collaborations, ODESI as an evolving service, supports library-curated national data collections for open reuse in Canada. [Download session slides](https://cudo.carleton.ca/system/files/dli_training/4360/odesi-reflecting-10-years-collaboration-library-data-services.pptx).
 
 ## Real Time Remote Access
 
