@@ -17,7 +17,7 @@ Les sous-titres sont disponibles pour toutes les vidéos d'éclair. Vous pouvez 
 
 # Discussions éclair
 
-#### [Geocoding options overview](https://youtu.be/FGXZZ-L0GUg)
+#### [Geocoding options overview](https://youtu.be/AEf2gMM38Bo)
 - Daniel Brendle-Moczuk, University of Victoria
 
 #### [Postal Code Conversion File (PCCF): An introduction](https://youtu.be/6Y1QIn2IpSE)
