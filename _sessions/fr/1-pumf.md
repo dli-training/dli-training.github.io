@@ -26,7 +26,7 @@ Cette présentation est celle d’un chercheur en sciences sociales qui utilisen
 
 ## ODESI : Réflexion sur 10 ans de collaboration dans les services de données des bibliothèques
 
-Au cours des dix dernières années, l'ODESI a fourni une infrastructure de bibliothèque partagée pour la fourniture de microdonnées gouvernementales sous licence et de sondages d'opinion canadiens destinés à la recherche universitaire et à l'enseignement. Grâce à l'inclusion de collaborations plus ouvertes et plus historiques en matière de données, l'ODESI, en tant que service évolutif, soutient les collections de données nationales gérées par les bibliothèques pour une réutilisation ouverte au Canada.
+Au cours des dix dernières années, l'ODESI a fourni une infrastructure de bibliothèque partagée pour la fourniture de microdonnées gouvernementales sous licence et de sondages d'opinion canadiens destinés à la recherche universitaire et à l'enseignement. Grâce à l'inclusion de collaborations plus ouvertes et plus historiques en matière de données, l'ODESI, en tant que service évolutif, soutient les collections de données nationales gérées par les bibliothèques pour une réutilisation ouverte au Canada. [Télécharger les présentations des sessions](https://cudo.carleton.ca/system/files/dli_training/4360/odesi-reflecting-10-years-collaboration-library-data-services-2.pptx)
 
 ## Accès à distance en temps réel
 
