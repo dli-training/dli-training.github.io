@@ -11,7 +11,5 @@ ref: feedback
 [Day 3 Feedback](https://forms.gle/xksMmyoca9WKnu5p8)
 
 [Day 4 Feedback](https://forms.gle/JPHZW2pDokMYa9xd8)
-<!---
-[Day 5 Feedback](https://forms.gle/ahrzLesGpAKjWYwGA)
 
---->
+[Day 5 Feedback](https://forms.gle/ahrzLesGpAKjWYwGA)
