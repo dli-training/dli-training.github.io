@@ -73,6 +73,4 @@ Sara Tumpane est gestionnaire au sein de l'équipe du Laboratoire des données v
 
 #### **Sarah Rutley**
 
-#### **Senka Omercic**
-
 #### **Sylvie Guilmette**  

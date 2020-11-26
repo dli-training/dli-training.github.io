@@ -72,6 +72,4 @@ Sara Tumpane is a manager with the Virtual DataLab (vDL) team in the Data Access
 
 #### **Sarah Rutley**
 
-#### **Senka Omercic**
-
 #### **Sylvie Guilmette**  
