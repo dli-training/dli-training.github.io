@@ -11,9 +11,10 @@ ref: index
 
 # {{ page.title }}
 
-The 2020 DLI National Training will consist of webinars, workshops, and lightning talks in both synchronous and asynchronous formats.
+The 2020 DLI National Training is now over.
 
-More information about all scheduled and unscheduled activities can be found in the navigation menu.
+All of the training materials are available in English and French in the [CUDO Repository](https://cudo.carleton.ca/dli-training/4360), as well as linked to each of the session descriptions in the [Schedule](/en/schedule).
 
-Questions about the conference?  
-Check out the [FAQ](https://docs.google.com/document/d/11AewnG4tyGNWFwyaFzcaHrJdGv2-bzzi2qxYJ_pO35w/edit?usp=sharing), or [contact us](/en/contact).
+We also invite you to submit your [feedback](/en/feedback) on the sessions.
+
+Let us know what you'd like to see at the next DLI training! [Contact](/en/contact) your regional training coordinator with your ideas.

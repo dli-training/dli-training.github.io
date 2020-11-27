@@ -11,9 +11,10 @@ ref: index
 
 # {{ page.title }}
 
-La formation nationale de l'IDD 2020 consistera en des webinaires, des ateliers et des conférences éclair en formats synchrone et asynchrone.
+La formation nationale de l'IDD 2020 est maintenant terminée.
 
-Vous trouverez plus d'informations sur toutes les activités prévues et non prévues dans le menu de navigation.
+Tous les supports de formation sont disponibles en anglais et en français dans  [CUDO](https://cudo.carleton.ca/dli-training/4360), ainsi que des liens vers les descriptions de chaque session dans le [Programme](/fr/schedule).
 
-Des questions sur la conférence ?   
-Consultez la [FAQ](https://docs.google.com/document/d/11AewnG4tyGNWFwyaFzcaHrJdGv2-bzzi2qxYJ_pO35w/edit?usp=sharing) ou [contactez-nous](/fr/contact).
+Nous vous invitons également à nous faire part de vos [commentaires](/fr/feedback) sur les sessions.
+
+Faites-nous savoir ce que vous aimeriez voir lors de la prochaine formation DLI ! [Contactez](/fr/contact) votre coordinateur régional de formation avec vos idées.
