@@ -24,9 +24,11 @@
     {% if include.show_button %}
     {% for item in site.data.contact.languages %}
     {% if item.language == page.lang %}
+    <!---
       <div class="call-box-bottom">
         <a href="{{ item.contact_button_link }}" class="button">{{ item. contact_button_name }}</a>
       </div>
+      --->
     {% endif %}
     {% endfor %}
     {% endif %}
