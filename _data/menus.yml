@@ -16,16 +16,18 @@ languages:
   youtube: "JOIN WEBINAR"
   slides: "Download session materials: "
   links:
-    - title: "Feedback"
-      url: /en/feedback/
+  #  - title: "Feedback"
+  #    url: /en/feedback/
   #  - title: "Registration"
   #    url: /en/register/
-    - title: "Schedule"
-      url: /en/program/
-    - title: "Workshops"
-      url: /en/workshop/
+  #  - title: "Schedule"
+  #    url: /en/program/
+  #  - title: "Workshops"
+  #    url: /en/workshop/
     - title: "Resources"
       url: /en/resources/
+  #  - title: "Event Archive"
+  #    url: /en/archive/
     - title: "Contact"
       url: /en/contact/
 - language: "fr"
@@ -43,16 +45,18 @@ languages:
   youtube: "PARTICIPER AU WEBINAIRE"
   slides: "Télécharger les documents de la session : "
   links:
-    - title: "Commentaires"
-      url: /fr/feedback/
+  #  - title: "Commentaires"
+  #    url: /fr/feedback/
   #  - title: "Enregistrement"
   #    url: /fr/register/
-    - title: "Programme"
-      url: /fr/program/
-    - title: "Séminaire"
-      url: /fr/workshop/
+  #  - title: "Programme"
+  #    url: /fr/program/
+  #  - title: "Séminaire"
+  #    url: /fr/workshop/
     - title: "Ressources"
       url: /fr/resources/
+  #  - title: "Archive des événements"
+  #    url: /fr/archive/
     - title: "Contact"
       url: /fr/contact/
 
