@@ -13,7 +13,7 @@ ref: index
 
 ### Save the Date!
 
-The next DLI Training event will be held during the week of **November 22 - 26**!
+The next DLI Training event will be held during the week of **November 22 - 26, 2021**!
 
 <!--
 
