@@ -11,7 +11,7 @@ ref: contact
 
 Questions ? [Envoyez-nous un courriel !](mailto:{{ site.email }})
 
-Trouvez votre contact local IDD [ici](https://www.statcan.gc.ca/fra/idd/contact).
+Trouvez votre [représentant IDD](https://www.statcan.gc.ca/fra/idd/contact).
 
 ## Membres du Comité de développement professionnel
 

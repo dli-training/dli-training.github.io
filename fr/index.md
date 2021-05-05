@@ -11,8 +11,8 @@ ref: index
 
 # {{ page.title }}
 
-### Réservez la date !
+### À inscrire à votre calendrier !
 
-La prochaine formation de l'IDD aura lieu dans la semaine du **22 au 26 novembre 2021**.
+La prochaine formation nationale de l’IDD aura lieu  dans la semaine du **22 au 26 novembre 2021**.
 
-Faites-nous savoir ce que vous aimeriez voir à la prochaine formation de l'IDD. [Communiquez vos idées](/fr/contact) à votre coordonnateur régional de la formation.
+Dites-nous ce que vous souhaitez pour la prochaine formation nationale. [Transmettez vos idées](/fr/contact) à votre coordonnateur régional de la formation.

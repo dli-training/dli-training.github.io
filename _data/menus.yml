@@ -32,7 +32,7 @@ languages:
       url: /en/contact/
 - language: "fr"
   opposite: "en"
-  name: "IDD formation nationale"
+  name: "Formation nationale de l’IDD"
   home: "Accueil"
   url: /fr
   schedule: "Retour au programme"
