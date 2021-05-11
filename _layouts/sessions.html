@@ -20,7 +20,7 @@ bodyClass: page-sessions-list
 
 <div class="container pt-1 pb-3">
 
-  {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | group_by_exp:"session", "session.date" | sort: "weight" %}
+  {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | where: "session", page.archive | group_by_exp:"session", "session.date" | sort: "weight" %}
   {% for group in posts_by_day %}
 
     <div>
@@ -30,10 +30,11 @@ bodyClass: page-sessions-list
         </div>
         {% for session in site.sessions %}
         {% if session.lang == page.lang %}
+        {% if session.session == page.archive %}
         {% if session.date == group.name %}
         <div>
           <h3>
-            {{ session.hour }} : 
+            {{ session.hour }} :
             <a href="{{ session.url }}">{{ session.title }}</a>
           </h3>
               {% if session.content contains '<!--more-->' %}
@@ -42,6 +43,7 @@ bodyClass: page-sessions-list
           			<p class="session-content">{{ session.content }}</p>
         			{% endif %}
         </div>
+        {% endif %}
         {% endif %}
         {% endif %}
         {% endfor %}

@@ -1,6 +1,6 @@
 ---
-layout: contact
 title: Event Archive
+layout: sessions
 description:
 #intro_image: ""
 #intro_image_absolute: true
@@ -8,3 +8,5 @@ description:
 lang: en
 ref: archive
 ---
+
+[2020 National Training Program]({% link _archive/en/2020.md %})

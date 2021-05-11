@@ -33,14 +33,19 @@
     {{item.presenter}}
     <li class="presenter-list">
 
-  {% for person in page.presenter %}
 
+
+  {% for person in page.presenter %}
+<!---
   <a href="{{ site.url }}/{{ page.lang}}/bio#{{ person | downcase | replace:' ','-'}}">
+  --->
 
   {{ person }}
   </a>
   <br/>
   {% endfor %}
+
+
   </li>
   {% endif %}
 

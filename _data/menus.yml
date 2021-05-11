@@ -10,6 +10,8 @@ languages:
   s-url: /program/
   workshop: "Back to workshops"
   w-url: /workshop/
+  archive-2020: "Back"
+  2020-url: /en/2020/
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -26,8 +28,8 @@ languages:
   #    url: /en/workshop/
     - title: "Resources"
       url: /en/resources/
-  #  - title: "Event Archive"
-  #    url: /en/archive/
+    - title: "Event Archive"
+      url: /en/archive/
     - title: "Contact"
       url: /en/contact/
 - language: "fr"
@@ -39,6 +41,8 @@ languages:
   s-url: /program/
   workshop: "Retour au séminaire"
   w-url: /workshop/
+  archive-2020: "Retour"
+  2020-url: /fr/2020/
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
@@ -55,8 +59,8 @@ languages:
   #    url: /fr/workshop/
     - title: "Ressources"
       url: /fr/resources/
-  #  - title: "Archive des événements"
-  #    url: /fr/archive/
+    - title: "Archive des événements"
+      url: /fr/archive/
     - title: "Contact"
       url: /fr/contact/
 

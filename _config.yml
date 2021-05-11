@@ -28,12 +28,11 @@ seo:
 
 collections:
   sessions:
-    output: true
-    permalink: /:path/
-    sort_by: "weight"
-  team:
-    output: true
-    permalink: /:path/
+          output: true
+          permalink: :path/
+  archive:
+          output: true
+          permalink: /:path/
 
 defaults:
   - scope:
@@ -45,6 +44,7 @@ defaults:
       path: 'images'
     values:
       image: true
+
 
 sass:
   style: compact # possible values: nested expanded compact compressed

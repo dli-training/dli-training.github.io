@@ -4,7 +4,7 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for item in site.data.menus.languages %}
 {% if item.language == page.lang %}
-{% if page.categories contains "presentation" %}
+{% if page.categories contains "" %}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
 {% endif %}
 {% endif %}
@@ -27,4 +27,5 @@
 {% endif %}
 {% endif %}
 {% endfor %}
+
 </div>

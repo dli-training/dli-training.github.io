@@ -6,7 +6,8 @@ weight: 7
 lang: en
 ref: 2-lightning
 presenter: [Daniel Brendle-Moczuk, Alex Cooper, Jane Fry, Matthew Gertler, Chantal Ripp, Sarah Rutley]
-category: presentation
+category: archpresentationive
+session: 2020
 session-link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGIyOGViZWEtMzk4NS00ODMzLTljZTYtOWU3NzIxZmRmMGE1%40thread.v2/0?context=%7b%22Tid%22%3a%22258f1f99-ee3d-42c7-bfc5-7af1b2343e02%22%2c%22Oid%22%3a%22453f2523-0463-455c-94fd-041235866d35%22%7d
 ---
 Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks.<!--more-->
