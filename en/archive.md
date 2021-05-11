@@ -1,6 +1,6 @@
 ---
 title: Event Archive
-layout: sessions
+layout: page
 description:
 #intro_image: ""
 #intro_image_absolute: true

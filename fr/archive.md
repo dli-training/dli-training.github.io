@@ -8,3 +8,5 @@ description:
 lang: fr
 ref: archive
 ---
+
+[2020]({% link _archive/fr/2020.md %})
