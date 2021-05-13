@@ -11,7 +11,7 @@ ref: contact
 
 Questions ? [Envoyez-nous un courriel !](mailto:{{ site.email }})
 
-Trouvez votre [représentant IDD](https://www.statcan.gc.ca/fra/idd/contact).
+Trouvez votre [représentant IDD](https://www.statcan.gc.ca/fra/microdonnees/idd/communaute).
 
 ## Membres du Comité de développement professionnel
 
@@ -31,12 +31,13 @@ Margaret Vail : <mvail@stfx.ca>
 
 ### Québec
 
-Caroline Patenaude : <caroline.patenaude@umontreal.ca>  
+Emanuela Chiriac : <emanuela.chiriac@uqo.ca>   
 Gaston Quirion : <gaston.quirion@bibl.ulaval.ca>  
 
 ### Ontario
 
-Caleb Domsy : <caleb.domsy@humber.ca>  
+Caleb Domsy : <caleb.domsy@humber.ca>
+Vivek Jadon : <vivek@mcmaster.ca>  
 Chantal Ripp : <chantal.ripp@uottawa.ca>  
 
 ### Région de l'ouest

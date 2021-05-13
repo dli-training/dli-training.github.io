@@ -11,7 +11,7 @@ ref: contact
 
 Questions? [Email us!](mailto:{{ site.email }})
 
-Find your local DLI contact [here](https://www.statcan.gc.ca/eng/dli/contact).
+Find your local DLI contact [here](https://www.statcan.gc.ca/eng/microdata/dli/community).
 
 ## Professional Development Committee Members
 
@@ -31,12 +31,13 @@ Margaret Vail : <mvail@stfx.ca>
 
 ### Québec
 
-Caroline Patenaude : <caroline.patenaude@umontreal.ca>  
+Emanuela Chiriac : <emanuela.chiriac@uqo.ca>   
 Gaston Quirion : <gaston.quirion@bibl.ulaval.ca>  
 
 ### Ontario
 
 Caleb Domsy : <caleb.domsy@humber.ca>  
+Vivek Jadon : <vivek@mcmaster.ca>  
 Chantal Ripp : <chantal.ripp@uottawa.ca>   
 
 ### Western Region
