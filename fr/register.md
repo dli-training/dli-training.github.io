@@ -5,7 +5,7 @@ bodyClass:
 lang: fr
 ref: register
 ---
-L'inscription est maintenant terminée.
+Les inscriptions seront bientôt ouvertes !
 Veuillez [nous contacter](/fr/contact) si vous avez besoin de plus d'informations.
 
 <!---

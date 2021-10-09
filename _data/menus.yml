@@ -51,8 +51,8 @@ languages:
   links:
   #  - title: "Commentaires"
   #    url: /fr/feedback/
-  #  - title: "Enregistrement"
-  #    url: /fr/register/
+    - title: "Enregistrement"
+      url: /fr/register/
   #  - title: "Programme"
   #    url: /fr/program/
   #  - title: "Séminaire"
