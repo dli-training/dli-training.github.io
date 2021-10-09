@@ -20,8 +20,8 @@ languages:
   links:
   #  - title: "Feedback"
   #    url: /en/feedback/
-  #  - title: "Registration"
-  #    url: /en/register/
+    - title: "Registration"
+      url: /en/register/
   #  - title: "Schedule"
   #    url: /en/program/
   #  - title: "Workshops"

@@ -6,7 +6,7 @@ lang: en
 ref: register
 ---
 
-Registration is now closed.
+Registration will open soon!.
 Please [contact us](/en/contact) if you need more information.
 
 <!---
