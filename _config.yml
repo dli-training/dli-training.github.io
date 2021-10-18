@@ -29,7 +29,8 @@ seo:
 collections:
   sessions:
           output: true
-          permalink: :path/
+          future: true
+          permalink: /:path/
   archive:
           output: true
           permalink: /:path/
