@@ -7,6 +7,7 @@ intro_image_hide_on_mobile: false
 lang: fr
 ref: program
 category: presentation
+archive: 2021
 ---
 
 Pour participer à l'un des webinaires quotidiens en direct, vous devez vous inscrire en utilisant le [formulaire d'inscription]({% link fr/register.md %}). Vous recevrez à l'avance des liens pour vous inscrire aux webinaires. Les sessions se dérouleront dans la langue du présentateur, mais une traduction sera disponible pour la période de questions et réponses.
