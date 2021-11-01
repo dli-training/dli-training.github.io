@@ -4,7 +4,7 @@ date: 2021-11-22
 hour: 15:00 ET
 lang: fr
 ref: invisible
-presenter: [Kevin Manual, Jeremy Buhler]
+presenter: [Kevin Manual (Ryerson University), Jeremy Buhler (UBC)]
 length:
 time: synchronous
 category: presentation
