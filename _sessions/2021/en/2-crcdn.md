@@ -1,14 +1,14 @@
 ---
-title: S2 | CRCDN
+title: S2 | Canadian Research Data Centre Network (CRDCN)
 date: 2021-11-24
 hour: 15:00 ET
 lang: en
-ref: crcdn
-presenter: [TBD]
+ref: 2-crcdn
+presenter: [Grant Gibson (CRCDN)]
 length:
 time: synchronous
 category: presentation
-session: 2021
+archive: 2021
 session_link:
 slides:
 ---

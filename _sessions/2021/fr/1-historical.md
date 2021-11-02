@@ -4,12 +4,12 @@ date: 2021-11-24
 hour: 13:00 ET
 weight: 1
 lang: fr
-ref: historical
-presenter: [Leanne Trimble (University of Toronto), Susan Mowers (University of Ottawa)]
+ref: 1-historical
+presenter: [Leanne Trimble (University of Toronto), Susan Mowers (Université d'Ottawa)]
 length:
 time: synchronous
 category: presentation
-session: 2021
+archive: 2021
 session_link:
 slides:
 ---
