@@ -1,5 +1,5 @@
 ---
-title: S1 | Subject Matter 2
+title: S1 | Metadata at Statistics Canada
 date: 2021-11-25
 hour: 13:00 ET
 lang: en
@@ -12,3 +12,4 @@ archive: 2021
 session_link:
 slides:
 ---
+The presentation will cover the approach Statistics Canada is taking to manage metadata, including an overview of the standards and tools that will be used.

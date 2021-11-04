@@ -33,8 +33,20 @@ The second code is for main pages. These do not have a year in the URL. Without 
 {% for item in mainmenu %}
   {% if item.language == page.lang %}
   {% if page.category == "presentation" %}
+  {% if page.ref != "program" %}
   <li>
      <a href="{{ site.url }}/{{ page.archive }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
+  </li>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% for item in mainmenu %}
+  {% if item.language == page.lang %}
+  {% if page.ref == "program" %}
+  <li>
+     <a href="{{ site.url }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
   </li>
   {% endif %}
   {% endif %}

@@ -1,7 +1,7 @@
 ---
-title: S2 |  Le Réseau Canadien des Centres de Données de Recherche (RCCDR)
+title: S2 |  Utiliser le réseau IDD pour la recherche académique
 date: 2021-11-24
-hour: 15:00 ET
+hour: 15:00 HE
 lang: fr
 ref: 2-crcdn
 presenter: [Grant Gibson (RCCDR)]
@@ -12,3 +12,4 @@ archive: 2021
 session_link:
 slides:
 ---
+Cette présentation passera en revue les moyens d'utiliser l'IDD pour les travaux universitaires. Des démonstrations de l'utilisation des FMGD (Fichiers de microdonnées à grande diffusion) et de l'ADTR (Accès à distance en temps réel) en lien avec l'ESCC (Enquête sur la santé des collectivités canadiennes) pour recréer un article universitaire constitueront le cœur de la présentation, et les participants comprendront les limites et les avantages de chacun. 

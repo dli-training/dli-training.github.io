@@ -1,5 +1,5 @@
 <!--
-This is the code for the top menu when the screen is small (like on a mobile device). It controls the hamburger menu in the top right, with the exception of the language switcher. 
+This is the code for the top menu when the screen is small (like on a mobile device). It controls the hamburger menu in the top right, with the exception of the language switcher.
 -->
 
 
@@ -29,12 +29,23 @@ The first bit of code is for 'session' pages. These are unique because they have
 
 The second code is for main pages. These do not have a year in the URL. Without this second piece of code, the session pages will have two lanuguage switchers, one of which is wrong. These both hinge on the 'presentation' tag, found in the yaml metadata of the session pages.
 -->
-
 {% for item in mainmenu %}
   {% if item.language == page.lang %}
   {% if page.category == "presentation" %}
+  {% if page.ref != "program" %}
   <li>
      <a href="{{ site.url }}/{{ page.archive }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
+  </li>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% for item in mainmenu %}
+  {% if item.language == page.lang %}
+  {% if page.ref == "program" %}
+  <li>
+     <a href="{{ site.url }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
   </li>
   {% endif %}
   {% endif %}

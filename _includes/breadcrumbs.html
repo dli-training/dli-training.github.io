@@ -1,11 +1,17 @@
 <!-- https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/breadcrumbs.html  -->
 
+<!--
+This code is not working. I can't differentiate between 2021 and 2020.
+  -->
+
 <div class="breadcrumb">
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for item in site.data.menus.languages %}
 {% if item.language == page.lang %}
 {% if page.categories contains "" %}
+
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
+
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -24,6 +30,15 @@
 {% if item.language == page.lang %}
 {% if page.ref contains "bio" %}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% for item in site.data.menus.languages %}
+{% if page.date contains "2020" %}
+{% if item.language == page.lang %}
+<a href="{{ site.url }}/{{ page.lang }}{{ item.2020-url }}">{{ item.archive-2020 }}</a>
 {% endif %}
 {% endif %}
 {% endfor %}

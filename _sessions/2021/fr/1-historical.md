@@ -1,7 +1,7 @@
 ---
 title: S1 | Projet de recensement historique - besoins des utilisateurs et découverte de données
 date: 2021-11-24
-hour: 13:00 ET
+hour: 13:00 HE
 weight: 1
 lang: fr
 ref: 1-historical

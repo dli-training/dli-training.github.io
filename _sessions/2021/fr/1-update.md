@@ -1,7 +1,7 @@
 ---
 title: S1 | Mises à jour - IDD/DAM, CDP, CCE
 date: 2021-11-22
-hour: 13:00 ET
+hour: 13:00 HE
 lang: fr
 ref: 1-update
 presenter: [Arden Kozak (Statistique Canada), Jacquline Tebbens (Statistique Canada)]
