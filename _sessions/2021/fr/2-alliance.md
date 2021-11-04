@@ -1,5 +1,5 @@
 ---
-title: S2 | Alliance RDM - Access Limited Data Discovery Working Group
+title: S2 | Groupe de travail sur la découverte de données à accès limité de Portage
 date: 2021-11-23
 hour: 15:00 HE
 lang: fr
