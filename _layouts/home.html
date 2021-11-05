@@ -10,11 +10,14 @@ bodyClass: page-home
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
 
-        <!--- this is the date / register box on the homepage
+<br>
+<br>
+<br>
+        <!--- this is the date / register box on the homepage --->
         {% if site.homepage.show_call_box %}
           {% include call.html show_button=true %}
         {% endif %}
-        --->
+
 
       </div>
       {% if page.intro_image %}
