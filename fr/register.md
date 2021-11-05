@@ -5,9 +5,8 @@ bodyClass:
 lang: fr
 ref: register
 ---
-Les inscriptions seront bientôt ouvertes !
-Veuillez [nous contacter](/fr/contact) si vous avez besoin de plus d'informations.
+Veuillez remplir le formulaire d'inscription ci-dessous.
+[Contactez-nous](/fr/contact) si vous avez des questions ou si vous souhaitez plus d'informations.
 
-<!---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQhOyQZfhoFJWfbJ2wuV3OFc7n3GOC_UTP4pN4n0-HAXoEew/viewform?embedded=true" width="100%" height="2477" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
---->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVNvpbP6M1E1YSm5KNc6tILmG8ob4FhNHwRVspJulAKAGH9Q/viewform?embedded=true" width="640" height="2059" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
