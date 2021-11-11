@@ -1,5 +1,5 @@
 ---
-title: S1 | Mises à jour - IDD/DAM, CDP, CCE
+title: S1 | Rapport de consultation sur l'IDD
 date: 2021-11-22
 hour: 13:00 HE
 lang: fr

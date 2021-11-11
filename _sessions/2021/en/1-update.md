@@ -1,5 +1,5 @@
 ---
-title: S1 | Updates - DLI/MAD, PDC, EAC
+title: S1 | DLI Consultation Report
 date: 2021-11-22
 hour: 13:00 ET
 lang: en
