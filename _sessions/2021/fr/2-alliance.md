@@ -1,5 +1,5 @@
 ---
-title: S2 | Groupe de travail sur la découverte de données à accès limité de Portage
+title: S2 | Groupe de travail sur la découverte de données à accès limité de l’équipe de GDR de l’Alliance
 date: 2021-11-23
 hour: 15:00 HE
 lang: fr
