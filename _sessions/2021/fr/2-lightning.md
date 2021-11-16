@@ -25,3 +25,5 @@ Les sous-titres sont disponibles pour toutes les vidéos d'éclair. Vous pouvez 
 - Trouver des données sur la race, les populations racialisées et l'antiracisme au Canada peut s'avérer un processus complexe dans le cadre d'une recherche. L'une des sources de données est le Recensement du Canada, qui recueille des données sociodémographiques depuis 1871. Cependant, la collecte de données raciales, ethniques ou indigènes a changé au fil des ans et d'un recensement à l'autre. Cette vidéo donne un aperçu du guide chronologique du recensement, de la façon dont les questions sur l'identité ethno-raciale et autochtone ont été posées au fil du temps, et de certains des défis que pose la recherche de données ethno-raciales.
 
 #### [Dataverse and Metadata Curation Guides - An Introduction](https://youtu.be/Hb7SaesOMSc)
+
+#### [How to make short instructional videos for YouTube (without narrating them yourself!)](https://youtu.be/Bz6TwChfSe4)

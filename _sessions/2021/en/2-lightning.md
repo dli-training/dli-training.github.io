@@ -28,3 +28,5 @@ Subtitles are available for all lightning talk videos. You can access the subtit
 - Finding data on race, racialized populations, and anti-racism in Canada can be a complex process when conducting research. One source of data is the Census of Canada which has been collecting socio-demographic data since 1871. However, the collection of racial, ethnic, or Indigenous data has changed throughout the years and from Census to Census. This video provides an overview of the Census Timeline guide, how questions about ethno-racial and Indigenous identity have been asked over time, and some of the challenges with searching for ethno-racial data.
 
 #### [Dataverse and Metadata Curation Guides - An Introduction](https://youtu.be/Hb7SaesOMSc)  
+
+#### [How to make short instructional videos for YouTube (without narrating them yourself!)](https://youtu.be/Bz6TwChfSe4)
