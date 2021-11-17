@@ -4,7 +4,7 @@ date: 2021-11-26
 hour: 13:00 HE
 lang: fr
 ref: 1-secondary
-presenter: [Julie Marcoux]
+presenter: [Julie Marcoux (Dalhousie University)]
 length:
 time: synchronous
 category: presentation
