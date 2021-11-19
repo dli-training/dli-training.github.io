@@ -4,7 +4,7 @@ date: 2021-11-26
 hour: 15:00 HE
 lang: fr
 ref: 2-discussion
-presenter: [Alex Cooper]
+presenter: [Alex Cooper, Arden Kozak, Jacquline Tebbens]
 length:
 time: synchronous
 category: presentation

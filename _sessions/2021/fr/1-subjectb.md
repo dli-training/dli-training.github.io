@@ -4,7 +4,7 @@ date: 2021-11-25
 hour: 13:00 HE
 lang: fr
 ref: 1-subjectb
-presenter: [TBD]
+presenter: [Chantal Vaillancourt (Statistique Canada)]
 length:
 time: synchronous
 category: presentation
