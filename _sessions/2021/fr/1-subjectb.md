@@ -1,5 +1,5 @@
 ---
-title: S1 | Métadonnées à Statistque Canada
+title: S1 | Métadonnées à Statistique Canada
 date: 2021-11-25
 hour: 13:00 HE
 lang: fr
