@@ -4,7 +4,7 @@ date: 2021-11-26
 hour: 15:00 ET
 lang: en
 ref: 2-discussion
-presenter: [Arden Kayzak, Jacqueline Tebbens]
+presenter: [Alex Cooper, Arden Kayzak, Jacqueline Tebbens]
 length:
 time: synchronous
 category: presentation
