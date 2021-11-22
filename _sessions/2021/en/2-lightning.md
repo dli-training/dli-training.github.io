@@ -9,7 +9,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks.<!--more-->

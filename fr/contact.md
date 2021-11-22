@@ -17,8 +17,8 @@ Trouvez votre [représentant IDD](https://www.statcan.gc.ca/fra/microdonnees/idd
 
 ### Statistique Canada
 
-Arden Kayzak : <arden.kayzak@canada.ca>  
-Jacqueline Tebbens : <jacqueline.tebbens@canada.ca>
+Arden Kayzak : <arden.kayzak@statcan.gc.ca>  
+Jacqueline Tebbens : <jacqueline.tebbens@statcan.gc.ca>
 
 ### Présidente du comité
 

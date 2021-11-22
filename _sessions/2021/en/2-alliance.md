@@ -9,7 +9,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 While Canada continues to make strides towards improving the discovery of research data, many datasets with potential research value remain difficult to find and access due to their sensitive nature, or because custodians lack the infrastructure and/or resources to make them discoverable. <!--more-->

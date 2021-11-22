@@ -10,7 +10,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 This presentation seeks to build on the in-depth, collective expertise of the DLI community, and will also provide a brief update on the project.  As key stakeholders implicated in the proposed Canadian Census data discovery portal, this DLI community discussion will provide valuable insights across a range of structured questions about what makes for good Census data discovery. <!--more-->

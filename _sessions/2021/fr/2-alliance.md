@@ -9,7 +9,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 Bien que le Canada continue de faire des progrès en matière de découverte de données de recherche, de nombreux ensembles de données ayant une valeur potentielle pour la recherche demeurent difficiles à trouver et à consulter en raison de leur nature sensible ou parce que les dépositaires ne disposent pas de l'infrastructure ou des ressources nécessaires pour les rendre accessibles.<!--more-->

@@ -9,7 +9,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 The presentation will cover the approach Statistics Canada is taking to manage metadata, including an overview of the standards and tools that will be used.

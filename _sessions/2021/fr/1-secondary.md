@@ -9,7 +9,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 Le "Speed Dating" des données secondaires est une présentation d'introduction d'une heure qui couvre : comment localiser des données ou des ensembles de données existants sur un sujet de recherche : dépôts de données, portails de données ouverts, recherches documentaires, Google ; où trouver des ressources d'apprentissage pour travailler avec des données ou des ensembles de données secondaires ; un très bref aperçu des mérites et des défis de travailler avec des données secondaires au lieu de faire une recherche originale.<!--more-->

@@ -17,8 +17,8 @@ Find your local DLI contact [here](https://www.statcan.gc.ca/eng/microdata/dli/c
 
 ### Statistics Canada
 
-Arden Kayzak : <arden.kayzak@canada.ca>  
-Jacqueline Tebbens : <jacqueline.tebbens@canada.ca>
+Arden Kayzak : <arden.kayzak@statcan.gc.ca>  
+Jacqueline Tebbens : <jacqueline.tebbens@statcan.gc.ca>
 
 ### Committee Chair
 

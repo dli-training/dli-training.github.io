@@ -9,7 +9,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 Une culture de données durable est également une culture de données inclusive où la planification, l'élaboration de politiques et la recherche tiennent compte des populations marginalisées ou sous-représentées. Les peuples autochtones, les groupes racialisés et les personnes qui s'identifient comme LGBTQ+ sont souvent sous-représentés ou cachés dans les ensembles de données utilisées dans la recherche et dans la planification. Les données sur la santé mentale, la toxicomanie et l'itinérance peuvent également être difficiles à trouver, en particulier pour les populations marginalisées.<!--more-->

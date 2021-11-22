@@ -9,7 +9,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2021
-session_link:
+session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slides:
 ---
 A sustainable data culture is also an inclusive data culture where planning, policy making, and research accounts for marginalized or underrepresented populations. Indigenous Peoples, racialized groups, and people who identify as LGBTQ+ are often underrepresented or hidden in the datasets we rely on for research and planning. Data about mental health, substance abuse, and homelessness can likewise be difficult to find, particularly for marginalized populations.<!--more-->
