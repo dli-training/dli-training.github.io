@@ -4,13 +4,14 @@ date: 2021-11-22
 hour: 15:00 ET
 lang: en
 ref: 2-invisible
-presenter: [Kevin Manual (Ryerson University), Jeremy Buhler (UBC)]
+presenter: [Kevin Manuel (Ryerson University), Jeremy Buhler (UBC)]
 length:
 time: synchronous
 category: presentation
 archive: 2021
 session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
-slides:
+slido: https://app.sli.do/event/8l0n3l62
+slides: https://docs.google.com/presentation/d/1jMWpUGjhRzRur9oZgvE6WzqjuGTfZJdPWbtOfkPqVzQ/edit?usp=sharing
 ---
 A sustainable data culture is also an inclusive data culture where planning, policy making, and research accounts for marginalized or underrepresented populations. Indigenous Peoples, racialized groups, and people who identify as LGBTQ+ are often underrepresented or hidden in the datasets we rely on for research and planning. Data about mental health, substance abuse, and homelessness can likewise be difficult to find, particularly for marginalized populations.<!--more-->
 

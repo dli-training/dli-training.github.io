@@ -17,6 +17,7 @@ languages:
   type: "Session type: "
   youtube: "JOIN WEBINAR"
   slides: "Download session materials: "
+  slido-link: "Q & A for this session on Slido"
   links:
   #  - title: "Feedback"
   #    url: /en/feedback/
@@ -47,6 +48,7 @@ languages:
   time-commit: "Durée : "
   type: "Type de session : "
   youtube: "PARTICIPER AU WEBINAIRE"
+  slido-link: "Q & R pour cette session sur Slido"
   slides: "Télécharger les documents de la session : "
   links:
   #  - title: "Commentaires"
