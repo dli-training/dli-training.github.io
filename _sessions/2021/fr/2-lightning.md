@@ -21,7 +21,7 @@ Les sous-titres sont disponibles pour toutes les vidéos d'éclair. Vous pouvez 
 #### [Being a data juggler - Jane Fry, Carleton University](https://youtu.be/mgUr4meSERo)   
 - Nous sommes nombreux à porter plus d'un chapeau et c'est un défi de garder toutes ces balles en l'air. C'est pourquoi j'aimerais vous offrir quelques suggestions pratiques de la part d'un jongleur expérimenté - ce qui ne veut pas dire que je ne perds jamais la boule moi-même !
 
-#### [Who is counted? How to use the Census of Canada timeline to search for ethno-racial and Indigenous identities - Kevin Manual, Ryerson University; Rosa Orlandini, York University](https://youtu.be/DU67nc_pJo8)  
+#### [Who is counted? How to use the Census of Canada timeline to search for ethno-racial and Indigenous identities - Kevin Manuel, Ryerson University; Rosa Orlandini, York University](https://youtu.be/DU67nc_pJo8)  
 - Trouver des données sur la race, les populations racialisées et l'antiracisme au Canada peut s'avérer un processus complexe dans le cadre d'une recherche. L'une des sources de données est le Recensement du Canada, qui recueille des données sociodémographiques depuis 1871. Cependant, la collecte de données raciales, ethniques ou indigènes a changé au fil des ans et d'un recensement à l'autre. Cette vidéo donne un aperçu du guide chronologique du recensement, de la façon dont les questions sur l'identité ethno-raciale et autochtone ont été posées au fil du temps, et de certains des défis que pose la recherche de données ethno-raciales.
 
 #### [Dataverse and metadata curation guides: An introduction - Alexandra Cooper, Queen’s University; Mark Goodwin, UBC](https://youtu.be/Hb7SaesOMSc)  

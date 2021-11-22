@@ -24,7 +24,7 @@ Subtitles are available for all lightning talk videos. You can access the subtit
 #### [Being a data juggler - Jane Fry, Carleton University](https://youtu.be/mgUr4meSERo)   
 - With so many us of wearing more than one hat, it is a challenge to keep all these balls in the air. So I would like to offer some practical suggestions from an experienced juggler – not to say that I don’t ever drop the ball myself!
 
-#### [Who is counted? How to use the Census of Canada timeline to search for ethno-racial and Indigenous identities - Kevin Manual, Ryerson University; Rosa Orlandini, York University](https://youtu.be/DU67nc_pJo8)  
+#### [Who is counted? How to use the Census of Canada timeline to search for ethno-racial and Indigenous identities - Kevin Manuel, Ryerson University; Rosa Orlandini, York University](https://youtu.be/DU67nc_pJo8)  
 - Finding data on race, racialized populations, and anti-racism in Canada can be a complex process when conducting research. One source of data is the Census of Canada which has been collecting socio-demographic data since 1871. However, the collection of racial, ethnic, or Indigenous data has changed throughout the years and from Census to Census. This video provides an overview of the Census Timeline guide, how questions about ethno-racial and Indigenous identity have been asked over time, and some of the challenges with searching for ethno-racial data.
 
 #### [Dataverse and metadata curation guides: An introduction - Alexandra Cooper, Queen’s University; Mark Goodwin, UBC](https://youtu.be/Hb7SaesOMSc)  
