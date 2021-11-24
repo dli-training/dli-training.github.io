@@ -20,3 +20,6 @@ Grâce à l’expertise de cette communauté quant aux besoins des utilisateurs 
 
 [Lien vers le sondage 1](https://bit.ly/recensP1)  
 Mot de passe: idd
+
+[Lien vers le sondage 2](https://bit.ly/recensP2)  
+Mot de passe: idd
