@@ -4,7 +4,7 @@ date: 2021-11-24
 hour: 15:00 ET
 lang: en
 ref: 2-crcdn
-presenter: [Grant Gibson (CRCDN)]
+presenter: [Grant Gibson (CRDCN)]
 length:
 time: synchronous
 category: presentation
