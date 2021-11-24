@@ -15,4 +15,4 @@ slides: https://docs.google.com/presentation/d/1nNvfmMJWM84d5CoINMrytMJ5AP6ZgttQ
 ---
 Cette présentation passera en revue les moyens d'utiliser l'IDD pour les travaux universitaires. Des démonstrations de l'utilisation des FMGD (Fichiers de microdonnées à grande diffusion) et de l'ADTR (Accès à distance en temps réel) en lien avec l'ESCC (Enquête sur la santé des collectivités canadiennes) pour recréer un article universitaire constitueront le cœur de la présentation, et les participants comprendront les limites et les avantages de chacun.
 
-[Démonstration ADTR](https://youtu.be/kGsxsaXahQ4)
+[Démonstration de l'ADTR](https://youtu.be/kGsxsaXahQ4)
