@@ -21,5 +21,5 @@ Thanks to the knowledge of the DLI community in terms of Census end-users, Censu
 [Survey 1 link](https://bit.ly/censusP1)  
 Password: dli
 
-[Survey 2 link](https://bit.ly/censusPt2)
+[Survey 2 link](https://bit.ly/censusPt2)  
 Password: dli
