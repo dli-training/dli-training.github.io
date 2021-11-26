@@ -17,9 +17,3 @@ slides: https://docs.google.com/presentation/d/1G4C0YxsmVdPfbQNNJD4Yo4UGr2ujFUGZ
 Cette présentation vise, d'une part, à mettre à profit l'expertise collective approfondie de la communauté de l'IDD, de l'autre, à présenter une mise à jour du projet. En tant que parties prenantes clés du projet de portail de découverte des données du recensement du Canada, la tenue de cette discussion au cours de la formation nationale de l'IDD permettra d’obtenir, à partir d'une série de questions structurées, des perspectives fort utiles sur ce qui constitue de bons outils de découverte des données du recensement. <!--more-->
 
 Grâce à l’expertise de cette communauté quant aux besoins des utilisateurs finaux, ainsi qu’aux données et à la documentation du recensement, cette discussion contribuera à l'élaboration d'une validation de principe d'un portail de découverte des données du recensement du Canada.
-
-[Lien vers le sondage 1](https://bit.ly/recensP1)  
-Mot de passe: idd
-
-[Lien vers le sondage 2](https://bit.ly/recensP2)  
-Mot de passe: idd
