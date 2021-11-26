@@ -10,7 +10,8 @@ time: synchronous
 category: presentation
 archive: 2021
 session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
-slides:
+slido: https://app.sli.do/event/8l0n3l62
+slides: https://docs.google.com/presentation/d/1_qijpWO0uzSHdz8nHNgSfrUj_PQdGmcT/edit?usp=sharing&ouid=112190682180433392211&rtpof=true&sd=true
 ---
 Secondary Data Speed Dating is a whirlwind introductory level one hour presentation that covers: how to locate existing data or datasets on a topic of research: data repositories, open data portals, literature searches, Google; where to locate learning resources for working with secondary data or datasets; a very brief overview of the merits and challenges of working with secondary data instead of doing original research. <!--more-->
 
