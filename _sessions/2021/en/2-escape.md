@@ -18,5 +18,3 @@ A disgruntled stack installer has trapped you in the library using the movable s
 - 5 points deducted for each hint given
 - Highest score wins
 - Teams with 100 points will be judged on fastest time
-
-I strongly recommend you play in teams of 3 or 4 people. [Register your team on the signup sheet](https://humberital-my.sharepoint.com/:x:/g/personal/n01081239_humber_ca/ERedSMR7a0FKu-qzamnsSUIBv-bmf0z5Feobhjv1DncXUQ?e=QldslH), then set up a private room (in advance) to collaborate (e.g., MS Teams, Zoom, etc.).
