@@ -12,6 +12,7 @@ archive: 2021
 session_link: https://us06web.zoom.us/j/82345692171?pwd=UTRsZjhBdlZiczRFSWw5cTVDS1g4Zz09
 slido: https://app.sli.do/event/8l0n3l62
 slides:
+youtube_link: https://youtu.be/ggO9gRH3fxo
 ---
 Des discussions éclair seront disponibles pour être visionnés tout au long de la semaine de formation. Au cours de cette session, les présentateurs répondront aux questions sur les exposés préenregistrés. <!--more-->[Veuillez visionner les vidéos avant la session](https://youtube.com/playlist?list=PLa6d-V-ljSCwYp_DLYQrvsqH4qOdy6rDD).
 

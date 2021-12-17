@@ -19,10 +19,12 @@
 {{ page.hour }}
 </p>
 
+
+
 <!--
 <h3>
 {% if page.session_link %}
-  <a href="{{ page.session_link }}">{{item.youtube}}</a>
+  <a href="{{ page.session_link }}">{{item.webinar}}</a>
 {% endif %}
 </h3>
 
@@ -71,7 +73,15 @@
 <a href="{{ slide }}" target="_blank">Document #{{ forloop.index }}</a><br/>{% endfor %}</li>
 
 {% endif %}
+</ul>
 </p>
+
+<h4>
+{% if page.youtube_link %}
+  <a href="{{ page.youtube_link }}">{{item.youtube}}</a>
+{% endif %}
+</h4>
+
 
 
 {% endif %}

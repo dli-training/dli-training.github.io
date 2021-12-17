@@ -15,7 +15,8 @@ languages:
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
-  youtube: "JOIN WEBINAR"
+  webinar: "JOIN WEBINAR"
+  youtube: "Watch on YouTube"
   slides: "Download session materials: "
   slido-link: "Q & A for this session on Slido"
   links:
@@ -47,7 +48,8 @@ languages:
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
-  youtube: "PARTICIPER AU WEBINAIRE"
+  webinar: "PARTICIPER AU WEBINAIRE"
+  youtube: "Regarder sur YouTube"
   slido-link: "Q & R pour cette session sur Slido"
   slides: "Télécharger les documents de la session : "
   links:
