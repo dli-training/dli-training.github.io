@@ -22,8 +22,8 @@ languages:
   links:
     - title: "Feedback"
       url: /en/feedback/
-    - title: "Registration"
-      url: /en/register/
+  #  - title: "Registration"
+  #    url: /en/register/
     - title: "Schedule"
       url: /en/program/
   #  - title: "Workshops"
@@ -56,8 +56,8 @@ languages:
     - title: "Commentaires"
       url: /fr/feedback/
     - title: "Enregistrement"
-      url: /fr/register/
-    - title: "Programme"
+  #    url: /fr/register/
+  #  - title: "Programme"
       url: /fr/program/
   #  - title: "Séminaire"
   #    url: /fr/workshop/
