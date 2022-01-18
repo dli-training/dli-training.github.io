@@ -27,7 +27,7 @@ The following code generates the lanugage switcher in the top navigation menu. I
 
 The first bit of code is for 'session' pages. These are unique because they have a year in the URL. Note that this works for archived sessions as well.
 
-The second code is for main pages. These do not have a year in the URL. Without this second piece of code, the session pages will have two lanuguage switchers, one of which is wrong. These both hinge on the 'presentation' tag, found in the yaml metadata of the session pages.
+The second code is for main pages. These do not have a year in the URL. Without this second piece of code, the session pages will have two language switchers, one of which is wrong. These both hinge on the 'presentation' tag, found in the yaml metadata of the session pages.
 -->
 
 {% for item in mainmenu %}
@@ -35,7 +35,7 @@ The second code is for main pages. These do not have a year in the URL. Without 
   {% if page.category == "presentation" %}
   {% if page.ref != "program" %}
   <li>
-     <a href="{{ site.url }}/{{ page.archive }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
+     <a href="{{ site.url }}/{{ item.opposite }}/{{page.ref}}">{{ item.opposite | upcase }}</a>
   </li>
   {% endif %}
   {% endif %}
