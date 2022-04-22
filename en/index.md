@@ -15,6 +15,7 @@ ref: index
 ### Save the Date!
 
 The next DLI Training event will be held during the week of **November 21 - 25, 2022**!
+
 <!--
 
 All of the training materials are available in English and French in the [CUDO Repository](https://cudo.carleton.ca/dli-training/4360), as well as linked to each of the session descriptions in the [Schedule](/en/schedule).
