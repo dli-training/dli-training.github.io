@@ -1,11 +1,11 @@
 ---
-title: S1 | Projet de recensement historique - besoins des utilisateurs et découverte de données
+title: S1 | Projet de recensement historique : Développer un portail de découverte des données du Recensement du Canada 
 date: 2021-11-24
 hour: 13:00 HE
 weight: 1
 lang: fr
 ref: 1-historical
-presenter: [Leanne Trimble (University of Toronto), Susan Mowers (Université d'Ottawa)]
+presenter: [Susan Mowers (University of Ottawa), Shannon Leitch (University of Ottawa), Leanne Trimble (University of Toronto)]
 length:
 time: synchronous
 category: presentation
