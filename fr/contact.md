@@ -32,7 +32,6 @@ Margaret Vail : <mvail@stfx.ca>
 ### Québec
 
 Emanuela Chiriac : <emanuela.chiriac@uqo.ca>   
-Gaston Quirion : <gaston.quirion@bibl.ulaval.ca>  
 
 ### Ontario
 
