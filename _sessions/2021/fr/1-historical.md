@@ -1,5 +1,5 @@
 ---
-title: S1 | Projet de recensement historique : Développer un portail de découverte des données du Recensement du Canada 
+title: S1 | Projet de recensement historique - Développer un portail de découverte des données du Recensement du Canada 
 date: 2021-11-24
 hour: 13:00 HE
 weight: 1
