@@ -8,10 +8,28 @@ This code is not working. I can't differentiate between 2021 and 2020.
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for item in site.data.menus.languages %}
 {% if item.language == page.lang %}
-{% if page.categories contains "" %}
-
+{% if page.archive == 2022 %}
+{% if page.categories contains "presentation" %}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
 
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% for item in site.data.menus.languages %}
+{% if page.archive == 2020 %}
+{% if item.language == page.lang %}
+<a href="{{ site.url }}/{{ item.2020-url }}">{{ item.archive-2020 }}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% for item in site.data.menus.languages %}
+{% if page.archive == 2021 %}
+{% if item.language == page.lang %}
+<a href="{{ site.url }}/{{ item.2021-url }}">{{ item.archive-2021 }}</a>
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -33,14 +51,4 @@ This code is not working. I can't differentiate between 2021 and 2020.
 {% endif %}
 {% endif %}
 {% endfor %}
-
-{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-{% for item in site.data.menus.languages %}
-{% if page.date contains "2020" %}
-{% if item.language == page.lang %}
-<a href="{{ site.url }}/{{ page.lang }}{{ item.2020-url }}">{{ item.archive-2020 }}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
-
 </div>

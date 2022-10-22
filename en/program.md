@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: false
 lang: en
 ref: program
 category: presentation
-archive: 2021
+archive: 2022
 ---
 
 To participate in any of the live daily webinars, you must register using the [registration form]({% link en/register.md %}). You will receive links to join the webinars in advance. Simultaneous translation will be available for every session.

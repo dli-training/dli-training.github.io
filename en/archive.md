@@ -9,5 +9,5 @@ lang: en
 ref: archive
 ---
 
-### [2020 National Training]({% link _archive/en/2020.md %})
-### [2021 National Training]({% link _archive/en/2021.md %})
+### [2020 National Training]({% link _archive/2020/en/2020-archive.md %})
+### [2021 National Training]({% link _archive/2021/en/2021-archive.md %})

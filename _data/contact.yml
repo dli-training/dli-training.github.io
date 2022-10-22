@@ -4,10 +4,10 @@ languages:
   contact_button_name: "Register"
   contact_button_link: 'register'
   dates: "Live daily webinars from 1 - 4 p.m ET"
-  times: "November 22 to November 26, 2021"
+  times: "November 21 to November 25, 2021"
 - language: "fr"
   email: 'statcan.maddli-damidd.statcan@canada.ca.'
   contact_button_name: "S'inscrire"
   contact_button_link: 'register'
   dates: "Webinaires quotidiens de 13h - 16h HE"
-  times: "22 novembre de 26 novembre, 2020"
+  times: "21 novembre de 25 novembre, 2020"

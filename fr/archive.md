@@ -9,5 +9,5 @@ lang: fr
 ref: archive
 ---
 
-### [Formation nationale 2020]({% link _archive/fr/2020.md %})
-### [Formation nationale 2021]({% link _archive/fr/2021.md %})
+### [Formation nationale 2020]({% link _archive/2020/fr/2020-archive.md %})
+### [Formation nationale 2021]({% link _archive/2021/fr/2021-archive.md %})
