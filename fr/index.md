@@ -21,6 +21,6 @@ Dites-nous ce que vous souhaitez pour la prochaine formation nationale. [Transme
 Consultez les [Archives des événements](/fr/archive) pour obtenir des détails sur les événements de formation DLI passés. Les sessions enregistrées de l'événement de formation 2021 sont disponibles dès maintenant !
 -->
 
-Bienvenue à la formation nationale de l’IDD 2022. Nous avons un programme passionnant cette année ! Une traduction simultanée sera disponible pour chaque session. Les inscriptions seront bientôt ouvertes.
+Bienvenue à la formation nationale de l’IDD 2022. Nous avons un programme passionnant cette année ! Une traduction simultanée sera disponible pour chaque session. Veuillez vous inscrire en utilisant le lien ci-dessous.
 
 Les webinaires seront hébergés par Zoom. Vous pouvez y participer en utilisant votre navigateur, mais d'autres fonctionnalités sont disponibles si vous [téléchargez l'application gratuite](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwil--P_9tjzAhUqp3IEHfEjD2EQFnoECAkQAQ&url=https%3A%2F%2Fzoom.us%2Fdownload&usg=AOvVaw1uZvNGaEcOvlsZlLbjNZlX).
