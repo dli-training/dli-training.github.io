@@ -11,8 +11,9 @@ languages:
   workshop: "Back to workshops"
   w-url: /workshop/
   archive-2020: "Back"
-  2020-url: 2020/en/2020-archive/
-  2021-url: 2021/en/2021-archive/
+  archive-2021: "Back"
+  2020-url: 2020/en/2020/
+  2021-url: 2021/en/2021/
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -45,8 +46,9 @@ languages:
   workshop: "Retour au séminaire"
   w-url: /workshop/
   archive-2020: "Retour"
-  2020-url: /fr/2020/
-  2021-url: /fr/2021/
+  archive-2021: "Retour"
+  2020-url: 2020/fr/2020/
+  2021-url: 2021/fr/2021/
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "

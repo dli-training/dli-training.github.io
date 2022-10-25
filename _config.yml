@@ -26,6 +26,8 @@ seo:
   meta_twitter_site: ""
   meta_twitter_creator: ""
 
+future: true
+
 collections:
   sessions:
     output: true
@@ -33,14 +35,21 @@ collections:
     permalink: /:path/
   archive:
     output: true
+    future: true
     permalink: /:path/
   posts:
     future: true
+    output: true
 
 
 defaults:
   - scope:
       type: sessions
+    values:
+      layout: session
+      bodyClass: page-sessions-single
+  - scope:
+      type: archives
     values:
       layout: session
       bodyClass: page-sessions-single
