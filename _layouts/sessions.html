@@ -35,8 +35,8 @@ bodyClass: page-sessions-list
         <div>
           <h3>
             {{ session.hour }} :
-          <!--  <a href="{{ session.url }}">{{ session.title }}</a>-->
-            {{ session.title }}
+          <a href="{{ session.url }}">{{ session.title }}</a>
+    
           </h3>
               {% if session.content contains '<!--more-->' %}
       				{{ session.content | split:'<!--more-->' | first }}
