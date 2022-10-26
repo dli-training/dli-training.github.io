@@ -5,7 +5,7 @@ hour: 13:00 HE
 weight: 1
 lang: fr
 ref: 1-strategic
-presenter: [Sara Tumpane (Statistique Canada)]
+presenter: [Siobhan Hanratty (University of New Brunswick), Elizabeth Hill (University of Western Ontario)]
 length:
 time: synchronous
 category: presentation
