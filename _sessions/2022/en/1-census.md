@@ -1,20 +1,19 @@
 ---
-title: S1 | 2021 Census of Population Overview
+title: S1 | 2021 Recensement de la population - Aperçu
 date: 2022-11-23
-hour: 13:00 ET
+hour: 13:00 HE
 weight: 1
-lang: en
+lang: fr
 ref: 1-census
-presenter: [Thérèse Nguyen (Statistics Canada), Samuel Dupéré (Statistics Canada)]
+presenter: [Thérèse Nguyen (Statistique Canada), Samuel Dupéré (Statistique Canada)]
 length:
 time: synchronous
 category: presentation
 archive: 2022
-session_link:
-slido:
+session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-This presentation, offered by the Montreal Data Service Center, will provide a brief overview of the new features related to the concepts and variables of the 2021 Census as well as the various products available such as data tables, profiles, visualization tools, analyses, guides, etc. <!--more-->
+Cette présentation, offerte par le Centre de service de données de Montréal, offrira un bref aperçu des nouveautés en lien avec les concepts et variables du Recensement de 2021 ainsi que les différents produits disponibles tels que les tableaux, profils, outils de visualisation, analyses, guides, etc.<!--more-->
 
-A demonstration on the census program webpage will also be included to teach participants how to effectively find and use census data.
+Une démonstration sur la page web du programme du recensement sera également incluse afin d’apprendre aux participants comment trouver efficacement et utiliser les données du recensement.

@@ -17,7 +17,7 @@ languages:
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
-  webinar: "JOIN WEBINAR"
+  webinar: "JOIN ZOOM SESSION"
   youtube: "Watch on YouTube"
   slides: "Download session materials: "
   slido-link: "Q & A for this session on Slido"
