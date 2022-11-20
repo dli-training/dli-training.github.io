@@ -1,9 +1,9 @@
 ---
-title: S2 | Plans de gestion des données de recherche au Canada -  situation, support, services
+title: S2 | Data Management Plans in Canada - Status, Supports, and Services
 date: 2022-11-22
-hour: 14:30 HE
+hour: 14:30 ET
 weight: 1
-lang: fr
+lang: en
 ref: 2-dmp
 presenter: [James Doiron (University of Alberta)]
 length:
@@ -14,6 +14,6 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-Cette séance offre aux participants un aperçu de l'état actuel des plans de gestion des données (PGD) au Canada, y compris les exigences établies par les trois organismes ainsi que le soutien offert aux intervenants sous forme de ressources et de services. <!--more-->
+This session offers participants an overview of the current status of data management plans (DMPs) in Canada, including requirements that are being set forth by the Tri-Agency as well as support available to stakeholders by way of resources and  services. <!--more-->
 
-Des informations générales sur l'importance et les avantages des PGD, un aperçu général de leur contenu, la façon dont ils peuvent soutenir les projets de recherche et les caractéristiques d'un " bon " PGD seront fournies. Le présentateur fera un survol de la plateforme de service gratuite Assistant DMP: il  expliquera comment y accéder, comment l'utiliser, quelles sont ses principales caractéristiques et il donnera un aperçu de ses futurs développements. De plus, une série de ressources gratuites développées par le groupe d'experts en DMP de l'Alliance de la recherche numérique du Canada (DMPEG) sera annoncée, entre autres les guides de création des DMP, les modèles et les exemples de DMP. Il sera enfin question d'une grille d'évaluation des PGD, actuellement en cours d'élaboration, ainsi que des futurs domaines d'intérêt du DMPEG.
+Foundational information regarding the importance and benefits of DMPs, a general overview of their content, how they can support research projects, and what makes a ‘good’ DMP will be provided. A virtual tour of the freely available DMP Assistant service platform will be offered, including how to access and use it, its key features, and a glimpse into its future developments. Additionally, a range of freely available resources developed by the Digital Research Alliance of Canada’s DMP Expert Group (DMPEG) will be highlighted, including those that assist with guiding the development of DMPs, along with DMP templates and exemplars. A DMP assessment rubric that is currently in development, as well as future areas of focus of DMPEG, will additionally be discussed.

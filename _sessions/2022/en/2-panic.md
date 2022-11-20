@@ -1,11 +1,11 @@
 ---
-title: S2 | Pas de panique! Le Guide Hitchhiker du répertoire des formations IDD
+title: S2 | Don’t Panic! The Hitchhiker’s Guide to the DLI Training Repository
 date: 2022-11-21
-hour: 15:00 HE
+hour: 15:00 ET
 weight: 1
-lang: fr
+lang: en
 ref: 2-panic
-presenter: [Alexandra Cooper (Queen's University), Jane Fry (Carleton University), Chantal Ripp (Université d'Ottawa), Sandra Sawchuk (Mount Saint Vincent University), Margaret Vail (St. Francis Xavier University)]
+presenter: [Alexandra Cooper (Queen's University), Jane Fry (Carleton University), Chantal Ripp (University of Ottawa), Sandra Sawchuk (Mount Saint Vincent University), Margaret Vail (St. Francis Xavier University)]
 length:
 time: synchronous
 category: presentation
@@ -14,8 +14,8 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-Au début des années 2000, les bibliothécaires affiliés à l'IDD ont créé un dépôt pour donner accès à du matériel de formation créé par et pour la communauté des données, afin de soutenir le transfert et la diffusion des connaissances. Le dépôt a déjà été déplacé deux fois au cours de ses 20 ans d'existence, mais il doit maintenant être déplacé à nouveau. <!--more-->
+In the early 2000s, DLI-affiliated librarians created a repository to provide access to training materials created by and for the data community as a means of supporting knowledge transfer and dissemination. The repository has moved twice already in its 20-year lifespan, but it now needs to be moved again. <!--more-->
 
-Les meilleures pratiques en matière de métadonnées pour la découverte ont changé de façon spectaculaire au cours des dernières décennies, ce qui est facilement apparent lors de la recherche dans la collection. Après consultation de la communauté des données DLI, il a été déterminé qu'il y avait un désir non seulement pour une description améliorée, mais aussi pour des trajectoires d'apprentissage curées conçues pour soutenir l'apprentissage indépendant et le développement des compétences en littératie des données.
+Best practices in metadata for discovery have changed dramatically over the last few decades, something that is readily apparent when searching the collection. After consultation with the DLI data community, it was determined that there was a desire not only for improved description, but for curated learning trajectories designed to support independent learning and development of data literacy skills.
 
-Cette présentation couvrira les progrès et les défis de la mise en place du dépôt de formation de l'IDD. Il y aura un aperçu du référentiel dans son nouveau domicile, Borealis.
+This presentation will cover the progress and challenges of moving the DLI Training Repository. There will be a preview of the repository in its new home, Borealis.

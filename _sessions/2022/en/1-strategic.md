@@ -1,9 +1,9 @@
 ---
-title: S1 | État des lieux de la planification stratégique
+title: S1 | Current State of Strategic Planning
 date: 2022-11-21
-hour: 13:00 HE
+hour: 13:00 ET
 weight: 1
-lang: fr
+lang: en
 ref: 1-strategic
 presenter: [Siobhan Hanratty (University of New Brunswick), Elizabeth Hill (University of Western Ontario)]
 length:
@@ -14,4 +14,4 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-Le comité exécutif fera le point sur le plan stratégique fondé sur les résultats de la consultation. <!--more-->
+Intergage results from consultation process are being used to develop a strategic plan. EAC co-chairs will provide DLI members with an update on the process. <!--more-->

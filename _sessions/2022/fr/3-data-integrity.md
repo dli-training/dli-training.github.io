@@ -5,7 +5,7 @@ hour: 15:30 HE
 weight: 1
 lang: fr
 ref: 3-data-integrity
-presenter: [Jeremy Buhler (University of British Columbia), Paul Lesack (University of British Columbia), Margaret Vail (St. Francis Xavier University), Sandra Sawchuk (Mount Saint Vincent University)]
+presenter: [Jeremy Buhler (University of British Columbia), Paul Lesack (University of British Columbia), Margaret Vail (St. Francis Xavier University)]
 length:
 time: synchronous
 category: presentation

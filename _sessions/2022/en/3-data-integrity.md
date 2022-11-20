@@ -1,11 +1,11 @@
 ---
-title: S3 | Les fondements de l'intégrité des données
+title: S3 | The Basics of Data Integrity
 date: 2022-11-22
-hour: 15:30 HE
+hour: 15:30 ET
 weight: 1
-lang: fr
+lang: en
 ref: 3-data-integrity
-presenter: [Jeremy Buhler (University of British Columbia), Paul Lesack (University of British Columbia), Margaret Vail (St. Francis Xavier University), Sandra Sawchuk (Mount Saint Vincent University)]
+presenter: [Jeremy Buhler (University of British Columbia), Paul Lesack (University of British Columbia), Margaret Vail (St. Francis Xavier University)]
 length:
 time: synchronous
 category: presentation
@@ -14,6 +14,6 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-Nous parlons souvent de rendre les données FAIR (findable, accessible, interoperable, and reusable), mais qu'en est-il de l'exactitude, de la fiabilité et de la cohérence des données ? <!--more-->
+We often talk about making data FAIR (findable, accessible, interoperable, and reusable), but what about data accuracy, reliability, and consistency?<!--more-->
 
-Les données de recherche passent constamment par des étapes de collecte, de stockage, de transfert, d'archivage et de destruction. Ce mouvement a un coût, car les fichiers stockés ou transférés de manière incorrecte peuvent être inutilisables ou incomplets. Cette session couvrira les bases de l'intégrité des données, de la collecte à la validation. Elle inclut une démo de [l'outil Damage](https://ubc-library-rc.github.io/fcheck/), un utilitaire qui crée des fichiers manifeste dans une variété de formats. Les présentateurs feront appel à des exemples concrets pour illustrer comment Damage pourrait être utilisé par la communauté IDD pour assurer l'intégrité des fichiers téléchargés et pour identifier et corriger les problèmes des données.
+Research data are constantly being moved through stages of collection, storage, transfer, archiving, and destruction. This movement comes at a cost, as files stored or transferred incorrectly may be unusable or incomplete. This session will cover the basics of data integrity, from collection to validation. It will also introduce the [Damage tool](https://ubc-library-rc.github.io/fcheck/), a utility which creates file manifests in a variety of formats. We will draw on real-world examples to illustrate how Damage could be used in the DLI program to assure the integrity of downloaded files and to identify and fix issues in DLI-distributed data.

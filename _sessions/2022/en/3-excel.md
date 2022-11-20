@@ -1,9 +1,9 @@
 ---
-title: S2 | Exceller dans Excel - comment se préparer avant même de s'y mettre?
+title: S2 | Easing into Excellent Excel Practices – What to do and consider before you even get started
 date: 2022-11-23
-hour: 15:00 HE
+hour: 15:00 ET
 weight: 1
-lang: fr
+lang: en
 ref: 3-excel
 presenter: [Julie Marcoux (Dalhousie University)]
 length:
@@ -14,6 +14,6 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-De nombreux étudiants/chercheurs utilisent Excel pour collecter et explorer des données, mais peu savent comment se préparer pour en tirer le maximum. <!--more-->
+Many students/researchers use Excel to collect and explore data, but few know how to best set themselves up for success. <!--more-->
 
-L'introduction aux pratiques d'excellence avec Excel est une présentation amusante - et non un atelier - au cours de laquelle il sera question des incovénients de la manipulation des données dans Excel. Vous découvrirez des trucs et astuces sur la façon de préparer les fichiers, les feuilles de calcul et les données, ainsi que des ressources d'apprentissage.
+Easing into Excellent Excel Practices is a fun presentation (not a workshop) in which we’ll discuss the drawbacks of working with data in Excel, go over tips and tricks on how to prepare files, spreadsheets, and data for work in Excel, and learn about some exceptional Excel learning resources.

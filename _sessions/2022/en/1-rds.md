@@ -1,11 +1,11 @@
 ---
 title: S1 | Rich Data Services (RDS)
 date: 2022-11-25
-hour: 13:00 HE
+hour: 13:00 ET
 weight: 1
-lang: fr
+lang: en
 ref: 1-rds
-presenter: [Sara Tumpane (Statistique Canada)]
+presenter: [Sara Tumpane (Statistics Canada)]
 length:
 time: synchronous
 category: presentation
@@ -14,5 +14,4 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-
-Cette session offrira un aperçu de la manière de naviguer sur le site Web du RDS, y compris la recherche de données, la création d'un ensemble de données ou d'un tableau personnalisé, et le téléchargement des données et des produits de données. <!--more-->
+This session will offer an overview of how to navigate the RDS website, including searching for data, creating a customized dataset or table, and downloading the data and data products.<!--more-->

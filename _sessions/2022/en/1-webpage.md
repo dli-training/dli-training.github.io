@@ -1,9 +1,9 @@
 ---
-title: S1 | Le site web de StatCan - comment trouver ...?
+title: S1 | StatCan Webpages - Where do I find …?
 date: 2022-11-24
-hour: 13:00 HE
+hour: 13:00 ET
 weight: 1
-lang: fr
+lang: en
 ref: 1-webpage
 presenter: [Jane Fry (Carleton University), Lacey Cain (Carleton University)]
 length:
@@ -14,6 +14,6 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-Vous êtes-vous déjà posé la question suivante : où puis-je trouver telle chose sur le site Web de StatCan ? Il nous est arrivé plus d'une fois, et encore plus souvent nous nous sommes plantés en essayant de retrouver une excellente ressource que nous avions déjà vue.<!--more-->
+Have you ever asked yourself the question - where do I find that on the StatCan website? We have many times, and more often than not we are stumped when we try to find an excellent resource we have seen before, but we simply cannot find it quickly enough when we need it, if at all. <!--more-->
 
-Vous allez apprendre quelques ressources utiles - des dépôts de données, des ressources annuelles, des infographies, des portails etc. - que nous avons trouvées et rassemblées sur une page web. Venez voir nos découvertes pour ne pas avoir à réinventer la roue !
+This presentation will show you some helpful data resources we have found to answer the requests we all get regularly. There are data hubs, annual resources, infographics, data bytes, data portals, … that we have found and have put together on a webpage to share with you. Come and check out our discoveries so you won’t have to reinvent the wheel!

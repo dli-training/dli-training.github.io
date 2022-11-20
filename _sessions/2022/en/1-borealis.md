@@ -1,9 +1,9 @@
 ---
-title: S1 | Migration d'ODESI vers Borealis
+title: S1 | Migrating ODESI to the national Borealis data repository
 date: 2022-11-22
-hour: 13:00 HE
+hour: 13:00 ET
 weight: 1
-lang: fr
+lang: en
 ref: 1-borealis
 presenter: [Amber Leahey (Scholar's Portal), Sabina Pagotto (Scholar's Portal), Alicia Urquidi Diaz (Scholar's Portal)]
 length:
@@ -14,6 +14,6 @@ session_link: https://zoom.us/j/98781174156
 slides:
 youtube_link:
 ---
-Depuis le lancement de l'ODESI en 2008, les bibliothèques universitaires ont soutenu le développement d'une infrastructure partagée pour la découverte et l'accès libre à d'importantes collections de données d'enquêtes canadiennes en sciences sociales. <!--more-->
+Since the launch of ODESI in 2008, academic libraries have supported the development of shared infrastructure for open discovery and access to important collections of Canadian social science survey data. <!--more-->
 
-Les métadonnées et les collections sont en train de migrer vers le nouveau dépôt national Borealis, en même temps que l'expertise en curation collaborative, ce qui entraîne la mise au point de nouvelles approches, formations, politiques et documentations d'appoint. Cette présentation donnera un aperçu du projet de migration du dépôt, de la nouvele interface de recherche et des mesures prises par l'équipe technique et le comité de pilotage afin d'assurer une transition efficace au bénéfice des utilisateurs d'ODESI et des bibliothécaires de données.
+With the current migration of all metadata and data collections to the new national Borealis data repository, collaborative curation and best practices are migrating as well, leading to the development of new approaches, training, policies, and documentation, to support the ongoing deposit, curation, and preservation of data in the repository. This presentation will provide an overview of the repository migration project, updates to the search interface to support further integration with Borealis, and steps taken by the technical team and community-led committee to ensure a smooth transition for all ODESI end-users and library data stewards.
