@@ -21,10 +21,12 @@ Les sous-titres sont disponibles pour toutes les vidéos d’éclair. Vous pouve
 
 # Discussions éclair
 
-#### [PCCF Files: What are they? - Lacey Cain, Carleton University](https://youtu.be/bvWSYtSMqGw)  
+- [PCCF Files: What are they? - Lacey Cain, Carleton University](https://youtu.be/bvWSYtSMqGw)  
 
-#### [Talking to colleagues about data: Tips and Challenges - Amy McLay Patterson & Erin May, Thompson Rivers University](https://youtu.be/ZU1eF8e9tTc)  
+- [Talking to colleagues about data: Tips and Challenges - Amy McLay Patterson & Erin May, Thompson Rivers University](https://youtu.be/ZU1eF8e9tTc)  
 
-#### [Statistics Canada: Vital Statistics Databases - Alexandra Cooper, Queen's University](https://youtu.be/w7FtG6jnA0g)  
+- [Statistics Canada: Vital Statistics Databases - Alexandra Cooper, Queen's University](https://youtu.be/w7FtG6jnA0g)  
 
-#### [How to unzip and split large CSV files - Sandra Sawchuk, Mount Saint Vincent University](https://youtu.be/4XlNmYMBbII)
+- [How to unzip and split large CSV files - Sandra Sawchuk, Mount Saint Vincent University](https://youtu.be/4XlNmYMBbII)
+
+- [Working with large datasets: Converting CSV to SPSS - Alexandra Cooper & Ada Lu, Queen's University](https://youtu.be/5FZ20oBrt0s)
