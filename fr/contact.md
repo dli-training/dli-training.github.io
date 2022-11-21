@@ -31,7 +31,7 @@ Margaret Vail : <mvail@stfx.ca>
 
 ### Québec
 
-Emanuela Chiriac : <emanuela.chiriac@uqo.ca>
+Emanuela Chiriac : <emanuela.chiriac@uqo.ca>  
 Giovanna Badia : <giovanna.badia@mcgill.ca>     
 
 ### Ontario
