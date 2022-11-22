@@ -6,7 +6,7 @@ intro_image: "images/location-color.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 lang: en
-ref: zoom-call
+ref: call-in
 ---
 
 Join Zoom Meeting  
