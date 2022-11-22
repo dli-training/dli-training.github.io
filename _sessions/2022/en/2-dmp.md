@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides:
+slides: https://docs.google.com/presentation/d/1R-F6WiALdm5vnb1ErEtDkPXgq05hRmDW/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
 youtube_link:
 ---
 This session offers participants an overview of the current status of data management plans (DMPs) in Canada, including requirements that are being set forth by the Tri-Agency as well as support available to stakeholders by way of resources and  services. <!--more-->

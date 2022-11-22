@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides:
+slides: https://drive.google.com/file/d/15a38csFfgR8GLNCYJ8eUIX2b3n1KOHTS/view?usp=sharing
 youtube_link:
 ---
 Depuis le lancement de l'ODESI en 2008, les bibliothèques universitaires ont soutenu le développement d'une infrastructure partagée pour la découverte et l'accès libre à d'importantes collections de données d'enquêtes canadiennes en sciences sociales. <!--more-->

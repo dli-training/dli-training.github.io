@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides:
+slides: https://docs.google.com/presentation/d/17zgwfK0WbvUZSomeoT0GxVpxJS8FmJUy/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
 youtube_link:
 ---
 Le comité exécutif fera le point sur le plan stratégique fondé sur les résultats de la consultation. <!--more-->
