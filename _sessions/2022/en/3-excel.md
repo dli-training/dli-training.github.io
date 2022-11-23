@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides: ["https://docs.google.com/presentation/d/1EUwHkIuy_t917wt6SgID-WgY9Z9oTKnM/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true","https://dalu-my.sharepoint.com/:f:/g/personal/jl540955_dal_ca/EqZznTzDn_pAg84HOn_uyNgBw-LPfkbGERux9vH-yEbCuQ?e=rFKhWc"]
+slides: ["https://docs.google.com/presentation/d/1EUwHkIuy_t917wt6SgID-WgY9Z9oTKnM/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true","https://dalu-my.sharepoint.com/:f:/g/personal/jl540955_dal_ca/ElFzXVpYasxOh1X4PPZf6bUBeE61AizoFtwFL4VWiVoOCQ?e=aSfNbb", "https://docs.google.com/document/d/180OMv-Dfc_MGAFc9w47Z9Ubuqu_cpBuT9OzdjpfqQdE/edit?usp=share_link"]
 youtube_link:
 ---
 Many students/researchers use Excel to collect and explore data, but few know how to best set themselves up for success. <!--more-->
