@@ -8,9 +8,9 @@ ref: feedback
 
 [Jour 2 Commentaires](https://forms.gle/8NNgC29ktrqHyLiW9)
 
-<!--
-[Jour 3 Commentaires]()
+[Jour 3 Commentaires](https://forms.gle/jRGER8rvk1G7wFtn7)
 
+<!--
 [Jour 4 Commentaires]()
 
 [Jour 5 Commentaires]()

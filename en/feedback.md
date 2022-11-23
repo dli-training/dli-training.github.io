@@ -8,8 +8,9 @@ ref: feedback
 
 [Day 2 Feedback](https://forms.gle/8NNgC29ktrqHyLiW9)
 
+[Day 3 Feedback](https://forms.gle/jRGER8rvk1G7wFtn7)
+
 <!--
-[Day 3 Feedback]()
 
 [Day 4 Feedback]()
 
