@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides:
+slides: https://drive.google.com/file/d/1TY9C3X03nd7spJleTG49_QhrutKf5vZH/view?usp=share_link
 youtube_link:
 ---
 Vous êtes-vous déjà posé la question suivante : où puis-je trouver telle chose sur le site Web de StatCan ? Il nous est arrivé plus d'une fois, et encore plus souvent nous nous sommes plantés en essayant de retrouver une excellente ressource que nous avions déjà vue.<!--more-->
