@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides: ["https://docs.google.com/presentation/d/1EUwHkIuy_t917wt6SgID-WgY9Z9oTKnM/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true", "https://docs.google.com/document/d/1qIOIkB3kriVmUDvINCL0B8cFIYyxAXQM/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true"]
+slides: ["https://docs.google.com/presentation/d/1Ij2QFvAQM1yZ4rDKUlgewd69oi9hi3JO/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true", "https://dalu-my.sharepoint.com/personal/jl540955_dal_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjl540955%5Fdal%5Fca%2FDocuments%2FPresentations%2FData%20Instructional%20Material%2FEnRoute%5FExcellence%5FExcel&ga=1"]
 youtube_link:
 ---
 De nombreux étudiants/chercheurs utilisent Excel pour collecter et explorer des données, mais peu savent comment se préparer pour en tirer le maximum. <!--more-->
