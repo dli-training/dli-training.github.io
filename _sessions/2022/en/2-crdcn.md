@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides:
+slides: ["https://docs.google.com/presentation/d/1VLN9zcUfkfz-rqsN0UhfRqMfunb9NLLM/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true","https://docs.google.com/spreadsheets/d/1sQvT71Fovd4BaEXH-dlWhCn5ug2JpdRC/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true"]
 youtube_link:
 ---
 This session will present an overview of the CRDCN and RDC program.<!--more-->

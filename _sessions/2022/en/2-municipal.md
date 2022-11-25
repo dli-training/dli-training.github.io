@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides:
+slides: https://docs.google.com/presentation/d/15huMjV6uELIPd-DISF6fyVTnLLz591VH/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
 youtube_link:
 ---
 Most public decisions that shape the fundamental character of our way of life are made at the municipal level. From large urban cities to smaller, rural or agricultural areas, municipal data helps us understand our local environment, identify variations between regions and drives local policy. <!--more-->

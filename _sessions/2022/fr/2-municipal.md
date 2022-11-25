@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
-slides:
+slides: https://docs.google.com/presentation/d/1fdKtmcAzjNhcDFj1MNRGoEcxltEnzZyl/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
 youtube_link:
 ---
 La plupart des décisions publiques qui façonnent le caractère fondamental de notre mode de vie sont prises au niveau municipal. Des grandes villes urbaines aux zones rurales ou agricoles plus petites, les données municipales nous aident à comprendre notre environnement local, à identifier les variations entre les régions et à orienter les politiques locales. <!--more-->
