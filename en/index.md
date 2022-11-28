@@ -11,6 +11,10 @@ ref: index
 
 # {{ page.title }}
 
+<!-- the date / register box on the homepage lives in _layouts/home.html and _data/contact.yml
+Change the information in the box in contact.yml, and turn the box off and on in home.html
+-->
+
 <!--
 ### Save the Date!
 
@@ -20,10 +24,16 @@ All of the training materials are available in English and French in the [CUDO R
 
 We also invite you to submit your [feedback](/en/feedback) on the sessions.
 
+-->
+
 Let us know what you'd like to see at the next DLI Training! [Get in touch](/en/contact) with your regional training coordinator with your ideas.
 
-Check out the [Event Archive](/en/archive) for details about past DLI Training events. Sessions recorded from the 2021 Training event are available now!
--->
+Check out the [Event Archive](/en/archive) for details about past DLI Training events. Sessions recorded from the 2022 Training event will be available soon!
+
+<!--
 Welcome to the 2022 DLI National Training. [We have an action packed program this year!]({% link en/program.md %}) Simultaneous translation will be available for every session. Please register using the link below.
 
 Webinars will be hosted using Zoom. You can join using your browser, but there are more features available if you [download the free application](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwil--P_9tjzAhUqp3IEHfEjD2EQFnoECAkQAQ&url=https%3A%2F%2Fzoom.us%2Fdownload&usg=AOvVaw1uZvNGaEcOvlsZlLbjNZlX).
+
+
+-->
