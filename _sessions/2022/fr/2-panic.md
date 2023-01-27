@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://drive.google.com/file/d/1zgQGQJIbMPJryb_cdl6O8LKhtjcqOJfT/view?usp=sharing
-youtube_link:
+youtube_link: https://youtu.be/StJ2JA4b1Lg
 ---
 Au début des années 2000, les bibliothécaires affiliés à l'IDD ont créé un dépôt pour donner accès à du matériel de formation créé par et pour la communauté des données, afin de soutenir le transfert et la diffusion des connaissances. Le dépôt a déjà été déplacé deux fois au cours de ses 20 ans d'existence, mais il doit maintenant être déplacé à nouveau. <!--more-->
 

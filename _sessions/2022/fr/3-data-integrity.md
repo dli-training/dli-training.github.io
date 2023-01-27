@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: ["https://drive.google.com/file/d/1os0FQz6aH5xKWByvOjxWAzyLM3JCN8Xr/view?usp=share_link", "https://drive.google.com/file/d/1y3Y4sJYXxZ2T5R4-P-ubo213oCYaWFdZ/view?usp=share_link"]
-youtube_link:
+youtube_link: https://youtu.be/AkwzOKePWxI
 ---
 Nous parlons souvent de rendre les données FAIR (findable, accessible, interoperable, and reusable), mais qu'en est-il de l'exactitude, de la fiabilité et de la cohérence des données ? <!--more-->
 

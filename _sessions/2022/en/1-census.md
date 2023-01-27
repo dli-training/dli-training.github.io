@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://docs.google.com/presentation/d/172kV2xSW8onKAHG_RelB1z88FKU1Amzf/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/nT0PJkRwccU
 ---
 This presentation, offered by the Montreal Data Service Center, will provide a brief overview of the new features related to the concepts and variables of the 2021 Census as well as the various products available such as data tables, profiles, visualization tools, analyses, guides, etc. <!--more-->
 

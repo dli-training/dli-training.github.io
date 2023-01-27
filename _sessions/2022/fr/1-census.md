@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://docs.google.com/presentation/d/1i3WMINhhHZLcgkMltnpAR98MhThRdZNm/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/nT0PJkRwccU
 ---
 Cette présentation, offerte par le Centre de service de données de Montréal, offrira un bref aperçu des nouveautés en lien avec les concepts et variables du Recensement de 2021 ainsi que les différents produits disponibles tels que les tableaux, profils, outils de visualisation, analyses, guides, etc.<!--more-->
 

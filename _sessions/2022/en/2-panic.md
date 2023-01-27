@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://drive.google.com/file/d/1zgQGQJIbMPJryb_cdl6O8LKhtjcqOJfT/view?usp=sharing
-youtube_link:
+youtube_link: https://youtu.be/StJ2JA4b1Lg
 ---
 In the early 2000s, DLI-affiliated librarians created a repository to provide access to training materials created by and for the data community as a means of supporting knowledge transfer and dissemination. The repository has moved twice already in its 20-year lifespan, but it now needs to be moved again. <!--more-->
 

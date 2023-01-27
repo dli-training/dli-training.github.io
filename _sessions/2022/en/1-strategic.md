@@ -12,6 +12,6 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://docs.google.com/presentation/d/17zgwfK0WbvUZSomeoT0GxVpxJS8FmJUy/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/elLGl61uX8U
 ---
 Intergage results from consultation process are being used to develop a strategic plan. EAC co-chairs will provide DLI members with an update on the process. <!--more-->
