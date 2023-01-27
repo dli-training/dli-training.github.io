@@ -12,6 +12,7 @@ languages:
   w-url: /workshop/
   archive-2020: "Back"
   archive-2021: "Back"
+  archive-2022: "Back"
   2020-url: 2020/en/2020/
   2021-url: 2021/en/2021/
   presenter: "Presented by: "
@@ -26,8 +27,8 @@ languages:
       url: /en/feedback/
   #  - title: "Registration"
   #    url: /en/register/
-    - title: "Schedule"
-      url: /en/program/
+  #  - title: "Schedule"
+  #    url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
     - title: "Resources"
@@ -47,6 +48,7 @@ languages:
   w-url: /workshop/
   archive-2020: "Retour"
   archive-2021: "Retour"
+  archive-2022: "Retour"
   2020-url: 2020/fr/2020/
   2021-url: 2021/fr/2021/
   presenter: "Session présentée par : "
@@ -61,8 +63,8 @@ languages:
       url: /fr/feedback/
   #  - title: "Enregistrement"
   #    url: /fr/register/
-    - title: "Programme"
-      url: /fr/program/
+  #  - title: "Programme"
+  #    url: /fr/program/
   #  - title: "Séminaire"
   #    url: /fr/workshop/
     - title: "Ressources"
