@@ -15,6 +15,7 @@ languages:
   archive-2022: "Back"
   2020-url: 2020/en/2020/
   2021-url: 2021/en/2021/
+  2022-url: 2022/en/2022/
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -51,6 +52,7 @@ languages:
   archive-2022: "Retour"
   2020-url: 2020/fr/2020/
   2021-url: 2021/fr/2021/
+  2022-url: 2022/fr/2022/
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
