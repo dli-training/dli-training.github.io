@@ -10,5 +10,6 @@ ref: archive
 ---
 
 
-### [Formation nationale 2020]({% link _archive/2020/fr/2020.md %})
-### [Formation nationale 2021]({% link _archive/2021/fr/2021.md %})
+### [Formation nationale 2020]({% link 2020/fr/2020.md %})
+### [Formation nationale 2021]({% link 2021/fr/2021.md %})
+### [Formation nationale 2022]({% link 2022/fr/2022.md %})
