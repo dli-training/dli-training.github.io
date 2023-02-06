@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides:
-youtube_link:
+youtube_link: https://youtu.be/-nwcM6I7D2w
 ---
 Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks.<!--more--> [Please watch the videos in advance of the session](https://www.youtube.com/playlist?list=PLa6d-V-ljSCwDg_02nvSXFN7XFqmgf6nH).
 

@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://drive.google.com/file/d/1TY9C3X03nd7spJleTG49_QhrutKf5vZH/view?usp=share_link
-youtube_link:
+youtube_link: https://youtu.be/dl9BkQ0EZNE
 ---
 Have you ever asked yourself the question - where do I find that on the StatCan website? We have many times, and more often than not we are stumped when we try to find an excellent resource we have seen before, but we simply cannot find it quickly enough when we need it, if at all. <!--more-->
 
