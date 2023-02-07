@@ -18,7 +18,7 @@ Find your local DLI contact [here](https://www.statcan.gc.ca/eng/microdata/dli/c
 ### Statistics Canada
 
 Arden Kayzak : <arden.kayzak@statcan.gc.ca>  
-Jacqueline Tebbens : <jacqueline.tebbens@statcan.gc.ca>
+Sara Tumpane : <sara.tumpane@statcan.gc.ca>  
 
 ### Committee Chair
 
@@ -36,7 +36,6 @@ Giovanna Badia : <giovanna.badia@mcgill.ca>
 
 ### Ontario
 
-Caleb Domsy : <caleb.domsy@humber.ca>  
 Vivek Jadon : <vivek@mcmaster.ca>  
 Chantal Ripp : <chantal.ripp@uottawa.ca>   
 
@@ -44,3 +43,7 @@ Chantal Ripp : <chantal.ripp@uottawa.ca>
 
 Amy Paterson : <apaterson@tru.ca>  
 Tara Stieglitz : <stieglitzt@macewan.ca>  
+
+### Colleges
+
+Caleb Domsy : <caleb.domsy@humber.ca>  
