@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://drive.google.com/file/d/15a38csFfgR8GLNCYJ8eUIX2b3n1KOHTS/view?usp=sharing
-youtube_link:
+youtube_link: https://youtu.be/uj1quiiVPuc
 ---
 Since the launch of ODESI in 2008, academic libraries have supported the development of shared infrastructure for open discovery and access to important collections of Canadian social science survey data. <!--more-->
 

@@ -12,7 +12,7 @@ category: presentation
 archive: 2022
 session_link: https://zoom.us/j/98781174156
 slides: https://docs.google.com/presentation/d/1R-F6WiALdm5vnb1ErEtDkPXgq05hRmDW/edit?usp=share_link&ouid=112190682180433392211&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/dHZtOx_7ZQw
 ---
 Cette séance offre aux participants un aperçu de l'état actuel des plans de gestion des données (PGD) au Canada, y compris les exigences établies par les trois organismes ainsi que le soutien offert aux intervenants sous forme de ressources et de services. <!--more-->
 
