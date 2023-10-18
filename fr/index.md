@@ -12,20 +12,21 @@ ref: index
 # {{ page.title }}
 
 <!--
+
 ### À inscrire à votre calendrier !
 
-La prochaine formation nationale de l’IDD aura lieu  dans la semaine du **21 au 25 novembre 2022**.
-
--->
+La prochaine formation nationale de l’IDD aura lieu  dans la semaine du **20 au 22 novembre 2022**.
 
 Dites-nous ce que vous souhaitez pour la prochaine formation nationale. [Transmettez vos idées](/fr/contact) à votre coordonnateur régional de la formation.
 
 Consultez les [Archives des événements](/fr/archive) pour obtenir des détails sur les événements de formation DLI passés. Les sessions enregistrées de l'événement de formation 2022 seront bientôt disponibles !
 
+--->
+
+Bienvenue à la formation nationale de l’IDD 2023. [Nous avons un programme passionnant cette année !]({% link fr/program.md %})
+
 <!--
+Une traduction simultanée sera disponible pour chaque session. Veuillez vous inscrire en utilisant le lien ci-dessous.
+--->
 
-Bienvenue à la formation nationale de l’IDD 2022. [Nous avons un programme passionnant cette année !]({% link fr/program.md %}) Une traduction simultanée sera disponible pour chaque session. Veuillez vous inscrire en utilisant le lien ci-dessous.
-
-Les webinaires seront hébergés par Zoom. Vous pouvez y participer en utilisant votre navigateur, mais d'autres fonctionnalités sont disponibles si vous [téléchargez l'application gratuite](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwil--P_9tjzAhUqp3IEHfEjD2EQFnoECAkQAQ&url=https%3A%2F%2Fzoom.us%2Fdownload&usg=AOvVaw1uZvNGaEcOvlsZlLbjNZlX).
-
--->
+Les webinaires seront hébergés par Zoom. Vous pouvez y participer en utilisant votre navigateur, mais d'autres fonctionnalités sont disponibles si vous [téléchargez l'application gratuite](https://zoom.us/download).
