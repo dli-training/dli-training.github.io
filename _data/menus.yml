@@ -24,12 +24,12 @@ languages:
   slides: "Download session materials: "
   slido-link: "Q & A for this session on Slido"
   links:
-    - title: "Feedback"
-      url: /en/feedback/
+  #  - title: "Feedback"
+  #    url: /en/feedback/
   #  - title: "Registration"
   #    url: /en/register/
-  #  - title: "Schedule"
-  #    url: /en/program/
+    - title: "Schedule"
+      url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
     - title: "Resources"
@@ -61,12 +61,12 @@ languages:
   slido-link: "Q & R pour cette session sur Slido"
   slides: "Télécharger les documents de la session : "
   links:
-    - title: "Commentaires"
-      url: /fr/feedback/
+  #  - title: "Commentaires"
+  #    url: /fr/feedback/
   #  - title: "Enregistrement"
   #    url: /fr/register/
-  #  - title: "Programme"
-  #    url: /fr/program/
+    - title: "Programme"
+      url: /fr/program/
   #  - title: "Séminaire"
   #    url: /fr/workshop/
     - title: "Ressources"
