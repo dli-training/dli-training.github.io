@@ -14,3 +14,11 @@ session_link:
 slides:
 youtube_link:
 ---
+The Statistics Canada Library is happy to invite you to a virtual presentation that will highlight how you can access historic Statistics Canada data. <!--more-->
+
+In this presentation, you’ll learn:
+ - How to use the Statistics Canada Library’s catalogue
+ - How to search the historical catalogue to find the information you need
+ - How to navigate the Historical Resources InfoGuide
+
+Please note that this presentation will help you find published data, not raw data. In addition, this session is geared towards beginners or those who would like a refresher with published non-census data.
