@@ -1,5 +1,5 @@
 ---
-title: S3 | Indigenety as Covered in the 2021 Census - It's REALLY Complicated
+title: S3 | Indigeneity as Covered in the 2021 Census - It's REALLY Complicated
 date: 2023-11-21
 hour: 15:30 ET
 weight: 3
