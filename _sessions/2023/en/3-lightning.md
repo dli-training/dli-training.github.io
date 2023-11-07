@@ -5,7 +5,7 @@ hour: 15:30 ET
 weight: 3
 lang: en
 ref: 3-lightning
-presenter: []
+presenter: [Alparslan Ozturk (Carleton University), Grant Gibson (CRDCN), Julie Marcoux (Dalhousie University), Sarah Rutley and Kevin Read (University of Saskatchewan)]
 length:
 time: synchronous
 category: presentation
