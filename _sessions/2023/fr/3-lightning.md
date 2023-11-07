@@ -5,7 +5,7 @@ hour: 15:30 ET
 weight: 3
 lang: fr
 ref: 3-lightning
-presenter: [ ]
+presenter: [Alparslan Ozturk (Carleton University), Grant Gibson (CRDCN), Julie Marcoux (Dalhousie University), Sarah Rutley and Kevin Read (University of Saskatchewan)]
 length:
 time: synchronous
 category: presentation
@@ -17,7 +17,7 @@ youtube_link:
 Des discussions éclair seront disponibles pour être visionnés tout au long de la semaine de formation. Au cours de cette session, les présentateurs répondront aux questions sur les exposés préenregistrés. Veuillez visionner les vidéos avant la session.<!--more-->
 
 <!--
-[Veuillez visionner les vidéos avant la session](https://www.youtube.com/playlist?list=PLa6d-V-ljSCwDg_02nvSXFN7XFqmgf6nH).
+[Veuillez visionner les vidéos avant la session](https://www.youtube.com/playlist?list=PLa6d-V-ljSCx-OmC5Op6c_Rz-6O_oANbN).
 -->
 
 Les sous-titres sont disponibles pour toutes les vidéos d’éclair. Vous pouvez accéder aux sous-titres en cliquant sur le bouton “CC” en bas à droite du lecteur. Vous pouvez également accéder aux sous-titres générés automatiquement dans d’autres langues en appuyant sur l’icône “engrenage” en bas à droite du lecteur, en sélectionnant “Traduction automatique”, puis en choisissant la langue que vous préférez.
@@ -42,9 +42,11 @@ Comprendre les données peut être difficile et apprendre à le faire peut être
 
 Connaissez-vous les DGUID ? Avez-vous déjà utilisé la fonction Flash Fill d'Excel ? Avez-vous déjà pensé à combiner les DGUID et la fonction Flash Fill d'Excel ? Saviez-vous que vous pouvez visualiser le même fichier Excel dans deux fenêtres différentes en même temps ? Est-ce que cela fait trop de questions ? Découvrez les remplissages flash dans Excel à l'aide d'un exemple pertinent pour la communauté DLI, et laissez-vous surprendre par une astuce incroyablement facile dans Excel - qui fonctionne également dans Microsoft Word - et que personne ne connaît apparemment !
 
-### Survey Weights
+### [Survey Weights](https://youtu.be/1kh9cHrL0DE)
 
 > Grant Gibson (CRDCN)
+
+- [Hyperlien vers des ressources sur Gitlab](https://gitlab.com/c3754/dli_2023.git).
 
 ### Updates from the Access-Limited Data Discovery Working Group
 
