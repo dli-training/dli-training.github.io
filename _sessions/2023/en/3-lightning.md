@@ -16,9 +16,7 @@ youtube_link:
 ---
 Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks.<!--more-->
 
-<!--
-[Please watch the videos in advance of the session](https://www.youtube.com/playlist?list=PLa6d-V-ljSCwDg_02nvSXFN7XFqmgf6nH).
--->
+[Please watch the videos in advance of the session](https://www.youtube.com/playlist?list=PLa6d-V-ljSCx-OmC5Op6c_Rz-6O_oANbN).
 
 Subtitles are available for all lightning talk videos. You can access the subtitles by clicking on the ‘CC’ button at the bottom right of the player. You can also access automatically-generated subtitles in other languages by pressing the ‘gear’ icon in the bottom right of the player, selecting ‘Auto-translate’, and then selecting the language you prefer.
 
@@ -42,7 +40,7 @@ Understanding data can be difficult and learning how to do so can be intimidatin
 
 Do you know about DGUIDs? Have you ever used Excel's Flash Fill feature? Have you ever thought of combining DGUIDs and Excel's Flash Fill? Did you know that you can view the same Excel file in two different windows at the same time? Is that too many questions??? Learn about Flash Fills in Excel using an example relevant to the DLI community, and also be amazed by an incredibly easy trick in Excel - that also works in Microsoft Word - that seemingly no one knows about!
 
-### Survey Weights
+### [Survey Weights](https://youtu.be/1kh9cHrL0DE)
 
 > Grant Gibson (CRDCN)
 
