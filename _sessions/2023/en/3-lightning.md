@@ -44,6 +44,8 @@ Do you know about DGUIDs? Have you ever used Excel's Flash Fill feature? Have yo
 
 > Grant Gibson (CRDCN)
 
+- [Link to resources on Gitlab](https://gitlab.com/c3754/dli_2023.git).
+
 ### Updates from the Access-Limited Data Discovery Working Group
 
 > Sarah Rutley and Kevin Read (University of Saskatchewan)
