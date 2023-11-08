@@ -5,7 +5,7 @@ hour: 15:30 ET
 weight: 3
 lang: en
 ref: 3-lightning
-presenter: [Alparslan Ozturk (Carleton University), Grant Gibson (CRDCN), Julie Marcoux (Dalhousie University), Sarah Rutley and Kevin Read (University of Saskatchewan)]
+presenter: [Alparslan Ozturk (Carleton University), Grant Gibson (CRDCN), Julie Marcoux (Dalhousie University)]
 length:
 time: synchronous
 category: presentation
@@ -45,9 +45,3 @@ Do you know about DGUIDs? Have you ever used Excel's Flash Fill feature? Have yo
 > Grant Gibson (CRDCN)
 
 - [Link to resources on Gitlab](https://gitlab.com/c3754/dli_2023.git).
-
-### Updates from the Access-Limited Data Discovery Working Group
-
-> Sarah Rutley and Kevin Read (University of Saskatchewan)
-
-This presentation provides an update on the activities of the Alliance's Access-Limited Data Discovery Working Group, which was formed in 2020 to investigate the discoverability and accessibility of limited- and restricted- access data in Canada. At DLI National Training in 2021 we shared our progress and gathered feedback on our work scoping the landscape of access-limited data, and we now share findings from the final phase of our work which focused on understanding and improving metadata for restricted-access data. During this phase we identified common ways that restricted data sources describe their data holdings and access procedures, evaluated how well existing metadata schemas support this information, and developed recommendations for making restricted-access data more FAIR.

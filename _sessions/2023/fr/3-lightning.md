@@ -5,7 +5,7 @@ hour: 15:30 ET
 weight: 3
 lang: fr
 ref: 3-lightning
-presenter: [Alparslan Ozturk (Carleton University), Grant Gibson (CRDCN), Julie Marcoux (Dalhousie University), Sarah Rutley and Kevin Read (University of Saskatchewan)]
+presenter: [Alparslan Ozturk (Carleton University), Grant Gibson (CRDCN), Julie Marcoux (Dalhousie University)]
 length:
 time: synchronous
 category: presentation
@@ -45,9 +45,3 @@ Connaissez-vous les DGUID ? Avez-vous déjà utilisé la fonction Flash Fill d'E
 > Grant Gibson (CRDCN)
 
 - [Hyperlien vers des ressources sur Gitlab](https://gitlab.com/c3754/dli_2023.git).
-
-### Updates from the Access-Limited Data Discovery Working Group
-
-> Sarah Rutley and Kevin Read (University of Saskatchewan)
-
-Cette présentation fait le point sur les activités du groupe de travail de l'Alliance sur la découverte des données à accès limité, qui a été formé en 2020 pour étudier la découvrabilité et l'accessibilité des données à accès limité et restreint au Canada. Lors de la formation nationale de l'IDD en 2021, nous avons partagé nos progrès et recueilli des commentaires sur notre travail d'évaluation du paysage des données à accès limité, et nous partageons maintenant les résultats de la phase finale de notre travail qui s'est concentrée sur la compréhension et l'amélioration des métadonnées pour les données à accès limité. Au cours de cette phase, nous avons identifié les méthodes communes utilisées par les sources de données à accès limité pour décrire leurs fonds de données et leurs procédures d'accès, nous avons évalué dans quelle mesure les schémas de métadonnées existants prennent en charge ces informations et nous avons élaboré des recommandations pour rendre les données à accès limité plus faciles à trouver, plus accessibles, plus interopérables et plus réutilisables.
