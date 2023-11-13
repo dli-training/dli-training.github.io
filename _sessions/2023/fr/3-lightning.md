@@ -22,7 +22,7 @@ Les sous-titres sont disponibles pour toutes les vidéos d’éclair. Vous pouve
 
 ## Lightning Talks
 
-### Littératie des données en \[insérez le temps ici\] minutes
+### [Littératie des données en \[insérez le temps ici\] minutes](https://youtu.be/CeeHW4HAUZE)
 
 > Julie Marcoux (Dalhousie University)
 
@@ -34,7 +34,7 @@ Vous serez terrifiés par des nouvelles effrayantes sur les données, étourdis 
 
 Comprendre les données peut être difficile et apprendre à le faire peut être intimidant. Pourtant, l'analyse des données est un élément essentiel de la boîte à outils du chercheur. Parallèlement, pour les spécialistes des données et les bibliothécaires, il peut également être difficile de décider, et facile de se perdre, lorsqu'il s'agit de déterminer où commencer à enseigner les principes fondamentaux de l'analyse des données. Heureusement, nous pouvons maintenant utiliser "Le pouvoir des données" de Statistique Canada. Cette conférence éclair décrira les informations disponibles sur "Statistiques : Le pouvoir des données !" et comment il peut être un outil efficace pour aider à enseigner l'analyse des données.
 
-### La fonction de remplissage instantané d’Excel à la vitesse de l’éclair !
+### [La fonction de remplissage instantané d’Excel à la vitesse de l’éclair !](https://youtu.be/u8sQxnTgbg0)
 
 > Julie Marcoux (Dalhousie University)
 

@@ -22,7 +22,7 @@ Subtitles are available for all lightning talk videos. You can access the subtit
 
 ## Lightning Talks
 
-### Data Literacy in \[insert time here\] Minutes
+### [Data Literacy in \[insert time here\] Minutes](https://youtu.be/_o9hDjTD0JM)
 
 > Julie Marcoux (Dalhousie University)
 
@@ -34,7 +34,7 @@ Be terrified by some spooky data headlines, dazed by the many dimensions of data
 
 Understanding data can be difficult and learning how to do so can be intimidating. Yet data analysis is a vital component in the researcher's toolkit. In parallel, for data specialists and librarians, it can also be difficult to decide, and easy to get lost, when determining where to start  teaching the fundamentals of data analysis. Thankfully, we can now use Statistics Canada's "Power From Data!". This lightning talk will describe what information is available on "Statistics: Power From Data!", and how it can be an effective tool in helping teach data analysis.
 
-### Speed Through Excel's Flash Fill Feature
+### [Speed Through Excel's Flash Fill Feature](https://youtu.be/rf7VuWVMVeU)
 
 > Julie Marcoux (Dalhousie University)
 
