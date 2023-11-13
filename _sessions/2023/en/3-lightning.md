@@ -28,7 +28,7 @@ Subtitles are available for all lightning talk videos. You can access the subtit
 
 Be terrified by some spooky data headlines, dazed by the many dimensions of data, informed by data literacy definitions and frameworks, amazed by interesting examples, and (maybe) feel more ready to explain data literacy to your colleagues as a result of watching this lightning-fast talk.
 
-### Harnessing the “Power From Data!”
+### [Harnessing the “Power From Data!”](https://youtu.be/FpSgMiYRh2U)
 
 > Alparslan Ozturk (Carleton University)
 

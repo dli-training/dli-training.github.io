@@ -28,7 +28,7 @@ Les sous-titres sont disponibles pour toutes les vidéos d’éclair. Vous pouve
 
 Vous serez terrifiés par des nouvelles effrayantes sur les données, étourdis par les nombreuses dimensions des données, informés par les définitions et les cadres de la littératie des données, émerveillés par des exemples intéressants et (peut-être) vous sentirez-vous plus prêts à expliquer la littératie des données à vos collègues après avoir assisté à cet exposé rapide comme l’éclair.
 
-### Harnessing the “Power From Data!”
+### [Harnessing the “Power From Data!”](https://youtu.be/FpSgMiYRh2U)
 
 > Alparslan Ozturk (Carleton University)
 
