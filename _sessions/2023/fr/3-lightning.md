@@ -22,11 +22,11 @@ Les sous-titres sont disponibles pour toutes les vidéos d’éclair. Vous pouve
 
 ## Lightning Talks
 
-### Data Literacy in \[insert time here\] Minutes
+### Littératie des données en \[insérez le temps ici\] minutes
 
 > Julie Marcoux (Dalhousie University)
 
-Vous serez terrifiés par quelques titres effrayants sur les données, étourdis par les nombreuses dimensions des données, informés par les définitions et les cadres de la maîtrise des données, émerveillés par des exemples intéressants et (peut-être) vous sentirez-vous plus prêts à expliquer la maîtrise des données à vos collègues après avoir assisté à cet exposé rapide comme l'éclair.
+Vous serez terrifiés par des nouvelles effrayantes sur les données, étourdis par les nombreuses dimensions des données, informés par les définitions et les cadres de la littératie des données, émerveillés par des exemples intéressants et (peut-être) vous sentirez-vous plus prêts à expliquer la littératie des données à vos collègues après avoir assisté à cet exposé rapide comme l’éclair.
 
 ### Harnessing the “Power From Data!”
 
@@ -34,11 +34,11 @@ Vous serez terrifiés par quelques titres effrayants sur les données, étourdis
 
 Comprendre les données peut être difficile et apprendre à le faire peut être intimidant. Pourtant, l'analyse des données est un élément essentiel de la boîte à outils du chercheur. Parallèlement, pour les spécialistes des données et les bibliothécaires, il peut également être difficile de décider, et facile de se perdre, lorsqu'il s'agit de déterminer où commencer à enseigner les principes fondamentaux de l'analyse des données. Heureusement, nous pouvons maintenant utiliser "Le pouvoir des données" de Statistique Canada. Cette conférence éclair décrira les informations disponibles sur "Statistiques : Le pouvoir des données !" et comment il peut être un outil efficace pour aider à enseigner l'analyse des données.
 
-### Speed Through Excel's Flash Fill Feature
+### La fonction de remplissage instantané d’Excel à la vitesse de l’éclair !
 
 > Julie Marcoux (Dalhousie University)
 
-Connaissez-vous les DGUID ? Avez-vous déjà utilisé la fonction Flash Fill d'Excel ? Avez-vous déjà pensé à combiner les DGUID et la fonction Flash Fill d'Excel ? Saviez-vous que vous pouvez visualiser le même fichier Excel dans deux fenêtres différentes en même temps ? Est-ce que cela fait trop de questions ? Découvrez les remplissages flash dans Excel à l'aide d'un exemple pertinent pour la communauté DLI, et laissez-vous surprendre par une astuce incroyablement facile dans Excel - qui fonctionne également dans Microsoft Word - et que personne ne connaît apparemment !
+Connaissez-vous les DGUID ? Avez-vous déjà utilisé la fonction remplissage instantané d’Excel ? Avez-vous déjà pensé à combiner les DGUID et la fonction remplissage instantané d’Excel ? Saviez-vous que vous pouvez visualiser le même fichier Excel dans deux fenêtres différentes en même temps ? Est-ce que cela fait trop de questions ? Découvrez la fonction remplissage instantané dans Excel à l’aide d’un exemple pertinent pour la communauté IDD, et laissez-vous surprendre par une astuce incroyablement facile dans Excel - qui fonctionne également dans Microsoft Word - et que personne ne connaît apparemment !
 
 ### [Survey Weights](https://youtu.be/1kh9cHrL0DE)
 
