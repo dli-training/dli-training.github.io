@@ -1,7 +1,7 @@
 ---
 title: S1 | Le rapport du Comité consultatif externe
 date: 2023-11-20
-hour: 13:00 ET
+hour: 13:30 ET
 weight: 1
 lang: fr
 ref: 1-eac
