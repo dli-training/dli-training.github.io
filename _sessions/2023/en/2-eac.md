@@ -1,10 +1,10 @@
 ---
-title: S1 | External Advisory Committee Report
+title: S2 | External Advisory Committee Report
 date: 2023-11-20
-hour: 13:00 ET
-weight: 1
+hour: 13:30 ET
+weight: 2
 lang: en
-ref: 1-eac
+ref: 2-eac
 presenter: [Liz Hill (Western University), Siobhan Hanratty (University of New Brunswick)]
 length:
 time: synchronous
