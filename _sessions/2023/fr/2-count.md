@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
-slides:
+slides: https://drive.google.com/drive/folders/1x8lIinc4b7_o1stG-rXEikJv2w86gNHp?usp=share_link
 youtube_link:
 ---
 Souhaitez-vous savoir comment accéder aux données de recensement modernes et historiques ? Joignez-vous à une présentation virtuelle avec la Bibliothèque de Statistique Canada pour découvrir les outils, les pages Web et les ressources qui vous aideront dans vos recherches sur le recensement. <!--more-->

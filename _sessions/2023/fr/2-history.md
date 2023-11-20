@@ -5,13 +5,13 @@ hour: 14:15 ET
 weight: 2
 lang: fr
 ref: 2-history
-presenter: [ (Statistics Canada Library)]
+presenter: [Statistics Canada Library]
 length:
 time: synchronous
 category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
-slides:
+slides: https://drive.google.com/drive/folders/1x8lIinc4b7_o1stG-rXEikJv2w86gNHp?usp=share_link
 youtube_link:
 ---
 La Bibliothèque de Statistique Canada vous invite à une présentation virtuelle qui mettra en évidence comment accéder aux données historiques de Statistique Canada. <!--more-->

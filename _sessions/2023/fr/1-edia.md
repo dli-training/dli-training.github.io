@@ -11,7 +11,7 @@ time: synchronous
 category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
-slides:
+slides: https://docs.google.com/presentation/d/1hq5Z8nknIKlp2Q2_G9yB-ow2Oma2U6T3/edit?usp=share_link&ouid=109853946981534204449&rtpof=true&sd=true
 youtube_link:
 ---
 En tant que sous-groupe du groupe d'intérêt de l'IASSIST sur les ressources de données sur la diversité, l'équité et l'inclusion, l'équipe du Guide des données LGBTQ+ de l'IASSIST a été créée en septembre 2023. Présidée par Kevin Manuel, bibliothécaire de données de l'Université métropolitaine de Toronto, elle compte des membres du monde entier qui apportent leurs connaissances et leur expertise en matière de ressources de données LGBTQ+. <!--more-->
