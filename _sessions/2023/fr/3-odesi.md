@@ -11,6 +11,6 @@ time: synchronous
 category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
-slides:
+slides: https://docs.google.com/presentation/d/1ZXDZSmyasbemIIBPcx0GGnB727fo-wMV/edit?usp=share_link&ouid=109853946981534204449&rtpof=true&sd=true
 youtube_link:
 ---
