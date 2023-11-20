@@ -10,7 +10,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2023
-session_link:
+session_link: https://zoom.us/j/98590203110
 slides:
 youtube_link:
 ---
@@ -20,5 +20,5 @@ Vous apprendrez notamment :
  - Comment accéder à des renseignements sommaires sur les recensements de 1665 à 2021
  - Comment trouver les résultats de recensement historiques
  - Conseils et astuces pour trouver des données modernes
- 
+
 Veuillez noter que cette présentation vous aidera à trouver des données publiées et non des données brutes. De plus, cette séance s'adresse aux débutants ou à ceux qui souhaitent se remettre à jour avec les données de recensement publiées.

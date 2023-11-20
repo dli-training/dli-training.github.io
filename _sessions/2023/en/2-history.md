@@ -10,7 +10,7 @@ length:
 time: synchronous
 category: presentation
 archive: 2023
-session_link:
+session_link: https://zoom.us/j/98590203110
 slides:
 youtube_link:
 ---
