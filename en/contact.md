@@ -41,8 +41,8 @@ Chantal Ripp : <chantal.ripp@uottawa.ca>
 
 ### Western Region
 
-Amy Paterson : <apaterson@tru.ca>  
 Tara Stieglitz : <stieglitzt@macewan.ca>  
+Robyn Stubbs : <rstobbs@athabascau.ca>
 
 ### Colleges
 

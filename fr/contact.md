@@ -41,8 +41,8 @@ Chantal Ripp : <chantal.ripp@uottawa.ca>
 
 ### Région de l'ouest
 
-Amy Paterson : <apaterson@tru.ca>  
 Tara Stieglitz : <stieglitzt@macewan.ca>  
+Robyn Stubbs : <rstobbs@athabascau.ca>
 
 ### Collèges
 
