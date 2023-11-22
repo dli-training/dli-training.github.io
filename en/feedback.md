@@ -8,10 +8,4 @@ ref: feedback
 
 [Day 2 Feedback](https://forms.gle/JF5bteaR9PGZKPoUA)
 
-<!--
-
-[Day 3 Feedback]()
-
-- [CRDCN Feeback](https://forms.office.com/r/k7mtVsmCt5)
-
--->
+[Day 3 Feedback](https://forms.gle/ssrmtH6jD59NJPuy7)

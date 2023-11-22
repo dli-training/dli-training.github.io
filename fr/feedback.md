@@ -8,10 +8,4 @@ ref: feedback
 
 [Jour 2 Commentaires](https://forms.gle/JF5bteaR9PGZKPoUA)
 
-<!--
-
-[Jour 3 Commentaires](https://forms.gle/jRGER8rvk1G7wFtn7)
-
-- [RCCDR Feeback](https://forms.office.com/r/k7mtVsmCt5)
-
--->
+[Jour 3 Commentaires](https://forms.gle/ssrmtH6jD59NJPuy7)
