@@ -13,6 +13,7 @@ languages:
   archive-2020: "Back"
   archive-2021: "Back"
   archive-2022: "Back"
+  archive-2023: "Back"
   2020-url: 2020/en/2020/
   2021-url: 2021/en/2021/
   2022-url: 2022/en/2022/
@@ -50,6 +51,7 @@ languages:
   w-url: /workshop/
   archive-2020: "Retour"
   archive-2021: "Retour"
+  archive-2022: "Retour"
   archive-2022: "Retour"
   2020-url: 2020/fr/2020/
   2021-url: 2021/fr/2021/
