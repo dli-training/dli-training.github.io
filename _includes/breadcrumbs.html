@@ -45,6 +45,16 @@ This code is not working. I can't differentiate between 2021 and 2020.
 
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for item in site.data.menus.languages %}
+{% if page.archive == 2023 %}
+{% if item.language == page.lang %}
+<a href="{{ site.url }}/{{ item.2023-url }}">{{ item.archive-2023 }}</a>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% for item in site.data.menus.languages %}
 {% if item.language == page.lang %}
 {% if page.categories contains "workshop" %}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.w-url }}">{{ item.workshop }}</a>
