@@ -25,19 +25,23 @@ All of the training materials are available in English and French in the [CUDO R
 
 We also invite you to submit your [feedback](/en/feedback) on the sessions.
 
-
+-->
 
 Let us know what you'd like to see at the next DLI Training! [Get in touch](/en/contact) with your regional training coordinator with your ideas.
 
 Check out the [Event Archive](/en/archive) for details about past DLI Training events.
--->
 
-Welcome to the 2023 DLI National Training. [We have an action packed program this year!]({% link en/program.md %})
 
 <!--
 
+Welcome to the 2023 DLI National Training. [We have an action packed program this year!]({% link en/program.md %})
+
+
+
 Simultaneous translation will be available for every session. Please register using the link below.
 
--->
+
 
 Webinars will be hosted using Zoom. You can join using your browser, but there are more features available if you [download the free application](https://zoom.us/download).
+
+-->
