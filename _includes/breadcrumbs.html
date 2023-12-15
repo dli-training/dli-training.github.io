@@ -8,7 +8,7 @@ This code is not working. I can't differentiate between 2021 and 2020.
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for item in site.data.menus.languages %}
 {% if item.language == page.lang %}
-{% if page.archive == 2023 %}
+{% if page.archive == 2024 %}
 {% if page.categories contains "presentation" %}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
 {% endif %}
@@ -62,12 +62,4 @@ This code is not working. I can't differentiate between 2021 and 2020.
 {% endif %}
 {% endfor %}
 
-{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-{% for item in site.data.menus.languages %}
-{% if item.language == page.lang %}
-{% if page.ref contains "bio" %}
-<a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
 </div>
