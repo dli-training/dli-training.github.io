@@ -16,6 +16,7 @@ languages:
   2020-url: 2020/en/2020/
   2021-url: 2021/en/2021/
   2022-url: 2022/en/2022/
+  2023-url: 2023/en/2023/
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -26,10 +27,10 @@ languages:
   links:
     - title: "Feedback"
       url: /en/feedback/
-    - title: "Registration"
-      url: /en/register/
-    - title: "Schedule"
-      url: /en/program/
+  #  - title: "Registration"
+  #    url: /en/register/
+  #  - title: "Schedule"
+  #    url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
     - title: "Resources"
@@ -53,6 +54,7 @@ languages:
   2020-url: 2020/fr/2020/
   2021-url: 2021/fr/2021/
   2022-url: 2022/fr/2022/
+  2023-url: 2023/fr/2023/
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
@@ -63,12 +65,12 @@ languages:
   links:
     - title: "Commentaires"
       url: /fr/feedback/
-    - title: "Enregistrement"
-      url: /fr/register/
-    - title: "Programme"
-      url: /fr/program/
-  #  - title: "Séminaire"
-  #    url: /fr/workshop/
+  # - title: "Enregistrement"
+  #   url: /fr/register/
+  # - title: "Programme"
+  #   url: /fr/program/
+  # - title: "Séminaire"
+  #   url: /fr/workshop/
     - title: "Ressources"
       url: /fr/resources/
     - title: "Archive des événements"
