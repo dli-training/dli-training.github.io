@@ -28,7 +28,6 @@
 {% endif %}
 {% endfor %}
 
-
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for item in site.data.menus.languages %}
 {% if item.language == page.lang %}
