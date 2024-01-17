@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides: https://drive.google.com/drive/folders/1KoXyzA-De0LxZ2A_rPNGhl4JSIT1SJdv?usp=share_link
-youtube_link:
+youtube_link: https://youtu.be/XnY1Cy3QBlQ
 ---
 En avril 2022, le Canada est devenu le premier pays à diffuser des informations relatives au genre à partir des données collectées lors de son recensement, comblant ainsi d’importantes lacunes en matière de connaissances et d’information. Cela découle d’une plus grande reconnaissance sociale et législative des personnes transgenres ou non binaires au sein de la société canadienne. <!--more-->
 

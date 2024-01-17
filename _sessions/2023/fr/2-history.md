@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides: https://drive.google.com/drive/folders/1x8lIinc4b7_o1stG-rXEikJv2w86gNHp?usp=share_link
-youtube_link:
+youtube_link: https://youtu.be/8kQNDXld1GY
 ---
 La Bibliothèque de Statistique Canada vous invite à une présentation virtuelle qui mettra en évidence comment accéder aux données historiques de Statistique Canada. <!--more-->
 

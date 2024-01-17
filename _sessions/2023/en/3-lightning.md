@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides:
-youtube_link:
+youtube_link: https://youtu.be/ntmIfX1OQWQ
 ---
 Lightning talks will be available for viewing throughout the training week. In this session, presenters will answer questions about the pre-recorded talks.<!--more-->
 

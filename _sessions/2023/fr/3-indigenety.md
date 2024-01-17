@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides: https://docs.google.com/presentation/d/1T8SNPC6NiJlG0qVxmKE7ReEl_gYwkuo-/edit?usp=share_link&ouid=109853946981534204449&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/w3ORpIEPYU0
 ---
 Seriez-vous surpris d'apprendre que le recensement canadien ne comptabilise pas le nombre de personnes autochtones au Canada ? Cette distinction peut sembler arbitraire, mais ce n'est pas le cas : Statistique Canada pose des questions très précises qui amènent les individus à s'auto-déclarer sur certains concepts clés liés à l'indigénéité. <!--more-->
 

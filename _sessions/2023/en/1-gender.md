@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides: https://docs.google.com/presentation/d/1MLRUyZZN6CnKPxmWtgL0Fw_UEnYmdDvH/edit?usp=sharing&ouid=109853946981534204449&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/XnY1Cy3QBlQ
 ---
 In April 2022, Canada became the first country to disseminate information related to gender based on the data collected through its census, addressing an important knowledge and information gap. This stemmed from a growing and legislative recognition of transgender and non-binary people in the Canadian society. <!--more-->
 

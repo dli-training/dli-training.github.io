@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides:
-youtube_link:
+youtube_link: https://youtu.be/ntmIfX1OQWQ
 ---
 Des discussions éclair seront disponibles pour être visionnés tout au long de la semaine de formation. Au cours de cette session, les présentateurs répondront aux questions sur les exposés préenregistrés. Veuillez visionner les vidéos avant la session.<!--more-->
 

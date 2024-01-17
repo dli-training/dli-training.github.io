@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides: https://drive.google.com/drive/folders/1x8lIinc4b7_o1stG-rXEikJv2w86gNHp?usp=share_link
-youtube_link:
+youtube_link: https://youtu.be/LsKvtfN0ZkI
 ---
 
 Are you interested in learning how to access modern and historic census data? Join a virtual presentation with the Statistics Canada Library as we learn about the tools, web pages, and resources that will help you with your census research. <!--more-->

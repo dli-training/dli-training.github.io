@@ -12,7 +12,7 @@ category: presentation
 archive: 2023
 session_link: https://zoom.us/j/98590203110
 slides: https://docs.google.com/presentation/d/1hq5Z8nknIKlp2Q2_G9yB-ow2Oma2U6T3/edit?usp=share_link&ouid=109853946981534204449&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/ThZ3aA9KwoE
 ---
 As a subgroup of the IASSIST Diversity, Equity, and Inclusion Data Resources Interest Group, the IASSIST LGBTQ+ Data Guide team was formed in September of 2023. Chaired by Kevin Manuel, Data Librarian from Toronto Metropolitan University, it has members from around the world that are contributing their knowledge and expertise with LGBTQ+ data resources. <!--more-->
 
