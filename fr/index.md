@@ -11,11 +11,11 @@ ref: index
 
 # {{ page.title }}
 
-<!--
+
 
 ### À inscrire à votre calendrier !
 
-La prochaine formation nationale de l’IDD aura lieu  dans la semaine du **20 au 22 novembre 2022**.
+La prochaine session de formation nationale IDD aura lieu à Halifax (Nouvelle-Écosse) les **27 et 28 mai 2024**.
 
 --->
 

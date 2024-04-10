@@ -15,10 +15,10 @@ ref: index
 Change the information in the box in contact.yml, and turn the box off and on in home.html
 -->
 
-<!--
+
 ### Save the Date!
 
-The next DLI Training event will be held during the week of **November 20 - 22, 2023**!
+The next DLI Training event will be held in Halifax, NS on **May 27 & 28, 2024**!
 
 <!--
 All of the training materials are available in English and French in the [CUDO Repository](https://cudo.carleton.ca/dli-training/4360), as well as linked to each of the session descriptions in the [Schedule](/en/schedule).
