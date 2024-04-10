@@ -18,7 +18,6 @@ Trouvez votre [représentant IDD](https://www.statcan.gc.ca/fra/microdonnees/idd
 ### Statistique Canada
 
 Arden Kayzak : <arden.kayzak@statcan.gc.ca>  
-Sara Tumpane : <sara.tumpane@statcan.gc.ca>  
 
 ### Présidente du comité
 
@@ -26,12 +25,10 @@ Alexandra Cooper : <coopera@queensu.ca>
 
 ### Région atlantique
 
-Sandra Sawchuk : <sandra.sawchuk@msvu.ca>  
-Margaret Vail : <mvail@stfx.ca>  
+Sandra Sawchuk : <sandra.sawchuk@msvu.ca>   
 
 ### Québec
 
-Emanuela Chiriac : <emanuela.chiriac@uqo.ca>  
 Giovanna Badia : <giovanna.badia@mcgill.ca>     
 
 ### Ontario
@@ -41,8 +38,8 @@ Chantal Ripp : <chantal.ripp@uottawa.ca>
 
 ### Région de l'ouest
 
-Tara Stieglitz : <stieglitzt@macewan.ca>  
-Robyn Stubbs : <rstobbs@athabascau.ca>
+Tara Stieglitz *(en congé)* : <stieglitzt@macewan.ca>  
+Robyn Stobbs : <rstobbs@athabascau.ca>
 
 ### Collèges
 
