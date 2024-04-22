@@ -15,6 +15,7 @@ languages:
   2021-url: 2021/en/2021/
   2022-url: 2022/en/2022/
   2023-url: 2023/en/2023/
+  2023-url: 2024/en/2024/
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -23,12 +24,12 @@ languages:
   slides: "Download session materials: "
   slido-link: "Q & A for this session on Slido"
   links:
-    - title: "Feedback"
-      url: /en/feedback/
-  #  - title: "Registration"
-  #    url: /en/register/
-  #  - title: "Schedule"
-  #    url: /en/program/
+  #  - title: "Feedback"
+#      url: /en/feedback/
+    - title: "Registration"
+      url: /en/register/
+    - title: "Schedule"
+      url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
     - title: "Resources"
@@ -51,6 +52,7 @@ languages:
   2021-url: 2021/fr/2021/
   2022-url: 2022/fr/2022/
   2023-url: 2023/fr/2023/
+  2023-url: 2024/fr/2024/
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
