@@ -3,11 +3,11 @@ languages:
   email: 'statcan.maddli-damidd.statcan@canada.ca.'
   contact_button_name: "Register"
   contact_button_link: 'register'
-  dates: "Live daily webinars from 1 - 4 p.m ET"
-  times: "November 20 to November 22, 2023"
+  dates: "In-person and online sessions!"
+  times: "May 27 & 28, 2024"
 - language: "fr"
   email: 'statcan.maddli-damidd.statcan@canada.ca.'
   contact_button_name: "S'inscrire"
   contact_button_link: 'register'
-  dates: "Webinaires quotidiens de 13h - 16h HE"
-  times: "20 novembre de 22 novembre, 2023"
+  dates: "Sessions en personne et en ligne !"
+  times: "27 et 28 mai 2024"

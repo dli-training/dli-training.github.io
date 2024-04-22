@@ -12,10 +12,9 @@ archive: 2024
 
 To participate in any of the online sessions, you must register using the [registration form]({% link en/register.md %}). You will receive links to join the session in advance.
 
+Coming soon!
+
 <!-- Simultaneous translation will be available for every session.
-
-
-
 
 Webinars will be hosted using Zoom. You can join using your browser, but there are more features available if you [download the free application](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwil--P_9tjzAhUqp3IEHfEjD2EQFnoECAkQAQ&url=https%3A%2F%2Fzoom.us%2Fdownload&usg=AOvVaw1uZvNGaEcOvlsZlLbjNZlX).
 
