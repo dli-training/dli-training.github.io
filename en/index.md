@@ -25,10 +25,10 @@ All of the training materials are available in English and French in the [CUDO R
 
 We also invite you to submit your [feedback](/en/feedback) on the sessions.
 
--->
+
 
 Let us know what you'd like to see at the next DLI Training! [Get in touch](/en/contact) with your regional training coordinator with your ideas.
-
+-->
 Check out the [Event Archive](/en/archive) for details about past DLI Training events.
 
 
