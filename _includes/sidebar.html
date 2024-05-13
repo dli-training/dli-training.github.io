@@ -37,6 +37,16 @@
   </ul>
 </h4>
 
+<p>
+  <ul>
+{% if page.room %}
+  {{ item.room }}
+  <li class="presenter-list">
+  <a href="{{ page.location }}" target="_blank">{{ page.room }}</a>
+  </li>
+{% endif %}
+</ul>
+</p>
 
 <p>
   <ul>

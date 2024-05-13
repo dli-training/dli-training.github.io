@@ -10,9 +10,7 @@ category: presentation
 archive: 2024
 ---
 
-To participate in any of the online sessions, you must register using the [registration form]({% link en/register.md %}). You will receive links to join the session in advance.
-
-Coming soon!
+To participate in the online session, you must register using the [registration form]({% link en/register.md %}). You will receive a link to join the session in advance.
 
 <!-- Simultaneous translation will be available for every session.
 
