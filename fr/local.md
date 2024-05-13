@@ -1,5 +1,5 @@
 ---
-title: Dispositions locales
+title: Informations locales
 layout: contact
 intro_image: "images/pixeltrue-vision-1.svg"
 intro_image_absolute: true

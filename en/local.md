@@ -1,5 +1,5 @@
 ---
-title: Local Arrangements
+title: Local Information
 layout: contact
 intro_image: "images/pixeltrue-vision-1.svg"
 intro_image_absolute: true
