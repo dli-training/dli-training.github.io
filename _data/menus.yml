@@ -27,6 +27,8 @@ languages:
   links:
   #  - title: "Feedback"
   #    url: /en/feedback/
+    - title: "Local Arrangements"
+      url: /en/local/
     - title: "Registration"
       url: /en/register/
     - title: "Schedule"
@@ -65,6 +67,8 @@ languages:
   links:
   #  - title: "Commentaires"
   #    url: /fr/feedback/
+    - title: "Dispositions locales"
+      url: /fr/local/
     - title: "Enregistrement"
       url: /fr/register/
     - title: "Programme"
