@@ -1,7 +1,7 @@
 ---
 title: W2 | Census Data & GIS Mapping - An Introduction
 date: 2024-05-27
-hour: 13:00 ET
+hour: 13:00 AT
 weight: 3
 lang: en
 ref: 2-map

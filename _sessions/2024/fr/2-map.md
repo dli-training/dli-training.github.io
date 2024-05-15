@@ -1,7 +1,7 @@
 ---
 title: W2 | Données de recensement et cartographie SIG - Une introduction
 date: 2024-05-27
-hour: 13:00 ET
+hour: 13:00 AT
 weight: 3
 lang: fr
 ref: 2-map
