@@ -1,5 +1,5 @@
 ---
-title: S1 |
+title: S1 | DLI Bootcamp - Survey Lifecycle 
 date: 2024-05-27
 hour: 09:00 AT
 weight: 1

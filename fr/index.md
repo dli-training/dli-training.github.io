@@ -20,7 +20,7 @@ La prochaine session de formation nationale IDD aura lieu à Halifax (Nouvelle-�
 <!--
 Dites-nous ce que vous souhaitez pour la prochaine formation nationale. [Transmettez vos idées](/fr/contact) à votre coordonnateur régional de la formation.
 --->
-Consultez les [Archives des événements](/fr/archive) pour obtenir des détails sur les événements de formation DLI passés.
+Consultez les [Archives des événements](/fr/archive) pour obtenir des détails sur les événements de formation IDD passés.
 
 <!--
 
