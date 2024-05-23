@@ -17,7 +17,7 @@ slides:
 youtube_link:
 ---
 
-The meeting with begin with reports from representatives with the Professional Development Committee (PDC), External Advisory Committee (EAC), and the Data Liberation Initiative (DLI). A question period will follow the reports.
+The meeting with begin with reports from representatives with the Professional Development Committee (PDC), External Advisory Committee (EAC), and the Data Liberation Initiative (DLI). A question period will follow the reports. <!--more-->
 
 The second half of the meeting will consist of breakout discussions on the topics of:
  - Community engagement / sustainability

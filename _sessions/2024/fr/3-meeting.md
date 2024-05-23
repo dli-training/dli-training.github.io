@@ -16,7 +16,7 @@ session_link: https://queensu.zoom.us/j/93864699528?pwd=T1VEZjR3NGFVWEM1MncrVFp1
 slides:
 youtube_link:
 ---
-La réunion a débuté par les rapports des représentants du Comité de développement professionnel (CDP), du Comité consultatif externe (CCE) et  de l'Initiative de démocratisation des données (IDD). Une période de questions suivra les rapports.
+La réunion a débuté par les rapports des représentants du Comité de développement professionnel (CDP), du Comité consultatif externe (CCE) et  de l'Initiative de démocratisation des données (IDD). Une période de questions suivra les rapports. <!--more-->
 
 La seconde partie de la réunion consistera en des discussions en petits groupes sur les thèmes suivants :
  - Engagement de la communauté / durabilité
