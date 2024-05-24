@@ -29,8 +29,8 @@ languages:
   #    url: /en/feedback/
     - title: "Local Information"
       url: /en/local/
-    - title: "Registration"
-      url: /en/register/
+  #  - title: "Registration"
+  #    url: /en/register/
     - title: "Schedule"
       url: /en/program/
   #  - title: "Workshops"
@@ -69,8 +69,8 @@ languages:
   #    url: /fr/feedback/
     - title: "Informations locales"
       url: /fr/local/
-    - title: "Enregistrement"
-      url: /fr/register/
+  #  - title: "Enregistrement"
+  #    url: /fr/register/
     - title: "Programme"
       url: /fr/program/
   # - title: "Séminaire"
