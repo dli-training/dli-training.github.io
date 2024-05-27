@@ -8,7 +8,7 @@ ref: 2-map
 presenter: [Sharon Janzen (Brock University), Nicole Stradiotto (Brock University)]
 length:
 time: synchronous
-room: "Loyola Academic Complex TBD"
+room: "Burke Building B200d"
 location: https://www.smu.ca/webfiles/campus-map.pdf
 category: presentation
 archive: 2024

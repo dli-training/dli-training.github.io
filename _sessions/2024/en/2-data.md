@@ -8,7 +8,7 @@ ref: 2-data
 presenter: [Lucia Costanzo (University of Guelph),Vivek Jadon (McMaster University)]
 length:
 time: synchronous
-room: "Loyola Academic Complex TBD"
+room: "Loyola Academic Complex L278"
 location: https://www.smu.ca/webfiles/campus-map.pdf
 category: presentation
 archive: 2024
