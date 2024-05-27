@@ -4,8 +4,6 @@ layout: page
 lang: fr
 ref: feedback
 ---
-[Jour 1 Commentaires](https://forms.gle/Ydq13UmRXHksHgCu6)  
+[Jour 1 Commentaires](https://forms.gle/a8c98jYnGCvd3tMEA)  
 
-[Jour 2 Commentaires](https://forms.gle/JF5bteaR9PGZKPoUA)
-
-[Jour 3 Commentaires](https://forms.gle/ssrmtH6jD59NJPuy7)
+[Jour 2 Commentaires](https://forms.gle/38cqxx8Rs8K8XWSWA)
