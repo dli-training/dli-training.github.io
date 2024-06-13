@@ -13,7 +13,7 @@ location: https://www.smu.ca/webfiles/campus-map.pdf
 category: presentation
 archive: 2024
 session_link:
-slides:
+slides: ["https://docs.google.com/presentation/d/1f_U7aMMy-OQWLzACeVVUKsH9-3qIx52M/edit?usp=share_link&ouid=109853946981534204449&rtpof=true&sd=true","https://drive.google.com/file/d/1JD8Uc9w_bPihdaktM5GVSVtCuUykqH8w/view?usp=share_link","https://docs.google.com/document/d/1_g7Tqo-mas7bHNptZAd9B0jx6Fdhz2r1/edit?usp=share_link&ouid=109853946981534204449&rtpof=true&sd=true","https://drive.google.com/file/d/1xdg11hyAHItExbsTxh9zey6yxdogHkQ6/view?usp=share_link"]
 youtube_link:
 ---
 

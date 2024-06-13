@@ -13,7 +13,7 @@ location: https://www.smu.ca/webfiles/campus-map.pdf
 category: presentation
 archive: 2024
 session_link: https://queensu.zoom.us/j/93864699528?pwd=T1VEZjR3NGFVWEM1MncrVFp1NWtDUT09
-slides:
+slides: ["https://docs.google.com/presentation/d/1r9VMfsut-T0Wo0XTJzGbheqE0a9CHSoC/edit?usp=share_link&ouid=109853946981534204449&rtpof=true&sd=true"]
 youtube_link:
 ---
 

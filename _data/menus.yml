@@ -15,7 +15,7 @@ languages:
   2021-url: 2021/en/2021/
   2022-url: 2022/en/2022/
   2023-url: 2023/en/2023/
-  2023-url: 2024/en/2024/
+  2024-url: 2024/en/2024/
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -25,14 +25,14 @@ languages:
   slides: "Download session materials: "
   slido-link: "Q & A for this session on Slido"
   links:
-    - title: "Feedback"
-      url: /en/feedback/
-    - title: "Local Information"
-      url: /en/local/
+  #  - title: "Feedback"
+  #    url: /en/feedback/
+  #  - title: "Local Information"
+  #    url: /en/local/
   #  - title: "Registration"
   #    url: /en/register/
-    - title: "Schedule"
-      url: /en/program/
+  #  - title: "Schedule"
+  #    url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
     - title: "Resources"
@@ -55,7 +55,7 @@ languages:
   2021-url: 2021/fr/2021/
   2022-url: 2022/fr/2022/
   2023-url: 2023/fr/2023/
-  2023-url: 2024/fr/2024/
+  2024-url: 2024/fr/2024/
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
@@ -65,14 +65,14 @@ languages:
   slido-link: "Q & R pour cette session sur Slido"
   slides: "Télécharger les documents de la session : "
   links:
-    - title: "Commentaires"
-      url: /fr/feedback/
-    - title: "Informations locales"
-      url: /fr/local/
+  #  - title: "Commentaires"
+  #    url: /fr/feedback/
+  #  - title: "Informations locales"
+  #    url: /fr/local/
   #  - title: "Enregistrement"
   #    url: /fr/register/
-    - title: "Programme"
-      url: /fr/program/
+  #  - title: "Programme"
+  #    url: /fr/program/
   # - title: "Séminaire"
   #   url: /fr/workshop/
     - title: "Ressources"
