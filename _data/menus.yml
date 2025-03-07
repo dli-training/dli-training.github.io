@@ -16,6 +16,7 @@ languages:
   2022-url: 2022/en/2022/
   2023-url: 2023/en/2023/
   2024-url: 2024/en/2024/
+  2025-url: 2025/en/2025/
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -56,6 +57,7 @@ languages:
   2022-url: 2022/fr/2022/
   2023-url: 2023/fr/2023/
   2024-url: 2024/fr/2024/
+  2025-url: 2025/fr/2025/
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "
