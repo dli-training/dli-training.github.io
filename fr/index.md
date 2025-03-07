@@ -15,7 +15,7 @@ ref: index
 
 ### À inscrire à votre calendrier !
 
-La prochaine session de formation nationale IDD aura lieu pendant la semaine du **5 au 7 mai 2025**.
+La prochaine session de formation nationale virtuelle IDD aura lieu pendant la semaine du **5 au 7 mai 2025**.
 
 <!--
 
