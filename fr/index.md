@@ -12,17 +12,18 @@ ref: index
 # {{ page.title }}
 
 
-<!--
+
 ### À inscrire à votre calendrier !
 
-La prochaine session de formation nationale IDD aura lieu à Halifax (Nouvelle-Écosse) les **27 et 28 mai 2024**.
---->
+La prochaine session de formation nationale IDD aura lieu pendant la semaine du **5 au 7 mai 2025**.
+
+<!--
 
 Dites-nous ce que vous souhaitez pour la prochaine formation nationale. [Transmettez vos idées](/fr/contact) à votre coordonnateur régional de la formation.
 
 Consultez les [Archives des événements](/fr/archive) pour obtenir des détails sur les événements de formation IDD passés.
 
-<!--
+
 
 Bienvenue à la formation nationale de l’IDD 2023. [Nous avons un programme passionnant cette année !]({% link fr/program.md %})
 
