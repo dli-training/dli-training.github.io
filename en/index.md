@@ -9,14 +9,15 @@ lang: en
 ref: index
 ---
 
+
 # {{ page.title }}
 
 <!-- the date / register box on the homepage lives in _layouts/home.html and _data/contact.yml
 Change the information in the box in contact.yml, and turn the box off and on in home.html
 -->
 
-
-### Save the Date!
+  
+### Save the Date!  
 
 The next DLI Virtual National Training event will be held during the week of **May 5 - 7, 2025**!
 
