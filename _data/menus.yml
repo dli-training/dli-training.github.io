@@ -32,8 +32,8 @@ languages:
   #    url: /en/local/
   #  - title: "Registration"
   #    url: /en/register/
-    - title: "Schedule"
-      url: /en/program/
+  #  - title: "Schedule"
+  #    url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
     - title: "Resources"
