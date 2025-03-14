@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: false
 lang: en
 ref: program
 category: presentation
-archive: 2024
+archive: 2025
 ---
 <!--
 To participate in the online session, you must register using the [registration form]({% link en/register.md %}). You will receive a link to join the session in advance.

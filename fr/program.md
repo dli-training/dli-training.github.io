@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: false
 lang: fr
 ref: program
 category: presentation
-archive: 2024
+archive: 2025
 ---
 <!--
 Pour participer à l'une des sessions en ligne, vous devez vous inscrire en utilisant le [formulaire d'inscription]({% link fr/register.md %}). Vous recevrez à l'avance les liens pour participer à la session.
