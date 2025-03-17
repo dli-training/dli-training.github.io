@@ -1,7 +1,7 @@
 ---
 title: S5 | Pandora’s Box of Public Opinion Polls - Come and Be Amazed!
 date: 2025-05-07
-hour: 15:40 ET
+hour: 16:00 ET
 weight: 5
 lang: en
 ref: 5-polls

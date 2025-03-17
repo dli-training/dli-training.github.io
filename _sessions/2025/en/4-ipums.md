@@ -1,8 +1,8 @@
 ---
 title: S4 | IPUMS - An Introduction
 date: 2025-05-07
-hour: 15:40 ET
-weight: 3
+hour: 16:00 ET
+weight: 4
 lang: en
 ref: 4-ipums
 presenter: [Alexandra Cooper (Queen's University), Michael Steeleworthy (Wilfred Laurier University)]
