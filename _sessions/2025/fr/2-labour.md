@@ -1,5 +1,5 @@
 ---
-title: S2 | suppléments à l'enquête sur la population active (EPA)
+title: S2 | Suppléments à l'enquête sur la population active (EPA)
 date: 2025-05-06
 hour: 14:00 ET
 weight: 2
