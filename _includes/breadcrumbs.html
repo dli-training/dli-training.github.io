@@ -5,7 +5,7 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% for item in site.data.menus.languages %}
 {% if item.language == page.lang %}
-{% if page.archive == 2024 %}
+{% if page.archive == 2025 %}
 {% if page.categories contains "presentation" %}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
 {% endif %}
@@ -24,6 +24,8 @@
 <a href="{{ site.url }}/{{ item.2022-url }}">{{ item.archive }}</a>
 {% elsif page.archive == 2023 %}
 <a href="{{ site.url }}/{{ item.2023-url }}">{{ item.archive }}</a>
+{% elsif page.archive == 2024 %}
+<a href="{{ site.url }}/{{ item.2024-url }}">{{ item.archive }}</a>
 {% endif %}
 {% endif %}
 {% endfor %}
