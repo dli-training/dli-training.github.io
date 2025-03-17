@@ -73,9 +73,9 @@ languages:
   #    url: /fr/local/
   #  - title: "Enregistrement"
   #    url: /fr/register/
-  #  - title: "Programme"
+    - title: "Programme"
       url: /fr/program/
-    - title: "Séminaire"
+  # - title: "Séminaire"
   #   url: /fr/workshop/
     - title: "Ressources"
       url: /fr/resources/
