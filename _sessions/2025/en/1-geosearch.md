@@ -1,5 +1,5 @@
 ---
-title: S1 | Grasping Geography with GeoSearch: from Navigating Your Needs to Teaching the Tool
+title: S1 | Grasping Geography with GeoSearch - from Navigating Your Needs to Teaching the Tool
 date: 2025-05-07
 hour: 13:00 ET
 weight: 1

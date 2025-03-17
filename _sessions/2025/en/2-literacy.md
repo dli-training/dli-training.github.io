@@ -1,5 +1,5 @@
 ---
-title: S2 | Beyond searching to teaching interpretation: A road map for librarians to teach statistical literacy
+title: S2 | Beyond searching to teaching interpretation - A road map for librarians to teach statistical literacy
 date: 2025-05-07
 hour: 14:00 ET
 weight: 2
