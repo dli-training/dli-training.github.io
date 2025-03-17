@@ -1,0 +1,16 @@
+---
+title: S1 | Grasping Geography with GeoSearch: from Navigating Your Needs to Teaching the Tool
+date: 2025-05-07
+hour: 13:00 ET
+weight: 1
+lang: en
+ref: 1-geosearch
+presenter: [Julie Marcoux (Dalhousie University)]
+length:
+category: presentation
+archive: 2025
+session_link:
+slides:
+youtube_link:
+---
+Practice navigating Statistics Canada's GeoSearch with a hands-on exercise, learn and discuss the benefits and limitations of using GeoSearch to better understand Statistics Canada’s standard geography, and be inspired by – and share your own – teaching approaches to getting GeoSearch into the classroom.
