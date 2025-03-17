@@ -13,4 +13,6 @@ session_link:
 slides:
 youtube_link:
 ---
-This session introduces three comparative research databases: the Employment Standards Database (ESD), the Comparative Perspectives on Precarious Employment Database (CPD), and the Gender and Work Database (GWD). Each database harmonizes information from national and cross-national surveys, and is supported by a library, thesaurus, harmonized codebook and instructional/demonstration modules.
+This session introduces three comparative research databases: the Employment Standards Database (ESD), the Comparative Perspectives on Precarious Employment Database (CPD), and the Gender and Work Database (GWD). <!--more-->
+
+Each database harmonizes information from national and cross-national surveys, and is supported by a library, thesaurus, harmonized codebook and instructional/demonstration modules.

@@ -13,4 +13,6 @@ session_link:
 slides:
 youtube_link:
 ---
-What are some creative methods that you can use to promote your data services? And once you become a victim of your own success, can you solve that problem through… more promotion? <!--more-->By request, this session offers of a sneak preview of some of the topics that will be covered in ICPSR Summer Program Workshop, [Providing Data Services and Support: From Surviving to Succeeding](https://www.icpsr.umich.edu/web/about/cms/6129).
+What are some creative methods that you can use to promote your data services? And once you become a victim of your own success, can you solve that problem through… more promotion? <!--more-->
+
+By request, this session offers of a sneak preview of some of the topics that will be covered in ICPSR Summer Program Workshop, [Providing Data Services and Support: From Surviving to Succeeding](https://www.icpsr.umich.edu/web/about/cms/6129).
