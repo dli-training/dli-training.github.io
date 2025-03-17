@@ -5,7 +5,7 @@ hour: 16:00 ET
 weight: 5
 lang: en
 ref: 5-polls
-presenter: [Jane Fry (Carleton University)]
+presenter: [Jane Fry (Carleton University), Alparslan Ozturk (Carleton University)]
 length:
 category: presentation
 archive: 2025
