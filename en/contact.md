@@ -21,7 +21,7 @@ Arden Kayzak : <arden.kayzak@statcan.gc.ca>
 
 ### Committee Chair
 
-Alexandra Cooper : <coopera@queensu.ca>
+Tara Stieglitz: <stieglitzt@macewan.ca>
 
 ### Atlantic Region
 
@@ -38,7 +38,6 @@ Chantal Ripp : <chantal.ripp@uottawa.ca>
 
 ### Western Region
 
-Tara Stieglitz *(on leave)*: <stieglitzt@macewan.ca>  
 Robyn Stobbs : <rstobbs@athabascau.ca>
 
 ### Colleges

@@ -21,7 +21,7 @@ Arden Kayzak : <arden.kayzak@statcan.gc.ca>
 
 ### Présidente du comité
 
-Alexandra Cooper : <coopera@queensu.ca>
+Tara Stieglitz : <stieglitzt@macewan.ca>  
 
 ### Région atlantique
 
@@ -38,7 +38,6 @@ Chantal Ripp : <chantal.ripp@uottawa.ca>
 
 ### Région de l'ouest
 
-Tara Stieglitz *(en congé)* : <stieglitzt@macewan.ca>  
 Robyn Stobbs : <rstobbs@athabascau.ca>
 
 ### Collèges
