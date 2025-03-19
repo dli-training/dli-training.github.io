@@ -1,11 +1,11 @@
 ---
-title: S2 | Labour Force Survey Supplements
+title: S2 | Labour Force Survey Supplement Overview
 date: 2025-05-06
 hour: 14:00 ET
 weight: 2
 lang: en
 ref: 2-labour
-presenter: [ ()]
+presenter: [Marton Lavei (Statistics Canada), Vincent Hardy (Statistics Canada)]
 length:
 category: presentation
 archive: 2025

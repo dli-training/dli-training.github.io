@@ -5,7 +5,7 @@ hour: 14:00 ET
 weight: 2
 lang: fr
 ref: 2-labour
-presenter: [ ()]
+presenter: [Marton Lavei (Statistique Canada), Vincent Hardy (Statistique Canada)]
 length:
 category: presentation
 archive: 2025
