@@ -16,10 +16,10 @@ ref: index
 Change the information in the box in contact.yml, and turn the box off and on in home.html
 -->
 
-  
+
 ### Save the Date!  
 
-The next DLI Virtual National Training event will be held during the week of **May 5 - 7, 2025**!
+The next DLI Virtual National Training event will be held during the week of **May 5 - 7, 2025**! [We have an action packed program this year!]({% link en/program.md %})
 
 <!--
 
@@ -39,12 +39,8 @@ Check out the [Event Archive](/en/archive) for details about past DLI Training e
 
 Welcome to the 2023 DLI National Training. [We have an action packed program this year!]({% link en/program.md %})
 
-
+--->
 
 Simultaneous translation will be available for every session. Please register using the link below.
 
-
-
 Webinars will be hosted using Zoom. You can join using your browser, but there are more features available if you [download the free application](https://zoom.us/download).
-
--->
