@@ -10,7 +10,7 @@ length:
 category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
-slides:
+slides: https://drive.google.com/drive/folders/1l3ok_-AxzDXaVGuLCY1RuNvGUkNG-b84?usp=share_link
 youtube_link:
 ---
 Practice navigating Statistics Canada's GeoSearch with a hands-on exercise, learn and discuss the benefits and limitations of using GeoSearch to better understand Statistics Canada’s standard geography, and be inspired by – and share your own – teaching approaches to getting GeoSearch into the classroom.
