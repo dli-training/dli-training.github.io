@@ -10,7 +10,7 @@ length:
 category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
-slides: https://drive.google.com/file/d/1laXqHCXeb8j6yyo13gyUgetormn4YJDI/view?usp=share_link
+slides: 
 youtube_link:
 ---
 Descriptive and inferential statistics are taught to students in many disciplines. More classroom time is often spent on the theory behind different statistical methods that investigate relationships between variables rather than on how to interpret the results obtained to answer the research question that started the process. <!--more-->
