@@ -10,7 +10,7 @@ length:
 category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
-slides: 
+slides: https://drive.google.com/drive/folders/158tLGSg0oELqHwX-GO02MpIJpjTQIo3K?usp=sharing
 youtube_link:
 ---
 What are some creative methods that you can use to promote your data services? And once you become a victim of your own success, can you solve that problem through… more promotion? <!--more-->
