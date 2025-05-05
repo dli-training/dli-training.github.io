@@ -10,7 +10,7 @@ length:
 category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
-slides:
+slides: https://docs.google.com/presentation/d/1oe1d4FCUdaR_kjuFgMlCFKD2xQXAEiqL/edit?usp=sharing&ouid=109853946981534204449&rtpof=true&sd=true
 youtube_link:
 ---
 IPUMS is an organization that collects and harmonizes census and survey data from around the world (including Canada) allowing for the study of census and populations studies across time.  Public microdata can be easily explored by variable.<!--more-->
