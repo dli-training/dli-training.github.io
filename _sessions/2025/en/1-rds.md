@@ -5,7 +5,7 @@ hour: 13:00 ET
 weight: 1
 lang: en
 ref: 1-rds
-presenter: [ ()]
+presenter: [ ]
 length:
 category: presentation
 archive: 2025
