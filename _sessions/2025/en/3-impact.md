@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides:
-youtube_link:
+youtube_link: https://youtu.be/kMMMt02GnJo
 ---
 The impact of the DLI on the development of the professional roles of data specialist, data librarian in Canadian academic institutions is profound. This relationship is nearly 30 years strong, and the network of professionals that are either providing data reference, data services or Research Data Management services at Canadian academic institutions have often benefited from training within the DLI program, or membership in the Canadian data community.<!--more-->
 

@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides:
-youtube_link:
+youtube_link: https://youtu.be/kMMMt02GnJo
 ---
 L'impact de l'IDD sur le développement des rôles professionnels de spécialiste des données et de bibliothécaire des données dans les établissements universitaires canadiens est profond. Cette relation existe depuis près de 30 ans et le réseau de professionnels qui fournissent des services de référence, de données ou de gestion des données de recherche dans les établissements universitaires canadiens a souvent bénéficié d'une formation dans le cadre du programme de l'IDD ou de l'appartenance à la communauté canadienne des données.<!--more-->
 

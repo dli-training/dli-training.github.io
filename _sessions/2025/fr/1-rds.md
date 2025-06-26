@@ -11,5 +11,5 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides:
-youtube_link:
+youtube_link: https://youtu.be/1uiJKAkO6Pw
 ---

@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides:
-youtube_link:
+youtube_link: https://youtu.be/NVGmyxrE39w
 ---
 Êtes-vous un passionné de données ? Vous aimez les opinions du public ? Connaissez-vous tous les sondages d'opinion publique ouverts au monde et disponibles à Odesi ? Ces sondages provenant de divers ministères, de Gallup Canada, de l'International Social Survey Programme (et d'autres encore !) ont été sauvés et préservés par l'Université Carleton. <!--more-->
 

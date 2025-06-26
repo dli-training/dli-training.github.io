@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides:
-youtube_link:
+youtube_link: https://youtu.be/BRPhJLjXGlA
 ---
 Cette session présente trois bases de données de recherche comparative : la base de données sur les normes d'emploi, la base de données sur les perspectives comparatives de l'emploi précaire, et la base de données sur le genre et le travail. <!--more-->
 
