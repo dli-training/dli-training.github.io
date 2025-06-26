@@ -15,3 +15,4 @@ ref: archive
 ### [Formation nationale 2022]({% link 2022/fr/2022.md %})
 ### [Formation nationale 2023]({% link 2023/fr/2023.md %})
 ### [Formation nationale 2024]({% link 2024/fr/2024.md %})
+### [Formation nationale 2025]({% link 2025/fr/2025.md %})
