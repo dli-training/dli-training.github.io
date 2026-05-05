@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides: https://docs.google.com/presentation/d/1oe1d4FCUdaR_kjuFgMlCFKD2xQXAEiqL/edit?usp=sharing&ouid=109853946981534204449&rtpof=true&sd=true
-youtube_link:
+youtube_link: https://youtu.be/U0-VHjTzGkw
 ---
 IPUMS est une organisation qui recueille et harmonise les données de recensement et d'enquête du monde entier (y compris le Canada), ce qui permet d'étudier les recensements et les études démographiques à travers le temps.  Les microdonnées publiques peuvent être facilement explorées à l'aide de variables.<!--more-->
 

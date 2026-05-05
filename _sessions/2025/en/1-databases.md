@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides:
-youtube_link:
+youtube_link: https://youtu.be/BRPhJLjXGlA
 ---
 This session introduces three comparative research databases: the Employment Standards Database (ESD), the Comparative Perspectives on Precarious Employment Database (CPD), and the Gender and Work Database (GWD). <!--more-->
 

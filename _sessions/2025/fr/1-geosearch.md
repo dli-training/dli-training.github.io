@@ -11,6 +11,6 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides: https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/NYDHKA
-youtube_link:
+youtube_link: https://youtu.be/iDtJRxCfthQ
 ---
 Entraînez-vous à naviguer dans GéoRecherche de Statistique Canada à l'aide d'un exercice pratique, découvrez et discutez des avantages et des limites de l'utilisation de GéoRecherche pour mieux comprendre la géographie standard de Statistique Canada, et laissez-vous inspirer par - et partagez vos propres - approches pédagogiques pour intégrer GéoRecherche dans la salle de classe.

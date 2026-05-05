@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides:
-youtube_link:
+youtube_link: https://youtu.be/NVGmyxrE39w
 ---
 Are you a data enthusiast? Do you like the opinions of the public? Did you know of all the Public Opinion Polls (POPs) that are open to the world and are available in Odesi? These POPs from various government departments, Gallup Canada, International Social Survey Programme (and more!) have been rescued and preserved by Carleton University. <!--more-->
 

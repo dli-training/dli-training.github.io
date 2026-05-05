@@ -15,3 +15,4 @@ ref: archive
 ### [2022 National Training]({% link 2022/en/2022.md %})
 ### [2023 National Training]({% link 2023/en/2023.md %})
 ### [2024 National Training]({% link 2024/en/2024.md %})
+### [2025 National Training]({% link 2025/en/2025.md %})

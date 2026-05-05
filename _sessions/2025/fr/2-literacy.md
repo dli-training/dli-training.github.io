@@ -11,7 +11,7 @@ category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
 slides: https://drive.google.com/file/d/1laXqHCXeb8j6yyo13gyUgetormn4YJDI/view?usp=sharing
-youtube_link:
+youtube_link: https://youtu.be/elvWNpkhDXI
 ---
 Les statistiques descriptives et inférentielles sont enseignées aux étudiants dans de nombreuses disciplines. On consacre souvent plus de temps en classe à la théorie qui sous-tend les différentes méthodes statistiques permettant d'étudier les relations entre les variables qu'à la manière d'interpréter les résultats obtenus pour répondre à la question de recherche à l'origine du processus. <!--more-->
 
