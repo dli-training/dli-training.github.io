@@ -30,7 +30,7 @@ Sandra Sawchuk : <sandra.sawchuk@msvu.ca>
 
 ### Québec
 
-Giovanna Badia : <giovanna.badia@mcgill.ca>   
+
 
 ### Ontario
 
