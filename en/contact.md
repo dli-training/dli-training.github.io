@@ -17,7 +17,7 @@ Find your local DLI contact [here](https://www.statcan.gc.ca/eng/microdata/dli/c
 
 ### Statistics Canada
 
-Arden Kayzak : <arden.kayzak@statcan.gc.ca>   
+Larine Sluggett <larine.sluggett@statcan.gc.ca>  
 
 ### Committee Chair
 
@@ -25,6 +25,7 @@ Tara Stieglitz: <stieglitzt@macewan.ca>
 
 ### Atlantic Region
 
+Sam Read : <sread@stfx.ca>  
 Sandra Sawchuk : <sandra.sawchuk@msvu.ca>   
 
 ### Québec
@@ -34,12 +35,14 @@ Giovanna Badia : <giovanna.badia@mcgill.ca>
 ### Ontario
 
 Vivek Jadon : <vivek@mcmaster.ca>  
-Chantal Ripp : <chantal.ripp@uottawa.ca>   
+Sonia Dhaliwal <sdhaliwal@brocku.ca>
 
 ### Western Region
 
-Robyn Stobbs : <rstobbs@athabascau.ca>
+Susie Wilson : <susie.wilson@unbc.ca>  
+Kaetlyn Phillips : <kaetlyn.phillips@uregina.ca>
+
 
 ### Colleges
 
-Caleb Domsy : <caleb.domsy@humber.ca>  
+Chelsea. Heighton : <chelsea.heighton@nscc.ca>

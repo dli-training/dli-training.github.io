@@ -15,6 +15,7 @@ As they become available, you will find the links to the pre-recorded webinars h
 
 [Data Literacy Training](https://www.statcan.gc.ca/eng/wtc/data-literacy)
 
+<!--
 ## Statistics Canada Webinars
 
 The following links are pre-recorded webinars from Statistics Canada in `mp4` format. If the video does not automatically play in your browser, please right-click on the link to download it from CUDO.
@@ -35,3 +36,4 @@ The following links are pre-recorded webinars from Statistics Canada in `mp4` fo
 [StatsCan Website](https://cudo.carleton.ca/system/files/dli_training/4360/navigating-statcan-website-webinar.mp4)
 
 [T1 Family](https://cudo.carleton.ca/system/files/dli_training/4360/t1-family-file-webinar.mp4)
+-->

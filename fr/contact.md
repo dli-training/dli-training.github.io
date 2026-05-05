@@ -17,7 +17,7 @@ Trouvez votre [représentant IDD](https://www.statcan.gc.ca/fra/microdonnees/idd
 
 ### Statistique Canada
 
-Arden Kayzak : <arden.kayzak@statcan.gc.ca>  
+Larine Sluggett <larine.sluggett@statcan.gc.ca>  
 
 ### Présidente du comité
 
@@ -34,11 +34,12 @@ Giovanna Badia : <giovanna.badia@mcgill.ca>
 ### Ontario
 
 Vivek Jadon : <vivek@mcmaster.ca>  
-Chantal Ripp : <chantal.ripp@uottawa.ca>  
+Sonia Dhaliwal <sdhaliwal@brocku.ca>
 
 ### Région de l'ouest
 
-Robyn Stobbs : <rstobbs@athabascau.ca>
+Susie Wilson : <susie.wilson@unbc.ca>  
+Kaetlyn Phillips : <kaetlyn.phillips@uregina.ca>
 
 ### Collèges
 
