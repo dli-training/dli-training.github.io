@@ -147,8 +147,8 @@ Running the generator again does not undo your work:
 | `category` | no | Defaults to `presentation`, which is what puts a session on the schedule. |
 | `presenter_en` / `presenter_fr` | no | `Name (Institution), Name (Institution)`. Separate per language because institutions are translated — *Statistics Canada* / *Statistique Canada*. |
 | `session_link` | no | Zoom join URL. Not displayed at present — see the note in the field reference. |
-| `youtube_link` | no | Adds a "Watch on YouTube" link to the sidebar. |
-| `slides` | no | One URL, or several separated by `\|`. Shown as *Document #1*, *#2*, … |
+| `youtube_link` | no | Adds a "Watch on YouTube" button to the session page, and a Recording tag on the schedule. |
+| `slides` | no | One URL, or several separated by `\|`. Listed as *Document #1*, *#2*, …, and adds a Materials tag on the schedule. |
 | `room` | no | In-person location. |
 | `location` | no | URL the room name links to, e.g. a campus map. |
 | `description_en` / `description_fr` | no | The session description. Leave blank to keep whatever is already in the file. Put `<!--more-->` where the excerpt shown on the schedule should stop. |
@@ -188,13 +188,13 @@ Between the two files, only `title`, `lang` and the description should differ. E
 | `category` | Must be `presentation` to appear on the schedule and for the language toggle to work. |
 | `archive` | The year, **unquoted** (`2025`, never `"2025"`). Decides which schedule and archive page lists it. |
 | `presenter` | A bracketed list: `[Name (Institution), Name (Institution)]`. |
-| `slides` | One URL, or a list. Shown as *Document #1*, *#2*, … |
+| `slides` | One URL, or a list. Listed as *Document #1*, *#2*, … |
 | `youtube_link` | Adds a "Watch on YouTube" link. |
 | `room` / `location` | In-person location, and a URL for it. Only shown if `room` is set. |
-| `session_link` | Zoom URL. **Currently not displayed** — the "JOIN ZOOM SESSION" button in `_includes/sidebar.html` is commented out. Uncomment it to use. |
+| `session_link` | Zoom URL. **Currently not displayed** — the "JOIN ZOOM SESSION" button is commented out in `_layouts/session.html`. Uncomment it for a live event. |
 
-The sidebar labels ("Presented by:", "Watch on YouTube", …) are not in the session files — they are
-translated once in `_data/menus.yml`.
+The labels ("Presented by:", "Watch on YouTube", "Recording", …) are not in the session files — they
+are translated once in `_data/menus.yml`.
 
 ### How sessions reach the schedule
 
@@ -266,6 +266,23 @@ youtube_link: https://youtu.be/VIDEO_ID
 ```
 
 Check that Google Drive sharing allows anyone with the link to view.
+
+### How a session is displayed
+
+The schedule and each year's archive page share one template
+(`_layouts/sessions.html`), which lays the sessions out as an agenda: the time
+in its own column, then the title, presenters and the opening of the
+description. Small **Recording** and **Materials** tags appear automatically on
+any session that has a `youtube_link` or `slides`, so a past year shows at a
+glance what came out of it.
+
+An individual session page (`_layouts/session.html`) is one column: date and
+time, title, presenters, then the recording as a button with any materials
+listed beside it, and the full description below. A session with no description
+simply ends after its details.
+
+Styling for the two lives in `_sass/components/_schedule.scss` and
+`_sass/pages/sessions/_page-sessions-single.scss`.
 
 ### The Event Archive page
 
@@ -391,7 +408,7 @@ GitHub and click **Revert**), then reapply the change more carefully.
 ├── _config.yml          Site title, email, current_year. Restart local preview after editing.
 ├── _data/
 │   ├── sessions.csv     The editable programme — one row per session
-│   ├── menus.yml        Navigation, footer, sidebar labels
+│   ├── menus.yml        Navigation, footer, and the labels used on session pages
 │   └── contact.yml      Home page date box and registration button
 ├── _scripts/
 │   └── generate_sessions.py   Turns sessions.csv into session pages
@@ -401,7 +418,7 @@ GitHub and click **Revert**), then reapply the change more carefully.
 ├── 2020/ … 2025/        One archive landing page per year, per language
 ├── en/, fr/             The main pages
 ├── _layouts/            Page templates (archive.html builds the year cards)
-├── _includes/           Reused fragments (header, sidebar, breadcrumbs, menus)
+├── _includes/           Reused fragments (header, breadcrumbs, menus, date formatting)
 ├── _sass/               Styles, including bundled Bootstrap and the archive cards
 ├── assets/              CSS, JavaScript, fonts
 ├── images/              Logos and illustrations
