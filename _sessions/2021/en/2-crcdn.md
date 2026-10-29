@@ -2,6 +2,7 @@
 title: S2 | Using the DLI for Academic Research
 date: 2021-11-24
 hour: 15:00 ET
+weight: 3
 lang: en
 ref: 2-crcdn
 presenter: [Grant Gibson (CRDCN)]

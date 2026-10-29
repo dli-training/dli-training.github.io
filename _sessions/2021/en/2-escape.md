@@ -2,6 +2,7 @@
 title: Coffee Break |  Locked in the Library – Online Escape Room
 date: 2021-11-25
 hour: 14:15 ET
+weight: 2
 lang: en
 ref: 2-escape
 presenter: [Caleb Domsy (Humber College)]

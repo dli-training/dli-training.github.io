@@ -2,6 +2,7 @@
 title: Coffee Break | Data Trivia
 date: 2021-11-24
 hour: 14:15 ET
+weight: 2
 lang: en
 ref: 1-trivia
 presenter: [Emma Chiriac (Université du Québec en Outaouais); Caleb Domsy (Humber College)]

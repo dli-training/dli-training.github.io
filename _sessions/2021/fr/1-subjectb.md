@@ -2,6 +2,7 @@
 title: S1 | Métadonnées à Statistique Canada
 date: 2021-11-25
 hour: 13:00 HE
+weight: 1
 lang: fr
 ref: 1-subjectb
 presenter: [Chantal Vaillancourt (Statistique Canada)]

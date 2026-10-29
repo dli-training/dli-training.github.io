@@ -2,6 +2,7 @@
 title: S2 | Initial results from the DLI Contacts and Alternates Survey and Community Discussion
 date: 2021-11-26
 hour: 15:00 ET
+weight: 2
 lang: en
 ref: 2-discussion
 presenter: [Alex Cooper, Arden Kayzak, Jacqueline Tebbens]

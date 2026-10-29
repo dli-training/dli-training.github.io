@@ -2,6 +2,7 @@
 title: S2 | Premiers résultats de l'enquête sur les personnes-ressources et les suppléants de l'IDD et discussion avec la communauté
 date: 2021-11-26
 hour: 15:00 HE
+weight: 2
 lang: fr
 ref: 2-discussion
 presenter: [Alex Cooper, Arden Kayzak, Jacqueline Tebbens]

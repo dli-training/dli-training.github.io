@@ -2,6 +2,7 @@
 title: S1 | Enquête canadienne sur la situation des entreprises
 date: 2021-11-23
 hour: 13:00 HE
+weight: 1
 lang: fr
 ref: 1-subjecta
 presenter: [Chris Johnston (Statistique Canada)]

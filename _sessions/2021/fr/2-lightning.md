@@ -2,6 +2,7 @@
 title: S2 | Discussions éclair (questions et réponses)
 date: 2021-11-25
 hour: 15:00 HE
+weight: 3
 lang: fr
 ref: 2-lightning
 presenter: [TBD]

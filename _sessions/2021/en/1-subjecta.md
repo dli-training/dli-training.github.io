@@ -2,6 +2,7 @@
 title: S1 | Canadian Survey on Business Conditions
 date: 2021-11-23
 hour: 13:00 ET
+weight: 1
 lang: en
 ref: 1-subjecta
 presenter: [Chris Johnston (Statistics Canada)]

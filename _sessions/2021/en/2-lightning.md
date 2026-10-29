@@ -2,6 +2,7 @@
 title: S2 | Lightning Talks Q&A
 date: 2021-11-25
 hour: 15:00 ET
+weight: 3
 lang: en
 ref: 2-lightning
 presenter: [TBD]

@@ -2,6 +2,7 @@
 title: S1 | Metadata at Statistics Canada
 date: 2021-11-25
 hour: 13:00 ET
+weight: 1
 lang: en
 ref: 1-subjectb
 presenter: [Chantal Vaillancourt (Statistics Canada)]

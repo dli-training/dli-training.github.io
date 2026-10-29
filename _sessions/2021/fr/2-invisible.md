@@ -2,6 +2,7 @@
 title: S2 | Pas toujours invisibles - Trouver les données sur les populations marginalisées et sous-représentées au Canada
 date: 2021-11-22
 hour: 15:00 HE
+weight: 2
 lang: fr
 ref: 2-invisible
 presenter: [Kevin Manuel (Ryerson University), Jeremy Buhler (UBC)]

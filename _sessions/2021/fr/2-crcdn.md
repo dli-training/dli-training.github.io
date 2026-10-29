@@ -2,6 +2,7 @@
 title: S2 |  Utiliser le réseau IDD pour la recherche académique
 date: 2021-11-24
 hour: 15:00 HE
+weight: 3
 lang: fr
 ref: 2-crcdn
 presenter: [Grant Gibson (RCCDR)]

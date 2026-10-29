@@ -20,7 +20,7 @@ bodyClass: page-sessions-list
 
 <div class="container pt-1 pb-3">
 
-  {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | where: "archive", page.archive | group_by_exp:"session", "session.date" | sort: "weight" %}
+  {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | where: "archive", page.archive | group_by_exp:"session", "session.date" | sort: "name" %}
   {% assign menu = site.data.menus.languages | where: "language", page.lang | first %}
   {% for group in posts_by_day %}
 
@@ -32,7 +32,13 @@ bodyClass: page-sessions-list
       lang / category / archive in the assign above.
       {%- endcomment -%}
       <ol class="schedule-list">
-        {% for session in group.items %}
+        {%- comment -%}
+        Sorted by weight: group.items is in collection order, which is
+        alphabetical by filename. That matched the intended order only because
+        every ref so far happens to start with its session number.
+        {%- endcomment -%}
+        {% assign ordered = group.items | sort: "weight" %}
+        {% for session in ordered %}
         <li class="schedule-item">
           <div class="schedule-time">{{ session.hour }}</div>
           <div class="schedule-body">

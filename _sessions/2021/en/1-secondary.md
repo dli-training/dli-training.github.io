@@ -2,6 +2,7 @@
 title: S1 | Secondary Data Speed Dating
 date: 2021-11-26
 hour: 13:00 ET
+weight: 1
 lang: en
 ref: 1-secondary
 presenter: [Julie Marcoux (Dalhousie University)]
