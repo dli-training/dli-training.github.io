@@ -25,7 +25,7 @@ Tara Stieglitz : <stieglitzt@macewan.ca>
 
 ### Région atlantique
 
-Sandra Sawchuk : <sandra.sawchuk@msvu.ca>   
+Sam Read : <sread@stfx.ca>  
 
 ### Québec
 
@@ -43,4 +43,4 @@ Kaetlyn Phillips : <kaetlyn.phillips@uregina.ca>
 
 ### Collèges
 
-Caleb Domsy : <caleb.domsy@humber.ca>  
+

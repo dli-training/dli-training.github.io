@@ -3,8 +3,10 @@
 The site at **<https://dli-training.github.io/>** is built from this repository with
 [Jekyll](https://jekyllrb.com/) and published by GitHub Pages.
 
-Every task in this guide can be done in the browser on GitHub. Nothing needs to be installed.
+Every task in this guide can be done in the browser on GitHub. Nothing needs to be installed on your machine.
 
+- [Starting a new training year](#starting-a-new-training-year)
+- [Showing and hiding menu items](#showing-and-hiding-menu-items)
 - [How publishing works](#how-publishing-works)
 - [Rules that matter](#rules-that-matter)
 - [Editing in your browser](#editing-in-your-browser)
@@ -13,13 +15,55 @@ Every task in this guide can be done in the browser on GitHub. Nothing needs to 
 - [Editing one session by hand](#editing-one-session-by-hand)
 - [Session fields](#session-fields)
 - [Common tasks](#common-tasks)
-- [Starting a new training year](#starting-a-new-training-year)
-- [Showing and hiding menu items](#showing-and-hiding-menu-items)
 - [Previewing on your own computer](#previewing-on-your-own-computer)
 - [Troubleshooting](#troubleshooting)
 - [Where everything lives](#where-everything-lives)
 
 ---
+
+## Starting a new training year
+
+Using 2026 as the example:
+
+1. **Add the sessions** to [`_data/sessions.csv`](_data/sessions.csv) with `archive` set to `2026`,
+   and commit. This writes the session files and creates `2026/en/2026.md` and `2026/fr/2026.md`.
+
+2. **Point the Schedule at the new year.** In `en/program.md` and `fr/program.md`, change
+   `archive: 2025` to `archive: 2026`. This is what moves the sessions onto the Schedule page.
+
+3. **Set the current year** in `_config.yml`:
+
+   ```yaml
+   current_year: 2026
+   ```
+
+   Sessions in this year link back to the Schedule; earlier years link back to their own archive
+   page.
+
+4. **Update the home page**: the dates in `_data/contact.yml`, and the announcement text in
+   `en/index.md` and `fr/index.md`.
+
+5. **Re-enable the menu items** for an active event — Schedule, Registration, Feedback. See below.
+
+The Event Archive page needs no change. Earlier years keep their pages whether or not their rows
+are still in the spreadsheet.
+
+## Showing and hiding menu items
+
+The navigation is in `_data/menus.yml`. Between events most items are commented out with `#`. The
+live menu is whichever `- title:` / `url:` pairs are not commented:
+
+```yaml
+  links:
+  #  - title: "Feedback"
+  #    url: /en/feedback/
+    - title: "Resources"
+      url: /en/resources/
+```
+
+To show an item, remove the `#` from both of its lines and line the indentation up with its
+neighbours. To hide one, add `#` to both lines. Do it in both the `en` and `fr` blocks. YAML needs
+spaces, never tabs. `footer:` lower down controls the footer links.
 
 ## How publishing works
 
@@ -33,7 +77,7 @@ To have a change reviewed first, commit it to a branch and open a pull request i
 
 ## Rules that matter
 
-**1. Everything is bilingual.** Almost every file has an English and a French twin. Edit both.
+**1. Everything is bilingual.** Almost every file has an English and a French twin. If you are editing by hand, edit both.
 
 | English | French |
 | --- | --- |
@@ -58,7 +102,7 @@ date: 2025-05-06
 lang: en
 ---
 
-This text, below the second `---`, is what visitors read.
+This text, below the second `---`, is what people read on the page.
 ```
 
 ## Editing in your browser
@@ -72,7 +116,7 @@ This text, below the second `---`, is what visitors read.
 For several files at once, press <kbd>.</kbd> while viewing the repository, or change `github.com`
 to `github.dev` in the address bar.
 
-## Adding sessions from the spreadsheet
+## Adding sessions to the spreadsheet
 
 Add one row per session to [`_data/sessions.csv`](_data/sessions.csv) and the site writes both
 language files for you.
@@ -298,49 +342,7 @@ Edit `email:` in `_config.yml`, which feeds the "Email us!" link.
 > After editing `_config.yml`, stop and restart a local preview. Jekyll does not reload that file.
 > This does not affect GitHub Pages.
 
-## Starting a new training year
 
-Using 2026 as the example:
-
-1. **Add the sessions** to [`_data/sessions.csv`](_data/sessions.csv) with `archive` set to `2026`,
-   and commit. This writes the session files and creates `2026/en/2026.md` and `2026/fr/2026.md`.
-
-2. **Point the Schedule at the new year.** In `en/program.md` and `fr/program.md`, change
-   `archive: 2025` to `archive: 2026`. This is what moves the sessions onto the Schedule page.
-
-3. **Set the current year** in `_config.yml`:
-
-   ```yaml
-   current_year: 2026
-   ```
-
-   Sessions in this year link back to the Schedule; earlier years link back to their own archive
-   page.
-
-4. **Update the home page**: the dates in `_data/contact.yml`, and the announcement text in
-   `en/index.md` and `fr/index.md`.
-
-5. **Re-enable the menu items** for an active event — Schedule, Registration, Feedback. See below.
-
-The Event Archive page needs no change. Earlier years keep their pages whether or not their rows
-are still in the spreadsheet.
-
-## Showing and hiding menu items
-
-The navigation is in `_data/menus.yml`. Between events most items are commented out with `#`. The
-live menu is whichever `- title:` / `url:` pairs are not commented:
-
-```yaml
-  links:
-  #  - title: "Feedback"
-  #    url: /en/feedback/
-    - title: "Resources"
-      url: /en/resources/
-```
-
-To show an item, remove the `#` from both of its lines and line the indentation up with its
-neighbours. To hide one, add `#` to both lines. Do it in both the `en` and `fr` blocks. YAML needs
-spaces, never tabs. `footer:` lower down controls the footer links.
 
 ## Previewing on your own computer
 
@@ -423,13 +425,6 @@ A YAML error in `_config.yml` or `_data/` stops the build. Open the commit on Gi
 ```
 
 Files and folders starting with `_` belong to Jekyll and are not published as pages.
-
-### Known gap
-
-Six 2020 sessions (`0-dli-update`, `1-pumf`, `2-dmp`, `2-lightning`, and the two
-`data-visualization` workshops) have no `date:` or `archive:`. Their pages exist, but they are not
-listed on the 2020 archive page and their EN/FR toggles do not resolve. Fixing this needs the real
-dates, which are not recorded anywhere in the repository.
 
 ---
 
