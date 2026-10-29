@@ -1,25 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% elsif page.lang == 'fr' %}{{ site.title_fr | escape }}{% else %}{{ site.title_en | escape }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.png' | relative_url }}">
-  <style>
-  @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald:wght@300;400&display=swap');
-  </style>
+  <link rel="icon" type="image/svg+xml" href="{{ '/images/logo-mobile-round.svg' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald:wght@300;400&display=swap" rel="stylesheet">
 <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
   {% if page.description %}
   <meta name="description" content="{{ page.description }}" />
   {% endif %}
-  <meta property="og:title" content="{{ site.seo.meta_og_title }}" />
-  <meta property="og:type" content="{{ site.seo.meta_og_type }}" />
-  <meta property="og:url" content="{{ site.seo.meta_og_url }}" />
-  <meta property="og:image" content="{{ site.seo.meta_og_image }}" />
-  <meta property="og:description" content="{{ site.seo.meta_og_description }}" />
-  <meta name="twitter:card" content="{{ site.seo.meta_twitter_card }}" />
-  <meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />
-  <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />
+  {%- comment -%}
+  Social-sharing tags. Each is emitted only when it has a value, so empty
+  settings in _config.yml do not leave blank tags on every page.
+  {%- endcomment -%}
+  {% assign og_title = site.seo.meta_og_title | default: page.title %}
+  {% assign og_description = site.seo.meta_og_description | default: page.description %}
+  {% if og_title %}<meta property="og:title" content="{{ og_title }}" />{% endif %}
+  {% if site.seo.meta_og_type != "" and site.seo.meta_og_type %}<meta property="og:type" content="{{ site.seo.meta_og_type }}" />{% endif %}
+  {% if site.seo.meta_og_url != "" and site.seo.meta_og_url %}<meta property="og:url" content="{{ site.seo.meta_og_url }}" />{% endif %}
+  {% if site.seo.meta_og_image != "" and site.seo.meta_og_image %}<meta property="og:image" content="{{ site.seo.meta_og_image }}" />{% endif %}
+  {% if og_description %}<meta property="og:description" content="{{ og_description }}" />{% endif %}
+  {% if site.seo.meta_twitter_card != "" and site.seo.meta_twitter_card %}<meta name="twitter:card" content="{{ site.seo.meta_twitter_card }}" />{% endif %}
+  {% if site.seo.meta_twitter_site != "" and site.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />{% endif %}
+  {% if site.seo.meta_twitter_creator != "" and site.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />{% endif %}
 </head>
 <body class='page {{page.bodyClass}}'>
   {% include main-menu-mobile.html %}
@@ -31,12 +37,5 @@
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ "/assets/js/scripts.js" | relative_url }}"></script>
   {% include google-analytics.html %}
-
-  <script type="text/javascript" src="/assets/js/lightbox.js"></script>
-  <link rel="stylesheet" href="/assets/css/lightbox.css">
-
 </body>
-</html>
-</body>
-
 </html>

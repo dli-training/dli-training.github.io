@@ -3,7 +3,7 @@ title: Pause café | Escape Room en ligne
 date: 2021-11-25
 hour: 14:15 HE
 lang: fr
-ref: 1-trivia
+ref: 2-escape
 presenter: [Caleb Domsy (Humber College)]
 length:
 time: synchronous

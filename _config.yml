@@ -61,6 +61,3 @@ defaults:
 
 sass:
   style: compact # possible values: nested expanded compact compressed
-
-plugins:
-  - jekyll-environment-variables
