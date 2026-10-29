@@ -10,7 +10,7 @@ bodyClass: page-sessions-list
         {{ content }}
       </div>
       {% if page.intro_image %}
-      <div class="col-12 col-md-1 col-lg-6 order-1 order-md-2 position-relative">
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
         <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
       </div>
       {% endif %}
@@ -21,30 +21,51 @@ bodyClass: page-sessions-list
 <div class="container pt-1 pb-3">
 
   {% assign posts_by_day = site.sessions | where: "lang", page.lang | where: "category", page.category | where: "archive", page.archive | group_by_exp:"session", "session.date" | sort: "weight" %}
+  {% assign menu = site.data.menus.languages | where: "language", page.lang | first %}
   {% for group in posts_by_day %}
 
-    <div>
-        <div>
+    <section class="schedule-day">
+      <h2 class="schedule-day-heading">{% include date-selector.html %}</h2>
 
-          <h2>{% include date-selector.html %}</h2>
-        </div>
-        {%- comment -%}
-        group.items already holds exactly this date's sessions, filtered by
-        lang / category / archive in the assign above.
-        {%- endcomment -%}
+      {%- comment -%}
+      group.items already holds exactly this date's sessions, filtered by
+      lang / category / archive in the assign above.
+      {%- endcomment -%}
+      <ol class="schedule-list">
         {% for session in group.items %}
-        <div>
-          <h3>
-            {{ session.hour }} :
-         <a href="{{ session.url }}">{{ session.title }}</a>
-          </h3>
+        <li class="schedule-item">
+          <div class="schedule-time">{{ session.hour }}</div>
+          <div class="schedule-body">
+            <h3 class="schedule-title">
+              <a href="{{ session.url }}">{{ session.title }}</a>
+            </h3>
+
+            {% if session.presenter and session.presenter != empty %}
+            <p class="schedule-presenter">{{ session.presenter | join: ", " }}</p>
+            {% endif %}
+
+            <div class="schedule-excerpt">
               {% if session.content contains '<!--more-->' %}
-      				{{ session.content | split:'<!--more-->' | first }}
-        			{% else %}
-          			<p class="session-content">{{ session.content }}</p>
-        			{% endif %}
-        </div>
+                {{ session.content | split:'<!--more-->' | first }}
+              {% else %}
+                {{ session.content }}
+              {% endif %}
+            </div>
+
+            {%- comment -%}
+            Shown once an event is over and its materials are linked, so the
+            archive years say at a glance what is available.
+            {%- endcomment -%}
+            {% if session.youtube_link or session.slides %}
+            <ul class="schedule-tags">
+              {% if session.youtube_link %}<li class="schedule-tag">{{ menu.tag-recording }}</li>{% endif %}
+              {% if session.slides %}<li class="schedule-tag">{{ menu.tag-materials }}</li>{% endif %}
+            </ul>
+            {% endif %}
+          </div>
+        </li>
         {% endfor %}
-    </div>
+      </ol>
+    </section>
   {% endfor %}
 </div>

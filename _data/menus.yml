@@ -12,6 +12,8 @@ languages:
   w-url: /workshop/
   archive: "Back"
   sessions-label: "sessions"
+  tag-recording: "Recording"
+  tag-materials: "Materials"
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -48,6 +50,8 @@ languages:
   w-url: /workshop/
   archive: "Retour"
   sessions-label: "sessions"
+  tag-recording: "Enregistrement"
+  tag-materials: "Documents"
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "

@@ -1,0 +1,129 @@
+// The session list used by the Schedule page and by each year's archive page.
+// An agenda: a time column on the left, the session beside it.
+
+.schedule-day {
+  margin-bottom: 48px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.schedule-day-heading {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+  font-size: 1.4rem;
+  border-bottom: 2px solid $primary;
+}
+
+.schedule-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.schedule-item {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 22px 12px 22px 0;
+  border-bottom: 1px solid rgba(47, 47, 65, 0.12);
+  transition: background-color 0.15s ease;
+
+  // hints that the row is a link target without drawing ten heavy boxes
+  &:hover {
+    background-color: $white-offset;
+  }
+}
+
+.schedule-time {
+  flex: 0 0 auto;
+  width: 110px;
+  padding-top: 2px;
+  padding-left: 12px;
+  font-family: $font-family-heading;
+  font-size: 1rem;
+  color: $steel;
+}
+
+.schedule-body {
+  // min-width: 0 stops a long unbroken title from forcing the row wider
+  flex: 1 1 320px;
+  min-width: 0;
+}
+
+.schedule-title {
+  margin: 0 0 4px;
+  font-size: 1.1rem;
+  line-height: 1.35;
+
+  a {
+    color: $black;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: $primary;
+      text-decoration: underline;
+    }
+  }
+}
+
+.schedule-presenter {
+  margin: 0 0 8px;
+  font-size: 0.9rem;
+  color: $steel;
+}
+
+.schedule-excerpt {
+  font-size: 0.95rem;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  p + p {
+    margin-top: 0.5rem;
+  }
+}
+
+.schedule-tags {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 12px 0 0;
+  padding: 0;
+}
+
+.schedule-tag {
+  margin: 0 8px 0 0;
+  padding: 2px 10px;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: $primary;
+  border: 1px solid rgba(229, 38, 31, 0.35);
+  border-radius: 999px;
+}
+
+// Below the md breakpoint the time sits above the session rather than beside it
+@media (max-width: 767px) {
+  .schedule-time {
+    width: 100%;
+    padding-left: 0;
+    margin-bottom: 4px;
+  }
+
+  .schedule-item {
+    padding-left: 0;
+
+    &:hover {
+      background-color: transparent;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .schedule-item {
+    transition: none;
+  }
+}
