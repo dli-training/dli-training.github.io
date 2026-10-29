@@ -4,7 +4,29 @@
 // no description, and the old two-column layout left a large empty block
 // beside the metadata whenever that was the case.
 
+.session-single {
+  // The page used to be a content column plus a sidebar, in a Bootstrap row.
+  // The sidebar is gone, so the grid is no longer holding two things apart —
+  // but the width limit still earns its place: it keeps the body text at
+  // roughly 72 characters per line. Across the full container it would run to
+  // about 96, which is uncomfortably wide to read. Same measure as the old
+  // col-lg-9, stated as what it actually is.
+  max-width: 690px;
+}
+
 .page-sessions-single {
+  // .title is 48/50px site-wide, which suits a one-word page name like
+  // "Contact" but overwhelms a session title, most of which run to a full
+  // sentence and wrap to three lines.
+  .title {
+    font-size: 32px;
+    margin-bottom: 12px;
+
+    @include media-breakpoint-up(md) {
+      font-size: 36px;
+    }
+  }
+
   .content {
     > p {
       &:first-of-type {
@@ -19,10 +41,14 @@
 }
 
 .session-meta {
-  margin-bottom: 6px;
+  // Deliberately not $primary: the breadcrumb link directly above is red, and
+  // two red lines stacked read as one block instead of as separate things.
+  margin-top: 4px;
+  margin-bottom: 10px;
   font-family: $font-family-heading;
-  font-size: 1rem;
-  color: $steel;
+  font-size: 1.25rem;
+  letter-spacing: 0.01em;
+  color: $black;
 
   span {
     // the include wraps its output in a span
