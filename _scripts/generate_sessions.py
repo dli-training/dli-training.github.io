@@ -234,6 +234,29 @@ def write(path, content, dry_run, changes):
         path.write_text(content, encoding="utf-8")
 
 
+def find_orphans(rows, years):
+    """Session files in a year the CSV covers that no longer match any row.
+
+    Renaming a row's `ref` writes a new pair of files and leaves the old pair
+    behind, still published at the old address and still listed on the
+    schedule. Only years present in the CSV are checked, so the hand-written
+    years stay untouched.
+    """
+    wanted = {}
+    for row in rows:
+        wanted.setdefault(row["archive"], set()).add(row["ref"])
+    orphans = []
+    for year in years:
+        for lang in LANGS:
+            folder = REPO / "_sessions" / year / lang
+            if not folder.is_dir():
+                continue
+            for path in sorted(folder.glob("*.md")):
+                if path.stem not in wanted.get(year, set()):
+                    orphans.append(path)
+    return orphans
+
+
 def generate(csv_path, dry_run=False):
     rows = read_rows(csv_path)
     changes = []
@@ -253,12 +276,22 @@ def generate(csv_path, dry_run=False):
                 write(path, render_year_page(year, lang), dry_run, changes)
 
     print("%d session row(s) across year(s): %s" % (len(rows), ", ".join(years)))
+
+    orphans = find_orphans(rows, years)
+    if orphans:
+        print("\nWarning: these files are in a year the CSV covers but match no row.")
+        print("If you renamed a ref, delete the old files; they are still published")
+        print("at their old address and still listed on the schedule.")
+        for path in orphans:
+            print("  orphan %s" % rel(path))
+        print("")
+
     if not changes:
         print("Everything already up to date; nothing written.")
         return 0
 
-    for label, rel in changes:
-        print("  %-6s %s" % (label, rel))
+    for label, shown in changes:
+        print("  %-6s %s" % (label, shown))
     if dry_run:
         print("\n--dry-run: no files were written.")
     else:
