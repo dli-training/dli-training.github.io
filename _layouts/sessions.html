@@ -28,10 +28,11 @@ bodyClass: page-sessions-list
 
           <h2>{% include date-selector.html %}</h2>
         </div>
-        {% for session in site.sessions %}
-        {% if session.lang == page.lang %}
-        {% if session.archive == page.archive %}
-        {% if session.date == group.name %}
+        {%- comment -%}
+        group.items already holds exactly this date's sessions, filtered by
+        lang / category / archive in the assign above.
+        {%- endcomment -%}
+        {% for session in group.items %}
         <div>
           <h3>
             {{ session.hour }} :
@@ -43,9 +44,6 @@ bodyClass: page-sessions-list
           			<p class="session-content">{{ session.content }}</p>
         			{% endif %}
         </div>
-        {% endif %}
-       {% endif %}
-        {% endif %}
         {% endfor %}
     </div>
   {% endfor %}

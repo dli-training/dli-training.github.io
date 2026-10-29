@@ -5,6 +5,10 @@ title_en: 'DLI National Training'
 title_fr: 'Formation nationale de l’IDD'
 email: 'statcan.maddli-damidd.statcan@canada.ca'
 
+# The year currently being run. Bump this when a new training year starts;
+# it drives the schedule breadcrumbs. See README.md.
+current_year: 2025
+
 google_analytics_id: null
 homepage:
   show_call_box: true

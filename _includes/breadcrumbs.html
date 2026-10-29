@@ -1,42 +1,31 @@
-<!-- https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/breadcrumbs.html  -->
+{%- comment -%}
+Back-link shown at the top of a session page.
 
+  - Sessions in the year currently running (site.current_year in _config.yml)
+    link back to the live Schedule page.
+  - Sessions from any earlier year link back to that year's archive page, whose
+    URL is built from the session's own `archive` value — so no per-year entry
+    is needed anywhere when a new year starts.
 
+Originally adapted from:
+https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/breadcrumbs.html
+{%- endcomment -%}
 <div class="breadcrumb">
-{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-{% for item in site.data.menus.languages %}
-{% if item.language == page.lang %}
-{% if page.archive == 2025 %}
-{% if page.categories contains "presentation" %}
+{%- for item in site.data.menus.languages -%}
+{%- if item.language == page.lang -%}
+
+  {%- if page.archive == site.current_year -%}
+    {%- if page.categories contains "presentation" -%}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
-{% endif %}
-{% endif %}
-{% endif %}
-{% endfor %}
+    {%- endif -%}
+  {%- elsif page.archive -%}
+<a href="{{ site.url }}/{{ page.archive }}/{{ page.lang }}/{{ page.archive }}/">{{ item.archive }}</a>
+  {%- endif -%}
 
-{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-{% for item in site.data.menus.languages %}
-{% if item.language == page.lang %}
-{% if page.archive == 2020 %}
-<a href="{{ site.url }}/{{ item.2020-url }}">{{ item.archive }}</a>
-{% elsif page.archive == 2021 %}
-<a href="{{ site.url }}/{{ item.2021-url }}">{{ item.archive }}</a>
-{% elsif page.archive == 2022 %}
-<a href="{{ site.url }}/{{ item.2022-url }}">{{ item.archive }}</a>
-{% elsif page.archive == 2023 %}
-<a href="{{ site.url }}/{{ item.2023-url }}">{{ item.archive }}</a>
-{% elsif page.archive == 2024 %}
-<a href="{{ site.url }}/{{ item.2024-url }}">{{ item.archive }}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
-
-{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-{% for item in site.data.menus.languages %}
-{% if item.language == page.lang %}
-{% if page.categories contains "workshop" %}
+  {%- if page.categories contains "workshop" -%}
 <a href="{{ site.url }}/{{ page.lang }}{{ item.w-url }}">{{ item.workshop }}</a>
-{% endif %}
-{% endif %}
-{% endfor %}
+  {%- endif -%}
 
+{%- endif -%}
+{%- endfor -%}
 </div>
