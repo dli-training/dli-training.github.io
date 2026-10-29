@@ -1,13 +1,13 @@
 ---
 title: Programme
 layout: sessions
-intro_image: "images/pixeltrue-teaching-1.svg"
+intro_image: #"images/pixeltrue-teaching-1.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 lang: fr
 ref: program
 category: presentation
-archive: 2025
+archive: 2026
 ---
 <!--
 Pour participer à l'une des sessions en ligne, vous devez vous inscrire en utilisant le [formulaire d'inscription]({% link fr/register.md %}). Vous recevrez à l'avance les liens pour participer à la session.

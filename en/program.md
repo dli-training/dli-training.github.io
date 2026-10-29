@@ -1,13 +1,13 @@
 ---
 title: Schedule
 layout: sessions
-intro_image: "images/pixeltrue-teaching-1.svg"
+intro_image: #"images/pixeltrue-teaching-1.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 lang: en
 ref: program
 category: presentation
-archive: 2025
+archive: 2026
 ---
 <!--
 To participate in the online session, you must register using the [registration form]({% link en/register.md %}). You will receive a link to join the session in advance.

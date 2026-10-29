@@ -7,7 +7,7 @@ email: 'statcan.maddli-damidd.statcan@canada.ca'
 
 # The year currently being run. Bump this when a new training year starts;
 # it drives the schedule breadcrumbs. See README.md.
-current_year: 2025
+current_year: 2026
 
 google_analytics_id: null
 homepage:

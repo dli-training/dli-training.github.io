@@ -29,12 +29,12 @@ languages:
   #    url: /en/local/
   #  - title: "Registration"
   #    url: /en/register/
-  #  - title: "Schedule"
-  #    url: /en/program/
+    - title: "Schedule"
+      url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
-    - title: "Resources"
-      url: /en/resources/
+  #  - title: "Resources"
+  #    url: /en/resources/
     - title: "Event Archive"
       url: /en/archive/
     - title: "Contact"
@@ -67,12 +67,12 @@ languages:
   #    url: /fr/local/
   #  - title: "Enregistrement"
   #    url: /fr/register/
-  #  - title: "Programme"
-  #    url: /fr/program/
+    - title: "Programme"
+      url: /fr/program/
   # - title: "Séminaire"
   #   url: /fr/workshop/
-    - title: "Ressources"
-      url: /fr/resources/
+  #  - title: "Ressources"
+  #    url: /fr/resources/
     - title: "Archive des événements"
       url: /fr/archive/
     - title: "Contact"
