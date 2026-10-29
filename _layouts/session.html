@@ -1,29 +1,75 @@
 ---
 layout: default
 ---
+{% assign menu = site.data.menus.languages | where: "language", page.lang | first %}
 
 <div class="container pb-3 pt-6 pt-md-5 pb-md-10">
-  <div class="d-flex justify-content-between">
-    {% include breadcrumbs.html %}
-    <p></p>
-  </div>
+  {% include breadcrumbs.html %}
 
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8 pt-2 order-1 order-md-1">
-      <div class="session session-single">
-        <h1 class="title">{{page.title}}</h1>
-        <div class="content">{{content}}</div>
+    <div class="col-12 col-lg-9">
+      <article class="session session-single">
 
-      </div>
+        <p class="session-meta">
+          {% if page.date %}{% include date-selector.html date=page.date %}{% endif %}
+          {% if page.date and page.hour %}<span class="session-meta-sep">&middot;</span>{% endif %}
+          {% if page.hour %}<span>{{ page.hour }}</span>{% endif %}
+        </p>
+
+        <h1 class="title">{{ page.title }}</h1>
+
+        {% if page.presenter and page.presenter != empty %}
+        <p class="session-presenter">
+          <span class="session-presenter-label">{{ menu.presenter }}</span>{{ page.presenter | join: ", " }}
+        </p>
+        {% endif %}
+
+        {% if page.room %}
+        <p class="session-location">
+          <span class="session-presenter-label">{{ menu.room }}</span>
+          {% if page.location %}<a href="{{ page.location }}" target="_blank" rel="noopener">{{ page.room }}</a>{% else %}{{ page.room }}{% endif %}
+        </p>
+        {% endif %}
+
+        {%- comment -%}
+        The Zoom link is deliberately not shown. Uncomment to use it while an
+        event is running; menu.webinar holds the translated button text.
+        <a class="session-button" href="{{ page.session_link }}">{{ menu.webinar }}</a>
+        {%- endcomment -%}
+
+        {% if page.youtube_link or page.slides %}
+        <div class="session-resources">
+          {% if page.youtube_link %}
+          <a class="session-button" href="{{ page.youtube_link }}" target="_blank" rel="noopener">{{ menu.youtube }}</a>
+          {% endif %}
+
+          {% if page.slides %}
+          <div class="session-materials">
+            <span class="session-presenter-label">{{ menu.slides }}</span>
+            <ul class="session-materials-list">
+              {%- comment -%}
+              `slides` is one URL or a list of them; Liquid iterates both.
+              {%- endcomment -%}
+              {% for slide in page.slides %}
+              <li><a href="{{ slide }}" target="_blank" rel="noopener">Document #{{ forloop.index }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+        </div>
+        {% endif %}
+
+        {%- comment -%}
+        Jekyll renders an empty session body as "\n", which Liquid's `blank`
+        does not catch, so strip before testing. Many sessions have no
+        description and should not get an empty rule under the metadata.
+        {%- endcomment -%}
+        {% assign body = content | strip %}
+        {% if body != "" %}
+        <div class="content session-body">{{ content }}</div>
+        {% endif %}
+
+      </article>
     </div>
-
-  <div class="col-md order-2 order-md-2 pt-4 position-relative">
-
-{% include sidebar.html %}
-
-  </div>
-
-
-
   </div>
 </div>

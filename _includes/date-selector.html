@@ -1,23 +1,16 @@
+{%- comment -%}
+Formats a session date in the page's language.
 
-
+Called with a date (`{% include date-selector.html date=page.date %}`), or with
+no argument from inside a group loop, where it falls back to the group's date.
+{%- endcomment -%}
+{%- assign d = include.date | default: group.name -%}
 <span>
-
   {% if page.lang == "fr" %}
-
-  {% assign weekdays =
-  "Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samdei|Dimanche" | split: "|" %}
-  {% assign w = group.name | date: "%A" %}
-
   {% assign months = "Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre" | split: "|" %}
-  {% assign m = group.name | date: "%-m" | minus: 1 %}
-
-  {% assign weekday = group.name | date: "%A" %}
-  {% assign day = group.name | date: "%d" %}
-  {% assign month = months[m] | downcase %}
-  {% assign year = group.name | date: "%Y" %}
-
-  {{ day }} {{ month }} {{ year }}
+  {% assign m = d | date: "%-m" | minus: 1 %}
+  {{ d | date: "%d" }} {{ months[m] | downcase }} {{ d | date: "%Y" }}
   {% else %}
-  {{ group.name | date: "%B %e, %Y" }}
+  {{ d | date: "%B %e, %Y" }}
   {% endif %}
 </span>
