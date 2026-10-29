@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/b
 <a href="{{ site.url }}/{{ page.lang }}{{ item.s-url }}">{{ item.schedule }}</a>
     {%- endif -%}
   {%- elsif page.archive -%}
-<a href="{{ site.url }}/{{ page.archive }}/{{ page.lang }}/{{ page.archive }}/">{{ item.archive }}</a>
+<a href="{{ site.url }}/{{ page.archive }}/{{ page.lang }}/{{ page.archive }}/">{{ item.archive | replace: "%year%", page.archive }}</a>
   {%- endif -%}
 
   {%- if page.categories contains "workshop" -%}

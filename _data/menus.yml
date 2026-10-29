@@ -10,7 +10,7 @@ languages:
   s-url: /program/
   workshop: "Back to workshops"
   w-url: /workshop/
-  archive: "Back"
+  archive: "Back to %year% schedule"
   sessions-label: "sessions"
   tag-recording: "Recording"
   tag-materials: "Materials"
@@ -48,7 +48,7 @@ languages:
   s-url: /program/
   workshop: "Retour au séminaire"
   w-url: /workshop/
-  archive: "Retour"
+  archive: "Retour au programme %year%"
   sessions-label: "sessions"
   tag-recording: "Enregistrement"
   tag-materials: "Documents"
