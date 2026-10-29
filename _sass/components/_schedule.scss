@@ -36,10 +36,19 @@
 }
 
 .schedule-time {
+  // min-width rather than width, so a longer time such as "12:00-13:00 EST"
+  // makes the column wider instead of filling it edge to edge. padding-right
+  // is the actual gutter: with a fixed width the gap to the title was only
+  // whatever a short time happened to leave over, which for a time range was
+  // nothing at all.
   flex: 0 0 auto;
-  width: 110px;
+  // wide enough that both "13:00 ET" and a range like "12:00-13:00 EST" land
+  // on the same column width, so the titles line up on every year
+  min-width: 150px;
   padding-top: 2px;
   padding-left: 12px;
+  padding-right: 24px;
+  white-space: nowrap;
   font-family: $font-family-heading;
   font-size: 1rem;
   color: $steel;
@@ -110,6 +119,7 @@
   .schedule-time {
     width: 100%;
     padding-left: 0;
+    padding-right: 0;
     margin-bottom: 4px;
   }
 
