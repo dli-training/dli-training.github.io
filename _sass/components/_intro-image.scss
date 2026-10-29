@@ -3,29 +3,43 @@
   height: auto;
   margin-top: -40px;
 }
+
+// The large illustration beside the page title.
+//
+// This was absolutely positioned at a fixed pixel width (700/800/850px)
+// regardless of how wide its column actually was. At common desktop sizes the
+// column is about 480px, so the image overflowed by hundreds of pixels and
+// .intro's `overflow: hidden` sliced it off at the right edge. Because .intro
+// centres its row, a page with little intro text (the home page, the schedule)
+// also kept its columns short, and the image was cut off across the top.
+//
+// It now stays in the flow and bleeds with negative margins instead. The row
+// grows to fit it, so it cannot be clipped vertically however little text the
+// page has, and sizing it from the column keeps it inside the viewport at
+// every width.
 .intro-image-absolute {
   max-width: none;
   padding: 0;
   margin-bottom: 30px;
-  @include media-breakpoint-up(sm) {
-  }
+
+  // Bleeds to the left only, into the gutter beside the text. The column's
+  // right edge is the container's, so bleeding right would push the image
+  // past the viewport at some widths and get it clipped again.
   @include media-breakpoint-up(md) {
-    position: absolute;
-    bottom: -50px;
-    left: -50px;
-    width: 700px;
+    width: calc(100% + 40px);
+    margin-left: -40px;
+    margin-bottom: -20px;
   }
   @include media-breakpoint-up(lg) {
-    bottom: -60px;
-    left: -60px;
-    width: 800px;
+    width: calc(100% + 60px);
+    margin-left: -60px;
   }
   @include media-breakpoint-up(xl) {
-    bottom: -100px;
-    left: -70px;
-    width: 850px;
+    width: calc(100% + 80px);
+    margin-left: -80px;
   }
 }
+
 .intro-image-hide-mobile {
   display: none;
   @include media-breakpoint-up(md) {
