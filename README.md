@@ -128,10 +128,30 @@ Re-run the generator as often as you like:
 | `slides` | no | One URL, or several separated by `\|`. Listed as *Document #1*, *#2*, …, and adds a Materials tag. |
 | `room` | no | In-person location. |
 | `location` | no | URL the room name links to, e.g. a campus map. |
-| `description_en` / `description_fr` | no | The session description. Blank keeps what is already in the file. Put `<!--more-->` where the excerpt shown on the schedule should stop. |
+| `description_en` / `description_fr` | no | The session description, written in Markdown. Blank keeps what is already in the file. Put `<!--more-->` where the excerpt shown on the schedule should stop. |
 
 A long description makes its cell span several lines in the raw file. That is valid CSV and
 spreadsheets read it correctly.
+
+### Formatting a description
+
+Description cells are Markdown, so a session made up of several talks can be set out as a list
+rather than as a run of paragraphs. Start each line with `- `, and wrap a title in `**` to make it
+bold. Two spaces at the end of a line break it without starting a new bullet:
+
+```
+Two pre-recorded talks, followed by a live question and answer session.<!--more-->
+
+- **Teaching Critical Data Literacy Through an "Adopt a Dataset" Activity**··
+  Sonia Dhaliwal (Brock University)
+- **Raiders of the Last R-k: Putting R into a PCCF+ Guide**··
+  Alexandra Cooper (Queen's University), Jeremy Buhler (University of British Columbia)
+```
+
+(`··` marks the two trailing spaces.) Everything before `<!--more-->` is what the schedule shows,
+so keep the list below it. `_sessions/2026/en/1-prerecorded.md` is a working example.
+
+Links work too: `[text](https://example.ca)`.
 
 ## Editing one session by hand
 
