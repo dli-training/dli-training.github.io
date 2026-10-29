@@ -28,7 +28,6 @@ layout: default
                   <li class="archive-card">
                     <a href="{% if year_page %}{{ year_page.url }}{% else %}{{ site.url }}/{{ year }}/{{ page.lang }}/{{ year }}/{% endif %}">
                       <span class="archive-card-year">{{ year }}</span>
-                      <span class="archive-card-title">{{ year_page.title | default: year }}</span>
                       <span class="archive-card-meta">{{ listed | size }} {{ menu.sessions-label }}</span>
                     </a>
                   </li>
