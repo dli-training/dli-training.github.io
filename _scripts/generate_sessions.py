@@ -37,14 +37,19 @@ REPO = pathlib.Path(__file__).resolve().parent.parent
 CSV_PATH = REPO / "_data" / "sessions.csv"
 LANGS = ("en", "fr")
 
-REQUIRED = ["archive", "ref", "date", "hour", "weight", "title_en", "title_fr"]
+REQUIRED = ["archive", "ref", "date", "hour", "title_en", "title_fr"]
 OPTIONAL = [
     "category", "presenter_en", "presenter_fr", "session_link", "youtube_link",
     "slides", "room", "location", "description_en", "description_fr",
 ]
+# Accepted if present, but not written by --export and not expected: the order
+# within a day is worked out from `hour`. Supply it only to override that.
+OVERRIDE = ["weight"]
 COLUMNS = REQUIRED + OPTIONAL
+ACCEPTED = COLUMNS + OVERRIDE
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+HOUR_RE = re.compile(r"^\d{2}:\d{2}")
 FRONT_MATTER_RE = re.compile(r"\A---\s*\n.*?\n---\s*\n?", re.DOTALL)
 
 YEAR_PAGE_TITLES = {
@@ -122,12 +127,20 @@ def read_rows(csv_path):
                 raise ValidationError(
                     "%s: 'date' must look like 2026-05-06, got %r." % (where, row["date"])
                 )
-            try:
-                int(row["weight"])
-            except ValueError:
+            if not HOUR_RE.match(row["hour"]):
                 raise ValidationError(
-                    "%s: 'weight' must be a whole number, got %r." % (where, row["weight"])
+                    "%s: 'hour' must start with a 24-hour time such as 09:00 or "
+                    "13:30, because it decides the order sessions appear in. "
+                    "Got %r." % (where, row["hour"])
                 )
+            if row.get("weight", "").strip():
+                try:
+                    int(row["weight"])
+                except ValueError:
+                    raise ValidationError(
+                        "%s: 'weight' is optional, but when given it must be a whole "
+                        "number. Got %r." % (where, row["weight"])
+                    )
             if "/" in row["ref"] or " " in row["ref"]:
                 raise ValidationError(
                     "%s: 'ref' becomes a filename and a URL, so it cannot contain "
@@ -149,7 +162,29 @@ def read_rows(csv_path):
 
     if not rows:
         raise ValidationError("%s has no data rows." % rel(csv_path))
+    assign_weights(rows)
     return rows
+
+
+def assign_weights(rows):
+    """Number each day's sessions in the order they will be shown.
+
+    Sorted by `hour`, which every session already has, so the spreadsheet does
+    not carry a separate ordering column. Two sessions at the same time keep
+    the order their rows appear in, which is how a programme reads. A row that
+    sets `weight` itself keeps that value.
+    """
+    days = {}
+    for i, row in enumerate(rows):
+        row["_line"] = i
+        days.setdefault((row["archive"], row["date"]), []).append(row)
+    for day in days.values():
+        day.sort(key=lambda r: (r["hour"], r["_line"]))
+        for position, row in enumerate(day, start=1):
+            given = row.get("weight", "").strip()
+            row["weight"] = given if given else str(position)
+    for row in rows:
+        row.pop("_line", None)
 
 
 def existing_body(path):
@@ -359,7 +394,8 @@ def export(year, csv_path, dry_run=False):
             row["title_%s" % lang] = unwrap(fm.get("title", ""))
             row["presenter_%s" % lang] = unwrap(fm.get("presenter", ""))
             row["description_%s" % lang] = body
-            for key in ("date", "hour", "weight", "category", "session_link",
+            # weight is not exported: it is worked out from hour on the way back in
+            for key in ("date", "hour", "category", "session_link",
                         "youtube_link", "room", "location"):
                 if fm.get(key):
                     row[key] = unwrap(fm[key])
@@ -367,7 +403,7 @@ def export(year, csv_path, dry_run=False):
                 row["slides"] = unwrap(fm["slides"])
         rows.append(row)
 
-    rows.sort(key=lambda r: (r.get("date", ""), int(r["weight"] or 0), r["ref"]))
+    rows.sort(key=lambda r: (r.get("date", ""), r.get("hour", ""), r["ref"]))
 
     if dry_run:
         print("--dry-run: would write %d row(s) to %s"

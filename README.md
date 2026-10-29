@@ -119,8 +119,7 @@ Re-run the generator as often as you like:
 | `archive` | yes | The year, e.g. `2026`. Sets which folder the session lands in and which schedule lists it. |
 | `ref` | yes | Short name, e.g. `1-rds`. Becomes the filename and the end of the web address, so no spaces or slashes. Unique within a year. |
 | `date` | yes | `YYYY-MM-DD`. Sessions are grouped under a heading per date. |
-| `hour` | yes | Free text beside the title, e.g. `13:00 ET`. Include the timezone. |
-| `weight` | yes | A whole number. Sort order within the day; lower comes first. |
+| `hour` | yes | The start time, e.g. `13:00 ET` or `12:00-13:00 EST`. Begin it with a 24-hour time, since it also sets the order sessions appear in. Include the timezone. |
 | `title_en` / `title_fr` | yes | The session title in each language. |
 | `category` | no | Defaults to `presentation`, which is what puts a session on the schedule. |
 | `presenter_en` / `presenter_fr` | no | `Name (Institution), Name (Institution)`. Separate per language, because institutions are translated. |
@@ -158,8 +157,8 @@ Only `title`, `lang` and the description differ between the two. Everything else
 | --- | --- |
 | `title` | Heading and schedule link text. Quote it: titles contain `\|`, `:` and apostrophes, which are meaningful in YAML. |
 | `date` | `YYYY-MM-DD`. Groups sessions under a date heading. |
-| `hour` | Free text beside the title. Include the timezone. |
-| `weight` | Sort order within the day. Lower first. A bare number, not quoted. |
+| `hour` | Start time beside the title. Include the timezone. |
+| `weight` | Sort order within the day, lower first. Written by the generator from `hour`; you do not set it in the spreadsheet. |
 | `lang` | `en` or `fr`. |
 | `ref` | Links the EN and FR versions. Must equal the filename without `.md`. |
 | `category` | Must be `presentation` to appear on the schedule and for the language toggle to work. |
@@ -185,6 +184,11 @@ archive: 2025
 
 The page lists every session whose `lang`, `category` **and** `archive` match its own, grouped by
 `date` and ordered by `weight`. Nothing is listed by hand.
+
+You do not fill in `weight`. The generator works out each day's order from `hour` and writes it,
+so the running order follows the times you already entered. Two sessions at the same time keep the
+order their rows appear in the spreadsheet. To force a different order, add a `weight` column and
+set it on those rows; anything you put there is used as-is.
 
 ## Common tasks
 
@@ -345,8 +349,13 @@ committed to `master`.
 
 **The spreadsheet Action failed.**
 Open the run under **Actions** and read the error; it names the line and column. Nothing was
-written. Fix the CSV and commit again. Usual causes: a date that isn't `YYYY-MM-DD`, a `weight`
-that isn't a number, two rows sharing a `ref` in the same year, or an empty required cell.
+written. Fix the CSV and commit again. Usual causes: a date that isn't `YYYY-MM-DD`, an `hour` that
+doesn't start with a 24-hour time, two rows sharing a `ref` in the same year, or an empty required
+cell.
+
+**The sessions are in the wrong order on a day.**
+Order comes from `hour`, so check the times. A session written as `9:00` rather than `09:00` is
+rejected for this reason.
 
 **A session appears twice, or an old one won't go away.**
 You renamed a `ref` and the old files are still there. The generator lists them as orphans; delete
