@@ -33,23 +33,11 @@ collections:
     output: true
     future: true
     permalink: /:path/
-  archive:
-    output: true
-    future: true
-    permalink: /:path/
-  posts:
-    future: true
-    output: true
 
 
 defaults:
   - scope:
       type: sessions
-    values:
-      layout: session
-      bodyClass: page-sessions-single
-  - scope:
-      type: archives
     values:
       layout: session
       bodyClass: page-sessions-single
