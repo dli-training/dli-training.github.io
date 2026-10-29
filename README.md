@@ -1,22 +1,21 @@
 # DLI National Training — website editing guide
 
 The site at **<https://dli-training.github.io/>** is built from this repository with
-[Jekyll](https://jekyllrb.com/) and published automatically by GitHub Pages.
+[Jekyll](https://jekyllrb.com/) and published by GitHub Pages.
 
-This guide is written for Professional Development Committee members. You do **not** need to
-install anything — every task below can be done in the browser on GitHub.
+Every task in this guide can be done in the browser on GitHub. Nothing needs to be installed.
 
 - [How publishing works](#how-publishing-works)
-- [The three rules](#the-three-rules)
+- [Rules that matter](#rules-that-matter)
 - [Editing in your browser](#editing-in-your-browser)
-- [Adding a year's sessions from a spreadsheet](#adding-a-years-sessions-from-a-spreadsheet)
-- [The spreadsheet columns](#the-spreadsheet-columns)
+- [Adding sessions from the spreadsheet](#adding-sessions-from-the-spreadsheet)
+- [Spreadsheet columns](#spreadsheet-columns)
 - [Editing one session by hand](#editing-one-session-by-hand)
-- [Session field reference](#session-field-reference)
+- [Session fields](#session-fields)
 - [Common tasks](#common-tasks)
 - [Starting a new training year](#starting-a-new-training-year)
 - [Showing and hiding menu items](#showing-and-hiding-menu-items)
-- [Previewing the site on your own computer](#previewing-the-site-on-your-own-computer-optional)
+- [Previewing on your own computer](#previewing-on-your-own-computer)
 - [Troubleshooting](#troubleshooting)
 - [Where everything lives](#where-everything-lives)
 
@@ -24,20 +23,17 @@ install anything — every task below can be done in the browser on GitHub.
 
 ## How publishing works
 
-Every commit pushed to the **`master`** branch is picked up by GitHub Pages, which rebuilds the
-site and publishes it. There is no separate deploy step.
+Every commit pushed to **`master`** rebuilds and publishes the site. There is no separate deploy
+step, and `master` is the live site.
 
-Changes normally appear **within one to two minutes**. If you don't see your edit, give it a
-moment and then do a hard refresh (<kbd>Shift</kbd> + reload). You can watch the build status
-under the repository's **Actions** tab.
+Changes appear within one to two minutes. If you don't see yours, hard-refresh
+(<kbd>Shift</kbd> + reload) and check the **Actions** tab for a failed build.
 
-`master` is the live site, so an edit pushed to `master` is a published edit. If you want a second
-pair of eyes first, make your changes on a branch and open a pull request instead.
+To have a change reviewed first, commit it to a branch and open a pull request instead.
 
-## The three rules
+## Rules that matter
 
-**1. Everything is bilingual.** Almost every file has an English and a French twin. If you edit
-one, edit the other, or the site falls out of sync for French visitors.
+**1. Everything is bilingual.** Almost every file has an English and a French twin. Edit both.
 
 | English | French |
 | --- | --- |
@@ -45,19 +41,15 @@ one, edit the other, or the site falls out of sync for French visitors.
 | `_sessions/2025/en/1-rds.md` | `_sessions/2025/fr/1-rds.md` |
 | `2025/en/2025.md` | `2025/fr/2025.md` |
 
-The spreadsheet workflow below handles this for you — it writes both languages from one row.
+The spreadsheet writes both languages from one row, so it keeps this rule for you.
 
-**2. A session's `ref:` must match its filename.** The EN/FR toggle in the navigation builds the
-other language's address out of `archive` + `lang` + `ref`. If `_sessions/2025/en/2-update.md`
-says `ref: 1-update`, that toggle points at a page that doesn't exist.
+**2. A session's `ref` must match its filename.** The EN/FR toggle builds the other language's
+address from `archive` + `lang` + `ref`. If `_sessions/2025/en/2-update.md` says `ref: 1-update`,
+that toggle leads nowhere. The spreadsheet takes `ref` from the filename, so it cannot drift.
 
-This is easy to get wrong by copying a file and forgetting to change `ref`, and it was the cause
-of two broken toggles on the live site. The spreadsheet workflow takes `ref` straight from the
-filename, so it cannot drift.
-
-**3. The block at the top of each file is front matter.** Everything between the opening `---`
-and closing `---` is configuration, not page text. Keep both `---` lines, keep the field names
-exactly as they are, use spaces rather than tabs. Your words go *below* the closing `---`.
+**3. The block at the top of each file is front matter.** Everything between the opening `---` and
+closing `---` is configuration, not page text. Keep both `---` lines, keep the field names exactly
+as they are, and use spaces rather than tabs. Your words go below the closing `---`.
 
 ```markdown
 ---
@@ -74,93 +66,78 @@ This text, below the second `---`, is what visitors read.
 1. Open the file on GitHub — for example [`en/contact.md`](en/contact.md).
 2. Click the pencil icon (**Edit this file**).
 3. Make your change.
-4. Scroll down, write a short note in the commit message box, and click **Commit changes**.
+4. Write a short note in the commit message box and click **Commit changes**.
 5. Repeat for the French twin, unless you used the spreadsheet.
 
-GitHub also has a full editor: press <kbd>.</kbd> while viewing the repository, or change
-`github.com` to `github.dev` in the address bar.
+For several files at once, press <kbd>.</kbd> while viewing the repository, or change `github.com`
+to `github.dev` in the address bar.
 
-## Adding a year's sessions from a spreadsheet
+## Adding sessions from the spreadsheet
 
-**This is the recommended way to add a programme.** Instead of hand-writing two Markdown files
-per session, you fill in one row per session in [`_data/sessions.csv`](_data/sessions.csv) and the
-site builds the files for you — both languages, every field kept in sync.
+Add one row per session to [`_data/sessions.csv`](_data/sessions.csv) and the site writes both
+language files for you.
 
-### The browser route (no software needed)
+**In the browser:**
 
-1. Open [`_data/sessions.csv`](_data/sessions.csv) on GitHub and click the pencil icon. (You can
-   also download it, edit in Excel or Google Sheets, and upload it back — it is an ordinary CSV.)
-2. Add one row per session. See [the columns](#the-spreadsheet-columns) below.
+1. Open [`_data/sessions.csv`](_data/sessions.csv) and click the pencil icon. You can also download
+   it, edit it in Excel or Google Sheets, and upload it back — it is an ordinary CSV.
+2. Add one row per session. See [the columns](#spreadsheet-columns).
 3. Commit to `master`.
-4. A GitHub Action called **Generate session pages** runs automatically, writes the session files,
-   and commits them. The site rebuilds a minute later.
+4. The **Generate session pages** Action writes the session files and commits them. The site
+   rebuilds a minute later.
 
-Watch it under the **Actions** tab. If something in the spreadsheet is wrong — a missing date, a
-duplicated `ref`, a weight that isn't a number — the Action **fails and writes nothing**, and the
-log tells you which line and which column to fix. Nothing reaches the live site until it is valid.
+If a row is wrong, the Action fails, writes nothing, and names the line and column in its log.
+Nothing reaches the live site until the spreadsheet is valid. On a pull request the Action only
+checks the spreadsheet; it writes nothing.
 
-If you open a pull request instead of committing to `master`, the Action only checks the
-spreadsheet and reports problems; it does not write any files.
-
-### The local route
-
-If you prefer to work on your own computer, run the generator yourself:
-
-```bash
-python3 _scripts/generate_sessions.py
-```
-
-Useful options:
+**On your own computer**, run it yourself. It needs Python 3 and no libraries.
 
 | Command | What it does |
 | --- | --- |
-| `python3 _scripts/generate_sessions.py` | Build the session files from the spreadsheet |
-| `python3 _scripts/generate_sessions.py --dry-run` | Show what would change, write nothing |
+| `python3 _scripts/generate_sessions.py` | Write the session files from the spreadsheet |
+| `python3 _scripts/generate_sessions.py --dry-run` | Report what would change, write nothing |
 | `python3 _scripts/generate_sessions.py --export 2025` | Write the spreadsheet *from* an existing year |
 
-`--export` is how to get started: point it at a year that already exists and it gives you a filled-in
-spreadsheet to copy rows from. It only reads, never writes session files.
+Use `--export` to start from a year that already exists; it only reads.
 
-It needs Python 3, which macOS and Linux already have. No libraries to install.
+### Re-running it
 
-### Safe to re-run
+Re-run the generator as often as you like:
 
-Running the generator again does not undo your work:
+- A blank `description_en` / `description_fr` cell keeps the text already in the file. Adding
+  recording links after an event will not overwrite session descriptions.
+- If nothing changed, it writes nothing and says so.
+- It never deletes. If you **rename** a row's `ref`, the files under the old name stay published
+  and stay on the schedule. The generator lists them as orphans — delete the files it names.
 
-- If a row's `description_en` / `description_fr` cell is **empty**, the prose already in the file is
-  **kept**. So after the event you can paste YouTube links into the spreadsheet, re-run, and the
-  session descriptions survive untouched.
-- If nothing has changed, it writes nothing and says so.
+`_data/sessions.csv` holds the 2025 programme as a worked example.
 
-`_data/sessions.csv` currently holds the real 2025 programme, as a worked example to copy from.
-
-## The spreadsheet columns
+## Spreadsheet columns
 
 | Column | Required | What it does |
 | --- | --- | --- |
-| `archive` | yes | The year, e.g. `2026`. Decides which folder the session lands in and which schedule page lists it. |
-| `ref` | yes | Short name, e.g. `1-rds`. Becomes the filename **and** the last part of the web address, so no spaces or slashes. Must be unique within a year. |
+| `archive` | yes | The year, e.g. `2026`. Sets which folder the session lands in and which schedule lists it. |
+| `ref` | yes | Short name, e.g. `1-rds`. Becomes the filename and the end of the web address, so no spaces or slashes. Unique within a year. |
 | `date` | yes | `YYYY-MM-DD`. Sessions are grouped under a heading per date. |
-| `hour` | yes | Free text shown beside the title, e.g. `13:00 ET`. Include the timezone. |
+| `hour` | yes | Free text beside the title, e.g. `13:00 ET`. Include the timezone. |
 | `weight` | yes | A whole number. Sort order within the day; lower comes first. |
 | `title_en` / `title_fr` | yes | The session title in each language. |
 | `category` | no | Defaults to `presentation`, which is what puts a session on the schedule. |
-| `presenter_en` / `presenter_fr` | no | `Name (Institution), Name (Institution)`. Separate per language because institutions are translated — *Statistics Canada* / *Statistique Canada*. |
-| `session_link` | no | Zoom join URL. Not displayed at present — see the note in the field reference. |
-| `youtube_link` | no | Adds a "Watch on YouTube" button to the session page, and a Recording tag on the schedule. |
-| `slides` | no | One URL, or several separated by `\|`. Listed as *Document #1*, *#2*, …, and adds a Materials tag on the schedule. |
+| `presenter_en` / `presenter_fr` | no | `Name (Institution), Name (Institution)`. Separate per language, because institutions are translated. |
+| `session_link` | no | Zoom join URL. Not displayed — see [Session fields](#session-fields). |
+| `youtube_link` | no | Adds a "Watch on YouTube" button, and a Recording tag on the schedule. |
+| `slides` | no | One URL, or several separated by `\|`. Listed as *Document #1*, *#2*, …, and adds a Materials tag. |
 | `room` | no | In-person location. |
 | `location` | no | URL the room name links to, e.g. a campus map. |
-| `description_en` / `description_fr` | no | The session description. Leave blank to keep whatever is already in the file. Put `<!--more-->` where the excerpt shown on the schedule should stop. |
+| `description_en` / `description_fr` | no | The session description. Blank keeps what is already in the file. Put `<!--more-->` where the excerpt shown on the schedule should stop. |
 
-Long descriptions make a cell span several lines in the raw file. That is normal CSV and
-spreadsheets handle it correctly.
+A long description makes its cell span several lines in the raw file. That is valid CSV and
+spreadsheets read it correctly.
 
 ## Editing one session by hand
 
-For a one-off tweak, editing the Markdown directly is still perfectly fine — the generator only
-touches rows that are in the spreadsheet. Just remember rules 1 and 2: change both languages, and
-leave `ref` matching the filename.
+The generator only touches rows in the spreadsheet, so editing the Markdown directly is fine for a
+one-off change. Apply rules 1 and 2: change both languages, and keep `ref` matching the filename.
 
 Each session is two files with the same name:
 
@@ -172,42 +149,42 @@ _sessions/2025/fr/1-rds.md
 The filename becomes the address: `_sessions/2025/en/1-rds.md` is published at
 `https://dli-training.github.io/2025/en/1-rds/`.
 
-Between the two files, only `title`, `lang` and the description should differ. Everything else —
-`date`, `hour`, `weight`, `ref`, `archive`, `category`, links — must match exactly.
+Only `title`, `lang` and the description differ between the two. Everything else — `date`, `hour`,
+`weight`, `ref`, `archive`, `category`, links — must match exactly.
 
-## Session field reference
+## Session fields
 
 | Field | What it does |
 | --- | --- |
-| `title` | Heading and schedule link text. Quoted, because titles contain `\|`, `:` and apostrophes, which are meaningful in YAML. |
+| `title` | Heading and schedule link text. Quote it: titles contain `\|`, `:` and apostrophes, which are meaningful in YAML. |
 | `date` | `YYYY-MM-DD`. Groups sessions under a date heading. |
-| `hour` | Free text beside the title. Not parsed, so include the timezone. |
-| `weight` | Sort order within the day. Lower first. Must be a bare number, not quoted. |
-| `lang` | `en` or `fr`. The one field that differs between the pair. |
-| `ref` | Links the EN and FR versions. **Must equal the filename** without `.md`. |
+| `hour` | Free text beside the title. Include the timezone. |
+| `weight` | Sort order within the day. Lower first. A bare number, not quoted. |
+| `lang` | `en` or `fr`. |
+| `ref` | Links the EN and FR versions. Must equal the filename without `.md`. |
 | `category` | Must be `presentation` to appear on the schedule and for the language toggle to work. |
-| `archive` | The year, **unquoted** (`2025`, never `"2025"`). Decides which schedule and archive page lists it. |
+| `archive` | The year, unquoted (`2025`, never `"2025"`). Sets which schedule and archive page list it. |
 | `presenter` | A bracketed list: `[Name (Institution), Name (Institution)]`. |
 | `slides` | One URL, or a list. Listed as *Document #1*, *#2*, … |
-| `youtube_link` | Adds a "Watch on YouTube" link. |
-| `room` / `location` | In-person location, and a URL for it. Only shown if `room` is set. |
-| `session_link` | Zoom URL. **Currently not displayed** — the "JOIN ZOOM SESSION" button is commented out in `_layouts/session.html`. Uncomment it for a live event. |
+| `youtube_link` | Adds a "Watch on YouTube" button. |
+| `room` / `location` | In-person location, and a URL for it. Shown only if `room` is set. |
+| `session_link` | Zoom URL. Not displayed: the "JOIN ZOOM SESSION" button is commented out in `_layouts/session.html`. Uncomment it for a live event. |
 
-The labels ("Presented by:", "Watch on YouTube", "Recording", …) are not in the session files — they
-are translated once in `_data/menus.yml`.
+Labels such as "Presented by:" and "Watch on YouTube" are translated once in `_data/menus.yml`, not
+in the session files.
 
-### How sessions reach the schedule
+### How a session reaches the schedule
 
-Sessions are not listed by hand. The Schedule page (`en/program.md`) and each year's archive page
-(`2025/en/2025.md`) declare what they want:
+The Schedule page (`en/program.md`) and each year's archive page (`2025/en/2025.md`) declare what
+they want:
 
 ```yaml
 category: presentation
 archive: 2025
 ```
 
-The page collects every session whose `lang`, `category` **and** `archive` match its own, groups
-them by `date`, and orders them by `weight`.
+The page lists every session whose `lang`, `category` **and** `archive` match its own, grouped by
+`date` and ordered by `weight`. Nothing is listed by hand.
 
 ## Common tasks
 
@@ -223,8 +200,8 @@ Sam Read : <sread@stfx.ca>
 Sandra Sawchuk : <sandra.sawchuk@msvu.ca>
 ```
 
-Two trailing spaces at the end of a line force a line break — that is why each name sits on its own
-line. Without them Markdown runs the names into one paragraph.
+End each name's line with two spaces. That forces a line break; without it Markdown runs the names
+into one paragraph.
 
 ### Change the text on a page
 
@@ -234,7 +211,7 @@ The main pages are in `en/` and `fr/`:
 | --- | --- |
 | `index.md` | Home |
 | `program.md` | Schedule |
-| `archive.md` | Event Archive — the year cards are generated; see below |
+| `archive.md` | Event Archive — the year cards are generated |
 | `resources.md` | Resources |
 | `contact.md` | Contact |
 | `register.md` | Registration |
@@ -245,102 +222,89 @@ The main pages are in `en/` and `fr/`:
 | `bio.md` | Presenter bios |
 | `404.md` | Page-not-found |
 
-Several contain large blocks wrapped in `<!-- ... -->`. That is HTML comment syntax: the text stays
-in the file but is hidden from visitors, which is how past announcements are parked for reuse. To
-bring a block back, delete the `<!--` before it and the `-->` after it. To retire a block, wrap it
-the same way rather than deleting it.
+Several contain blocks wrapped in `<!-- ... -->`, which hides them from visitors while keeping the
+text in the file. To bring a block back, delete the `<!--` before it and the `-->` after it. To
+retire one, wrap it the same way rather than deleting it.
 
-Watch for the nested and unclosed comment markers already in `en/program.md` — if text there
-appears or disappears unexpectedly, a stray `<!--` is the likely cause.
+`en/program.md` contains nested and unclosed comment markers. If text there appears or disappears
+unexpectedly, look for a stray `<!--`.
 
 ### Add slides or recordings after the event
 
-Put the links in the `slides` and `youtube_link` columns of the spreadsheet and commit. Blank
-description cells mean the existing session text is preserved.
+Fill in the `slides` and `youtube_link` columns and commit. Leave the description cells blank to
+keep the existing session text.
 
-To do it by hand instead, edit both language files:
+By hand, edit both language files:
 
 ```yaml
 slides: https://docs.google.com/presentation/d/FILE_ID/edit
 youtube_link: https://youtu.be/VIDEO_ID
 ```
 
-Check that Google Drive sharing allows anyone with the link to view.
+Set Google Drive sharing to allow anyone with the link to view.
 
-### How a session is displayed
+### Where session content appears
 
-The schedule and each year's archive page share one template
-(`_layouts/sessions.html`), which lays the sessions out as an agenda: the time
-in its own column, then the title, presenters and the opening of the
-description. Small **Recording** and **Materials** tags appear automatically on
-any session that has a `youtube_link` or `slides`, so a past year shows at a
-glance what came out of it.
+The Schedule and each year's archive page use `_layouts/sessions.html`, which lists sessions as an
+agenda: time, title, presenters, and the description down to `<!--more-->`. **Recording** and
+**Materials** tags appear on any session with a `youtube_link` or `slides`.
 
-An individual session page (`_layouts/session.html`) is one column: date and
-time, title, presenters, then the recording as a button with any materials
-listed beside it, and the full description below. A session with no description
-simply ends after its details.
+An individual session page uses `_layouts/session.html`: date and time, title, presenters, the
+recording as a button with any materials beside it, then the full description.
 
-Styling for the two lives in `_sass/components/_schedule.scss` and
-`_sass/pages/sessions/_page-sessions-single.scss`.
+Styling is in `_sass/components/_schedule.scss` and `_sass/pages/sessions/_page-sessions-single.scss`.
 
 ### The Event Archive page
 
-`en/archive.md` and `fr/archive.md` no longer list the years by hand. The page renders one card per
-training year, newest first, reading the years straight from the session files and showing how many
-sessions each year lists. A new year appears as soon as its sessions exist.
+The page builds one card per training year from the session files, newest first, with the number of
+sessions in each. A new year appears as soon as its sessions exist.
 
-Anything you type in the body of those two files appears above the cards, so you can add an
-introductory line. The card styling lives in `_sass/components/_archive-cards.scss` and the page
-template in `_layouts/archive.html`.
+Text typed in the body of `en/archive.md` or `fr/archive.md` appears above the cards. The template
+is `_layouts/archive.html` and the styling `_sass/components/_archive-cards.scss`.
 
 ### Update the date box on the home page
 
-Dates and the registration button come from `_data/contact.yml`. The box itself is currently
-**switched off** — it lives in `_layouts/home.html` inside a `<!--- ... --->` comment. Remove those
-markers to switch it back on.
+The dates and registration button come from `_data/contact.yml`. The box is currently switched off:
+it sits inside a `<!--- ... --->` comment in `_layouts/home.html`. Remove those markers to show it.
 
 ### Change the contact email
 
-`email:` in `_config.yml` feeds the "Email us!" link.
+Edit `email:` in `_config.yml`, which feeds the "Email us!" link.
 
-> After editing `_config.yml`, a local preview must be stopped and restarted — Jekyll does not
-> reload that file automatically. This does not affect GitHub Pages.
+> After editing `_config.yml`, stop and restart a local preview. Jekyll does not reload that file.
+> This does not affect GitHub Pages.
 
 ## Starting a new training year
 
 Using 2026 as the example:
 
 1. **Add the sessions** to [`_data/sessions.csv`](_data/sessions.csv) with `archive` set to `2026`,
-   and commit. The generator writes the session files **and creates the year's two archive pages**
-   (`2026/en/2026.md`, `2026/fr/2026.md`) for you.
+   and commit. This writes the session files and creates `2026/en/2026.md` and `2026/fr/2026.md`.
 
-2. **Point the Schedule page at the new year.** In `en/program.md` and `fr/program.md`, change
-   `archive: 2025` to `archive: 2026`.
+2. **Point the Schedule at the new year.** In `en/program.md` and `fr/program.md`, change
+   `archive: 2025` to `archive: 2026`. This is what moves the sessions onto the Schedule page.
 
-3. **Bump the year in `_config.yml`:**
+3. **Set the current year** in `_config.yml`:
 
    ```yaml
    current_year: 2026
    ```
 
-   This one setting tells the site which year is live. Sessions in the current year link back to
-   the Schedule; earlier years link back to their own archive page. Nothing else needs a per-year
-   entry — the breadcrumbs build their links from each session's own `archive` value.
+   Sessions in this year link back to the Schedule; earlier years link back to their own archive
+   page.
 
-   The **Event Archive** page needs nothing: it builds its year cards from the session files, so
-   the new year appears there on its own.
+4. **Update the home page**: the dates in `_data/contact.yml`, and the announcement text in
+   `en/index.md` and `fr/index.md`.
 
-4. **Refresh the home page**: the dates in `_data/contact.yml`, and the announcement text in
-   `en/index.md` / `fr/index.md`.
+5. **Re-enable the menu items** for an active event — Schedule, Registration, Feedback. See below.
 
-5. **Re-enable the menu items** you need for an active event — Schedule, Registration, Feedback.
-   See below.
+The Event Archive page needs no change. Earlier years keep their pages whether or not their rows
+are still in the spreadsheet.
 
 ## Showing and hiding menu items
 
-The navigation is defined in `_data/menus.yml`. Between events most items are commented out with
-`#`. The live menu is whichever `- title:` / `url:` pairs are **not** commented:
+The navigation is in `_data/menus.yml`. Between events most items are commented out with `#`. The
+live menu is whichever `- title:` / `url:` pairs are not commented:
 
 ```yaml
   links:
@@ -351,12 +315,12 @@ The navigation is defined in `_data/menus.yml`. Between events most items are co
 ```
 
 To show an item, remove the `#` from both of its lines and line the indentation up with its
-neighbours. To hide one, add `#` to both lines. YAML is strict about indentation — spaces only,
-never tabs. Do it in both the `en` and `fr` blocks. `footer:` lower down controls the footer links.
+neighbours. To hide one, add `#` to both lines. Do it in both the `en` and `fr` blocks. YAML needs
+spaces, never tabs. `footer:` lower down controls the footer links.
 
-## Previewing the site on your own computer (optional)
+## Previewing on your own computer
 
-Only needed for larger changes. You will need [Ruby](https://www.ruby-lang.org/) and Git.
+Needed only for larger changes. Requires [Ruby](https://www.ruby-lang.org/) and Git.
 
 ```bash
 git clone git@github.com:dli-training/dli-training.github.io.git
@@ -365,61 +329,65 @@ bundle install
 bundle exec jekyll serve --livereload
 ```
 
-Then open <http://localhost:4000>. Pages rebuild as you save, except `_config.yml`, which needs a
+Open <http://localhost:4000>. Pages rebuild as you save, except `_config.yml`, which needs a
 restart.
 
-A build prints a long list of Sass deprecation warnings from the bundled Bootstrap. These are
-harmless — the build succeeded if it ends with `done in N seconds`.
+The build prints Sass deprecation warnings from the bundled Bootstrap. Ignore them; the build
+succeeded if it ends with `done in N seconds`.
 
-Don't commit the `_site/` folder; it is generated output and is already in `.gitignore`.
+Do not commit `_site/`. It is generated output and is already in `.gitignore`.
 
 ## Troubleshooting
 
 **My change isn't on the live site.**
-Wait two minutes, then hard-refresh. Check the **Actions** tab for a failed build, and confirm you
+Wait two minutes and hard-refresh. Check the **Actions** tab for a failed build, and confirm you
 committed to `master`.
 
 **The spreadsheet Action failed.**
-Open the run under **Actions** and read the error — it names the line and the column. Nothing was
-written, so fix the CSV and commit again. Common causes: a date that isn't `YYYY-MM-DD`, a `weight`
-that isn't a number, two rows sharing a `ref` in the same year, an empty required cell.
+Open the run under **Actions** and read the error; it names the line and column. Nothing was
+written. Fix the CSV and commit again. Usual causes: a date that isn't `YYYY-MM-DD`, a `weight`
+that isn't a number, two rows sharing a `ref` in the same year, or an empty required cell.
+
+**A session appears twice, or an old one won't go away.**
+You renamed a `ref` and the old files are still there. The generator lists them as orphans; delete
+the files it names.
 
 **A new session isn't on the schedule.**
 Check `category: presentation`; `archive:` matching the schedule page's `archive:` and unquoted;
-`lang:` matching the page you are looking at; and `date:` in `YYYY-MM-DD` form.
+`lang:` matching the page you are viewing; `date:` in `YYYY-MM-DD` form.
 
-**The EN/FR toggle on a session page gives a 404.**
+**The EN/FR toggle gives a 404.**
 The twin file is missing, or its `ref:` does not match the filename. See rule 2.
 
 **A page shows raw text, or the layout collapses.**
-Front matter is broken. Check both `---` lines are present, no tabs, and that any value containing
-a colon is wrapped in double quotes.
+Front matter is broken. Check that both `---` lines are present, that there are no tabs, and that
+any value containing a colon is wrapped in double quotes.
 
 **Text I wrote isn't appearing.**
 It is probably inside an HTML comment. Search the file for `<!--`.
 
 **The whole build fails after my edit.**
-A YAML error in `_config.yml` or `_data/` can stop the build. Revert the last commit (open it on
-GitHub and click **Revert**), then reapply the change more carefully.
+A YAML error in `_config.yml` or `_data/` stops the build. Open the commit on GitHub, click
+**Revert**, then reapply the change more carefully.
 
 ## Where everything lives
 
 ```
-├── _config.yml          Site title, email, current_year. Restart local preview after editing.
+├── _config.yml          Site title, email, current_year
 ├── _data/
-│   ├── sessions.csv     The editable programme — one row per session
-│   ├── menus.yml        Navigation, footer, and the labels used on session pages
+│   ├── sessions.csv     The programme — one row per session
+│   ├── menus.yml        Navigation, footer, and session page labels
 │   └── contact.yml      Home page date box and registration button
 ├── _scripts/
 │   └── generate_sessions.py   Turns sessions.csv into session pages
 ├── .github/workflows/
-│   └── generate-sessions.yml  Runs that script automatically when the CSV changes
-├── _sessions/           Generated session content, by year then language
+│   └── generate-sessions.yml  Runs that script when the CSV changes
+├── _sessions/           Session content, by year then language
 ├── 2020/ … 2025/        One archive landing page per year, per language
 ├── en/, fr/             The main pages
-├── _layouts/            Page templates (archive.html builds the year cards)
-├── _includes/           Reused fragments (header, breadcrumbs, menus, date formatting)
-├── _sass/               Styles, including bundled Bootstrap and the archive cards
+├── _layouts/            Page templates
+├── _includes/           Reused fragments (header, breadcrumbs, menus, dates)
+├── _sass/               Styles, including bundled Bootstrap
 ├── assets/              CSS, JavaScript, fonts
 ├── images/              Logos and illustrations
 └── _site/               Generated output — never edited, never committed
@@ -427,12 +395,12 @@ GitHub and click **Revert**), then reapply the change more carefully.
 
 Files and folders starting with `_` belong to Jekyll and are not published as pages.
 
-### Known gaps
+### Known gap
 
 Six 2020 sessions (`0-dli-update`, `1-pumf`, `2-dmp`, `2-lightning`, and the two
-`data-visualization` workshops) have no `date:` or `archive:` in their front matter. Their pages
-exist, but they are not listed on the 2020 archive page and their EN/FR toggles do not resolve.
-Fixing this means adding the correct dates, which are not recorded anywhere in the repository.
+`data-visualization` workshops) have no `date:` or `archive:`. Their pages exist, but they are not
+listed on the 2020 archive page and their EN/FR toggles do not resolve. Fixing this needs the real
+dates, which are not recorded anywhere in the repository.
 
 ---
 
