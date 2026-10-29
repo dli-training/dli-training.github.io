@@ -1,0 +1,64 @@
+# Turns _data/sessions.csv into session pages, so committee members can add a
+# year's programme from a spreadsheet in the browser without running anything
+# locally.
+#
+#   - Edit _data/sessions.csv on GitHub and commit to master.
+#   - This workflow regenerates _sessions/<year>/{en,fr}/*.md and commits them.
+#   - GitHub Pages then rebuilds the site from that commit, as it does for any push.
+#
+# On a pull request the CSV is only checked, never committed, so mistakes show up
+# as a failed check before anything is merged.
+#
+# This does not loop: the trigger below watches only the CSV and the script, and
+# the commit this workflow makes touches neither.
+name: Generate session pages
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '_data/sessions.csv'
+      - '_scripts/generate_sessions.py'
+  pull_request:
+    paths:
+      - '_data/sessions.csv'
+      - '_scripts/generate_sessions.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Check the CSV (pull requests only)
+        if: github.event_name == 'pull_request'
+        run: python3 _scripts/generate_sessions.py --dry-run
+
+      - name: Generate session pages
+        if: github.event_name != 'pull_request'
+        run: python3 _scripts/generate_sessions.py
+
+      - name: Commit the generated pages
+        if: github.event_name != 'pull_request'
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "The generated pages already match the CSV; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # The generator only ever writes under _sessions/ and <year>/, so in a
+          # clean CI checkout these are the only paths that can have changed.
+          git add -A
+          git commit -m "Regenerate session pages from _data/sessions.csv"
+          git push

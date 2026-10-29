@@ -1,12 +1,11 @@
 ---
-title: S1 | Rich Data Services (RDS)
+title: "S1 | Rich Data Services (RDS)"
 date: 2025-05-06
 hour: 13:00 ET
 weight: 1
 lang: fr
 ref: 1-rds
-presenter: [ ]
-length:
+presenter: []
 category: presentation
 archive: 2025
 session_link: https://zoom.us/j/91339785636
