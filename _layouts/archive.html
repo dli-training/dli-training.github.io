@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="container pb-3 pt-3 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12">
+            <div class="session session-single">
+                <h1 class="title">{{ page.title }}</h1>
+                <div class="content">{{ content }}</div>
+
+                {%- comment -%}
+                The years below are read from the session files themselves, newest
+                first, so a year appears here as soon as its sessions exist. There is
+                no list to keep up to date.
+
+                Each card links to that year's landing page, and shows how many
+                sessions that page lists.
+                {%- endcomment -%}
+                {% assign in_lang = site.sessions | where: "lang", page.lang %}
+                {% assign years = in_lang | map: "archive" | compact | uniq | sort | reverse %}
+                {% assign menu = site.data.menus.languages | where: "language", page.lang | first %}
+
+                <ul class="archive-cards">
+                {% for year in years %}
+                  {% assign year_page = site.pages | where: "ref", year | where: "lang", page.lang | first %}
+                  {% assign listed = in_lang | where: "archive", year | where: "category", "presentation" %}
+                  <li class="archive-card">
+                    <a href="{% if year_page %}{{ year_page.url }}{% else %}{{ site.url }}/{{ year }}/{{ page.lang }}/{{ year }}/{% endif %}">
+                      <span class="archive-card-year">{{ year }}</span>
+                      <span class="archive-card-title">{{ year_page.title | default: year }}</span>
+                      <span class="archive-card-meta">{{ listed | size }} {{ menu.sessions-label }}</span>
+                    </a>
+                  </li>
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

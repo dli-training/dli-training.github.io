@@ -11,6 +11,7 @@ languages:
   workshop: "Back to workshops"
   w-url: /workshop/
   archive: "Back"
+  sessions-label: "sessions"
   presenter: "Presented by: "
   time-commit: "Length: "
   type: "Session type: "
@@ -46,6 +47,7 @@ languages:
   workshop: "Retour au séminaire"
   w-url: /workshop/
   archive: "Retour"
+  sessions-label: "sessions"
   presenter: "Session présentée par : "
   time-commit: "Durée : "
   type: "Type de session : "

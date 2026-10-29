@@ -1,6 +1,6 @@
 ---
 title: Archive des événements
-layout: page
+layout: archive
 description:
 #intro_image: ""
 #intro_image_absolute: true
@@ -9,10 +9,6 @@ lang: fr
 ref: archive
 ---
 
-
-### [Formation nationale 2020]({% link 2020/fr/2020.md %})
-### [Formation nationale 2021]({% link 2021/fr/2021.md %})
-### [Formation nationale 2022]({% link 2022/fr/2022.md %})
-### [Formation nationale 2023]({% link 2023/fr/2023.md %})
-### [Formation nationale 2024]({% link 2024/fr/2024.md %})
-### [Formation nationale 2025]({% link 2025/fr/2025.md %})
+<!-- Tout texte écrit ici apparaît au-dessus des cartes.
+     Les cartes sont générées à partir des fichiers de séances,
+     il n'y a donc aucune liste à mettre à jour. -->
