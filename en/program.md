@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Program
 layout: sessions
 intro_image: #"images/pixeltrue-teaching-1.svg"
 intro_image_absolute: true

@@ -29,7 +29,7 @@ languages:
   #    url: /en/local/
   #  - title: "Registration"
   #    url: /en/register/
-    - title: "Schedule"
+    - title: "Program"
       url: /en/program/
   #  - title: "Workshops"
   #    url: /en/workshop/
